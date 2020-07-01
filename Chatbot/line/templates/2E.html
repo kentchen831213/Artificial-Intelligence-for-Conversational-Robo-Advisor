@@ -1,0 +1,511 @@
+﻿<!DOCTYPE html>
+<script runat="server">
+</script>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" href=".\statics\all.css">
+    <script src="./statics/jquery.js"></script>
+    <script src="./statics/all.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"
+            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+            crossorigin="anonymous"></script>
+    <!--Import materialize.css-->
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style>
+        .button:link, .button:visited {
+            font-family: "微軟正黑體";
+            background-color: white;
+            color: #60646c;
+            padding: 16px 25px;
+            text-align: center;
+            font-size: large;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+        }
+
+        /*    .button:hover, .button:active {
+            background-color: #0063b5;
+        }*/
+
+        .submit {
+            font-family: "微軟正黑體";
+            background-color: #5b5b5b;
+            color: white;
+            padding: 10px 15px;
+            text-align: center;
+            font-size: large;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 20px;
+        }
+
+            .submit:hover, .submit:active {
+                background-color: #0063b5;
+            }
+
+        #form tr td {
+            padding: 5px;
+        }
+
+        label {
+            font-family: Microsoft JhengHei;
+            font-weight: bold;
+        }
+
+        [type="radio"]:checked,
+        [type="radio"]:not(:checked) {
+            position: absolute;
+            left: -9999px;
+        }
+
+            [type="radio"]:checked + label,
+            [type="radio"]:not(:checked) + label {
+                position: relative;
+                padding-left: 28px;
+                cursor: pointer;
+                line-height: 20px;
+                display: inline-block;
+                color: #666;
+            }
+
+                [type="radio"]:checked + label:before,
+                [type="radio"]:not(:checked) + label:before {
+                    content: '';
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    width: 18px;
+                    height: 18px;
+                    border: 1px solid #ddd;
+                    border-radius: 100%;
+                    background: #fff;
+                }
+
+                [type="radio"]:checked + label:after,
+                [type="radio"]:not(:checked) + label:after {
+                    content: '';
+                    width: 12px;
+                    height: 12px;
+                    background: #91c2f9;
+                    position: absolute;
+                    top: 4px;
+                    left: 4px;
+                    border-radius: 100%;
+                    -webkit-transition: all 0.2s ease;
+                    transition: all 0.2s ease;
+                }
+
+                [type="radio"]:not(:checked) + label:after {
+                    opacity: 0;
+                    -webkit-transform: scale(0);
+                    transform: scale(0);
+                }
+
+                [type="radio"]:checked + label:after {
+                    opacity: 1;
+                    -webkit-transform: scale(1);
+                    transform: scale(1);
+                }
+
+        .auto-style1 {
+            width: 923px;
+        }
+
+        .auto-style5 {
+            text-align: right;
+            width: 10px;
+        }
+
+        .auto-style7 {
+            text-decoration: underline;
+        }
+
+        .auto-style11 {
+            float: right;
+        }
+
+        .auto-style20 {
+            width: 414px;
+            height: 140px;
+        }
+
+        .auto-style22 {
+            text-align: center;
+        }
+
+        .auto-style23 {
+            width: 85px;
+        }
+    </style>
+</head>
+
+<body>
+    <table style="width: 100%">
+        <tr>
+            <td class="auto-style1">
+                <a href="/en">
+                    <img src="./img/logo.png" style="width: 180px" />
+                </a>
+            </td>
+            <td class="auto-style22">
+                <strong>
+                    <em>
+                        <a href="/" class="button" style="height: 1px; width: 95px;">Home</a><br />
+                        <span class="auto-style7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span>
+                    </em>
+                </strong>
+            </td>
+
+            <td class="auto-style22">
+                <strong>
+                    <em>
+                        <a href="#" class="button" style="height: 1px; width: 95px;">Portfolio</a><br />
+                        <span class="auto-style7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+                    </em>
+                </strong>
+            </td>
+            <td class="auto-style22">
+                <strong>
+                    <em>
+                        <a href="/chat_en" class="button" style="height: 1px; width: 95px;">ChatBot</a><br />
+                        <span class="auto-style7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+                    </em>
+                </strong>
+            </td>
+            <td class="auto-style22">
+                <strong>
+                    <em>
+                        <span class="auto-style5">
+                            <span class="auto-style7">
+                                <a href="/portfolio" class="button" style="height: 1px; width: 95px;">中文</a><br />
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            </span>
+                        </span>
+                    </em>
+                </strong>
+            </td>
+            <td class="auto-style23">
+                <a href="https://www.facebook.com/aiwisfin/" target="_blank">
+                    <img src="./img/facebook.png" style="width: 35px; " class="auto-style11" />
+                </a>
+                <strong>
+                    <img id="line" src="./img/LINE.png" style="width: 35px; " class="auto-style11" /></a>
+                </strong>
+                <img id="line2" src="./img/line2.png" hidden="hidden">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" style="padding-left: 350px">
+                <form method="post" action="./content.aspx" id="form1">
+                    <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="TkXM4+XO1WlpmxjBIo2qvs6jPcHPWWE9xgYKtN9uPMKid+10pXFfAa67oY4ETyb0FNs4Qz+42wOZesnbeZnJTk8YJL5Km/a1y7FVjYjd6UTJrWZF8EFpPrWfGSz+Jb7C25KJoQrE8QisFH8Z3sx/rjiH31ZVuVXnOCgaIDtpWLomaBJF1cThxmrnxDW9RhF5Rcl6UT0gy0sT7MSxcDqJUdU3PpBMb0P56AVNm1j5PqwjblhYP2pb+KmEXQMyb5Oeto6371t4PMwitoOnLOWSwM37RjFeG3ciWuZjpLvTbXkOzmaAGaNVLrk3GX/y+cnXMZcsHYTfSB15Y0DGyuj+jO437fS35P6okm18Gr2ldzq9eSoGem8ot7P+uII6FB2jgg9pi0wXbvfq8kRJ1IMh5Q0indyCQGuz/5p/q5ZC4lr4z8I+ykIMmOVRDqxd/vsfMwuKGwm5JQ3UuBuM93H0QVeRW5US5ffJQh4CMXZh5XL+GmoQWrSwmVSwm4hLHM5CA4PDJOZUwMDN19h1gB4lzw==">
+                    <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="65E7F3AF">
+                    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="9nir0ugAJOFxuLelJUEeUIvQB3QBE7EPiyPwhktUyvaa50oVyyCn4g0qjn1tJnTfN3hm4UG3rAhOCVBGgo0ncUB1huNUjuJIFIvPJB8pqdc=">
+
+                    <table id="form">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <label>1. I plan to begin withdrawing money from my investments in:</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList1">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList1_0" type="radio" name="RadioButtonList1" value="0">
+                                                    <label for="RadioButtonList1_0">Less than 3 years</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList1_1" type="radio" name="RadioButtonList1" value="1">
+                                                    <label for="RadioButtonList1_1">3–5 years</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList1_2" type="radio" name="RadioButtonList1" value="2">
+                                                    <label for="RadioButtonList1_2">6–10 years</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList1_3" type="radio" name="RadioButtonList1" value="3">
+                                                    <label for="RadioButtonList1_3">11 years or more</label>
+                                                </td>
+
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label>2. Once I begin withdrawing funds from my investments, I plan to spend all of the funds in:</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList2">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList2_0" type="radio" name="RadioButtonList2" value="0">
+                                                    <label for="RadioButtonList2_0">Less than 2 years</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList2_1" type="radio" name="RadioButtonList2" value="1">
+                                                    <label for="RadioButtonList2_1">2–5 years</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList2_2" type="radio" name="RadioButtonList2" value="2">
+                                                    <label for="RadioButtonList2_2">6–10 years</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList2_3" type="radio" name="RadioButtonList2" value="3">
+                                                    <label for="RadioButtonList2_3">11 years or more</label>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label>3. I would describe my knowledge of investments as:</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList3">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList3_0" type="radio" name="RadioButtonList3" value="0">
+                                                    <label for="RadioButtonList3_0">None</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList3_1" type="radio" name="RadioButtonList3" value="1">
+                                                    <label for="RadioButtonList3_1">Limited</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList3_2" type="radio" name="RadioButtonList3" value="2">
+                                                    <label for="RadioButtonList3_2">Good</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList3_3" type="radio" name="RadioButtonList3" value="3">
+                                                    <label for="RadioButtonList3_3">Extensive</label>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label>4. When I invest my money, I am:</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList4">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList4_0" type="radio" name="RadioButtonList4" value="0">
+                                                    <label for="RadioButtonList4_0">Most concerned about my investment losing value</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList4_1" type="radio" name="RadioButtonList4" value="1">
+                                                    <label for="RadioButtonList4_1">Equally concerned about my investment losing or gaining value</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList4_2" type="radio" name="RadioButtonList4" value="2">
+                                                    <label for="RadioButtonList4_2">Most concerned about my investment gaining value</label>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label>5. Select the investments you currently own :</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList5">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList5_0" type="radio" name="RadioButtonList5" value="0">
+                                                    <label for="RadioButtonList5_0">Bonds and/or bond funds</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList5_1" type="radio" name="RadioButtonList5" value="1">
+                                                    <label for="RadioButtonList5_1">Stocks and/or stock funds</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList5_2" type="radio" name="RadioButtonList5" value="2">
+                                                    <label for="RadioButtonList5_2">
+                                                        International securities and / or international funds
+                                                    </label>
+                                                </td>
+                                            </tr>
+
+
+
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+
+
+
+
+                            <tr>
+                                <td>
+                                    <label>
+                                        6. Imagine that in the past three months, the overall
+                                        stock market lost 25% of its value. An individual stock
+                                        investment you own also lost 25% of its value. What would
+                                        you do?
+                                    </label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList6">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList6_0" type="radio" name="RadioButtonList6" value="0">
+                                                    <label for="RadioButtonList6_0">Sell all of my shares</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList6_1" type="radio" name="RadioButtonList6" value="1">
+                                                    <label for="RadioButtonList6_1">Sell some of my shares</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList6_2" type="radio" name="RadioButtonList6" value="2">
+                                                    <label for="RadioButtonList6_2">Do nothing</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList6_3" type="radio" name="RadioButtonList6" value="3">
+                                                    <label for="RadioButtonList6_3">Buy more shares</label>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+
+
+
+
+
+                            <tr>
+                                <td>
+                                    <label>
+                                        7.Review the chart below.<br />
+                                        We&#39;ve outlined the most likely best-case and worst-case annual returns of five hypothetical investment plans.
+                                        Which range of possible outcomes is most acceptable to
+                                        you?
+                                    </label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table id="RadioButtonList7">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <input id="RadioButtonList7_0" type="radio" name="RadioButtonList7" value="0">
+                                                    <label for="RadioButtonList7_0">Plan A</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList7_1" type="radio" name="RadioButtonList7" value="1">
+                                                    <label for="RadioButtonList7_1">Plan B</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList7_2" type="radio" name="RadioButtonList7" value="2">
+                                                    <label for="RadioButtonList7_2">Plan C</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList7_3" type="radio" name="RadioButtonList7" value="3">
+                                                    <label for="RadioButtonList7_3">Plan D</label>
+                                                </td>
+                                                <td>
+                                                    <input id="RadioButtonList7_4" type="radio" name="RadioButtonList7" value="4">
+                                                    <label for="RadioButtonList7_4">Plan E</label>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+
+
+
+
+
+                            <tr>
+                                <td>
+                                    <img src="./img/TableE.png" class="auto-style20" />
+                                </td>
+                            </tr>
+
+
+
+
+
+
+
+                            <tr>
+                                <td class="auto-style22">
+                                    <input type="button" name="Button1" value="Send" id="Button1" class="submit" onclick="myFunction()" />
+                                </td>
+                            </tr>
+
+
+
+                            <tr>
+                                <td class="auto-style22">
+                                    <img id="bigpic" src="./img/blank.png" hidden="hidden">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="padding-left: 200px"></td>
+            <td style="padding-left: 200px">
+
+                &nbsp;
+            </td>
+            <td style="padding-left: 200px">
+
+                &nbsp;
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+
+    <script>
+        $(line).click(function () {
+            $(line2).toggle();
+        });
+    </script>
+</body>
+</html>

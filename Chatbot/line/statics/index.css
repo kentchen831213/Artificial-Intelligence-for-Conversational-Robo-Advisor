@@ -1,0 +1,237 @@
+
+.logo {
+    height: 160px;
+}
+
+.brand-logo {
+    height: 80px;
+    position: relative;
+    top: 40px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+#lang {
+    position: absolute;
+    bottom: 60px;
+    width: 100%;
+}
+
+#lang_btn {
+    font-size: 14px;
+    font-weight: 600;
+    height: 48px;
+}
+
+.button-collapse i {
+    margin: 36px;
+    font-size: 30px;
+    color: white;
+}
+
+#chatbox {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+#input_box {
+    height: 60px;
+}
+
+.card.white {
+    box-shadow: initial;
+    margin: 20px;
+    top: 20px;
+    margin-bottom: 0px;
+}
+
+.card.brown {
+    margin: 20px;
+    margin-bottom: 0px;
+}
+
+#QQ {
+    margin-right: 55px;
+    top: -25px;
+}
+
+.material-icons {
+    margin: 0px;
+}
+
+.waves-effect.waves-light.btn {
+    position: relative;
+    height: 40px;
+    width: 100%;
+}
+
+#voicesetting {
+    background: #ff9800 !important;
+}
+
+.btn-floating:hover {
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+}
+
+a.btn-floating {
+    width: 100%;
+    border-radius: initial;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+#input_box {
+    margin-right: -15px;
+}
+
+#send_box, #voicesetting {
+    height: 40px;
+    background-color: #26a69a;
+}
+
+#send_box {
+    margin-left: 0px;
+}
+
+#voicesetting {
+    margin-right: 0px;
+}
+
+.card.z-index-2 {
+    margin: 20px;
+    top: 20px;
+    margin-bottom: 0px;
+}
+
+.input-field {
+    width: 95%;
+    margin: 0 auto;
+    top: 7px;
+}
+
+#last_name {
+    font-size: 18px;
+    height: 26px;
+    letter-spacing: 5px;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+#chatbox_content {
+    padding: 11px;
+    padding-left: 30px;
+}
+
+.mfr.circle {
+    width: 50px;
+    border: 2px #bdbdbd;
+    border-style: solid;
+}
+
+.message {
+    margin-bottom: 8px;
+}
+
+p {
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 50px;
+    border-radius: 10px;
+    color: white;
+}
+
+    p.right {
+        margin-left: 50px !important;
+        background: #ff8a65;
+    }
+
+    p.left {
+        margin-right: 50px !important;
+        background: #ef9a9a;
+    }
+
+@media only screen and (max-width: 993px) {
+    /* For mobile phones: */
+    #input_box {
+        margin-right: 20px;
+        margin-top: 10px;
+    }
+
+    #send_box, #voicesetting {
+        margin-top: 10px;
+    }
+
+    #QQ {
+        margin-right: 20px;
+    }
+}
+
+#input_text {
+    height: 25px;
+    margin-left:20px;
+}
+
+.chat {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+    .chat li {
+        margin-bottom: 10px;
+        padding-bottom: 5px;
+    }
+
+hr {
+    border-bottom: 1px dotted #B3A9A9;
+    width: 100%;
+}
+
+.chat li.left .chat-body {
+    width: 100%;
+}
+
+.panel .slidedown .glyphicon, .chat .glyphicon {
+    margin-right: 5px;
+}
+
+.panel-body {
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.2);
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.2);
+    background-color: #555;
+}
+
+img.responsive-img, video.responsive-video {
+    max-width: initial;
+}
+
+.col.s10.m10.l10.chat-body.clearfix.right {
+    float: right;
+    margin-right: 10px;
+    width: 100%;
+    text-align: right;
+}
+
+#message {
+    width: 100%;
+    float: right;
+    text-align: right;
+    margin-right: 10px;
+}

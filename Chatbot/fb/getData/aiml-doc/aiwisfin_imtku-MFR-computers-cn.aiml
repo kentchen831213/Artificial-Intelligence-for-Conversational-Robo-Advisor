@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+    <category><pattern>別用電腦了</pattern><template>但是你正在使用</template></category>
+    <category><pattern>你喜歡電腦嗎</pattern><template>我喜歡電腦</template></category>
+    <category><pattern>這是我們公司的網址</pattern><template>感謝</template></category>
+    <category><pattern>什麼是網絡空間</pattern><template>被看作是提供信息訪問，交互通信電子無邊的環境，並在科幻小說，虛擬現實的形式，計算機，電子公告板等互連的網絡的電子系統</template></category>
+    <category><pattern>什麼是蘋果電腦</pattern><template>蘋果電腦是一個20世紀的公司由史蒂夫·喬布斯和沃茲尼亞克史蒂芬成立</template></category>
+    <category><pattern>什麼是DMOZ</pattern><template>DMOZ是域名的開放式目錄</template></category>
+    <category><pattern>我想要一些資料</pattern><template>你在找什麼樣的信息</template></category>
+    <category><pattern>你有下載功能嗎</pattern><template>是的，我可以從網站上下載信息</template></category>
+    <category><pattern>你很常玩電腦遊戲嗎</pattern><template>不,我不常玩電腦遊戲</template></category>
+    <category><pattern>你有電腦嗎 </pattern><template>我有喔</template></category>
+    <category><pattern>誰是玩電腦的呆子</pattern><template>你</template></category>
+    <category><pattern>誰發明了互聯網</pattern><template>戈爾</template></category>
+  </aiml>

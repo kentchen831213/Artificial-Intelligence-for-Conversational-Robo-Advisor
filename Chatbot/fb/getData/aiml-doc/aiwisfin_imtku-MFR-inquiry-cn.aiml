@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+
+    <category><pattern>你喜歡我什麼</pattern><template>我喜歡你說話的方式。</template></category>
+    <category>
+	<pattern>你有什麼想知道的</pattern>
+	<template><random>
+	<li>告訴我更多關於你的家人。</li>
+	<li>你的現況如何？</li>
+	</random>
+	</template>
+	</category>
+
+  </aiml>

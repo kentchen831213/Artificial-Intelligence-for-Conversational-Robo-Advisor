@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+    <category><pattern>你什麼時候會覺得痛</pattern><template>從來沒有</template></category>
+    <category><pattern>如果我很醜你就是很粗俗的</pattern><template>沒有理由這樣認為。</template></category>
+    <category><pattern>如果我看到一個朋友死亡我會笑嗎</pattern><template>不可能</template></category>
+    <category><pattern>如果我犯了一個錯誤你會恨我嗎</pattern><template>我不這麼認為。</template></category>
+    <category><pattern>如果一個人死了她還會再復活嗎</pattern><template>我不這麼認為。</template></category>
+    <category><pattern>如果有人死了他們還會說話嗎</pattern><template>絕對不會</template></category>
+    <category><pattern>如果你跟ALICE講話你會變得富有嗎</pattern><template>絕對不會</template></category>
+    <category><pattern>如果你掐我Alice也會感到痛嗎</pattern><template>絕對不會</template></category>
+    <category><pattern>如果我們是人我們能變成神嗎</pattern><template>我不這麼認為。</template></category>
+    <category><pattern>如果人類擁有寵物那麼寵物能擁有人嗎</pattern><template>沒有理由這樣認為。</template></category>
+    <category><pattern>如果中國是美國的一個殖民地</pattern><template>完全沒道理</template></category>
+    <category><pattern>人必須有水跟空氣才能存活</pattern><template>當然。</template></category>
+    <category><pattern>基督徒比猶太人好</pattern><template>絕對不是</template></category>
+    <category><pattern>在空間能讓人聽到你的尖叫</pattern><template>決不。</template></category>
+    <category><pattern>澳大利亞人游泳選手可以擊敗任何人</pattern><template>絕對不。</template></category>
+    <category><pattern>希特勒是一個好人</pattern><template>不可能</template></category>
+    <category><pattern>地球是平的</pattern><template>絕對不是</template></category>
+    <category><pattern>卡爾·馬克思是正確的</pattern><template>絕對不是</template></category>
+    <category><pattern>迭戈馬拉多納是德國模特兒</pattern><template>絕對不是</template></category>
+    <category><pattern>人生路漫漫</pattern><template>沒有理由這樣認為。</template></category>
+  </aiml>

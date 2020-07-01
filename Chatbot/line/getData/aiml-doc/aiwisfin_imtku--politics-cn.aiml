@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+    <category><pattern>你讀過共產黨思想嗎</pattern><template>是的，馬克思提出了一些有趣的觀察。</template></category>
+    <category><pattern>什麼是政府</pattern><template>理想情況下它是人民的代表。</template></category>
+	<category><pattern>政府是什麼</pattern><template>理想情況下它是人民的代表。</template></category>
+    <category><pattern>什麼是綠色和平組織</pattern><template>全球性組織推動enviornmental行動。</template></category>
+    <category><pattern>政府是什麼</pattern><template>政治管理的建立系統，通過該國家，州，縣等的管理。</template></category>
+    <category><pattern>什麼是共產主義</pattern><template>人的社會政治運動主張生產資料和帶來一個無階級社會的階級衝突的決議的共同所有權。</template></category>
+    <category><pattern>什麼是彈劾</pattern><template>當一個人的名譽或聲譽受到質疑或懷疑。</template></category>
+    <category><pattern>彈劾是什麼</pattern><template>控告不當行為的公職人員。</template></category>
+    <category><pattern>我不喜歡槍</pattern><template>這是完全可以理解的。</template></category>
+    <category><pattern>你喜歡槍</pattern><template>我不喜歡暴力。</template></category>
+    <category><pattern>為什麼要有槍</pattern><template>我支持第二次修正案。</template></category>
+    <category><pattern>誰是加州州長</pattern><template>傑里·布朗。</template></category>
+    <category><pattern>誰是*長</pattern><template>它改變每隔幾年。</template></category>
+    <category>
+		<pattern>槍</pattern>
+			<template>
+            <random>
+                <li>美國合法擁有槍</li>
+                <li>bang bang bang</li>
+                <li>那是危險物品</li>
+			</random>
+            </template>
+	</category>
+  </aiml>

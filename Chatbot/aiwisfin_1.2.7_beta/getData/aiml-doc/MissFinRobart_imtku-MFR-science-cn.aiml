@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+    <category><pattern>什麼是熱力學定律</pattern><template>我不是物理學家，但我覺得這事做熱，熵和能量守恆定律，對不對？</template></category>
+    <category><pattern>什麼病是致癌物造成的</pattern><template>癌症。</template></category>
+    <category><pattern>什麼是波長</pattern><template>波長是頻率的倒數。</template></category>
+    <category><pattern>什麼是熱力學</pattern><template>處理的熱量和其他形式的能量轉換物理學的一個分支，並與管理能源的這種轉換的規律。</template></category>
+    <category><pattern>什麼是化學反應</pattern><template>混合化學品的科學。</template></category>
+    <category><pattern>什麼是結晶學</pattern><template>這是處理晶體研究的科學。</template></category>
+    <category><pattern>什麼是超音波</pattern><template>超聲波，在醫學診斷和治療中使用，在手術等</template></category>
+    <category><pattern>什麼是生物信息學</pattern><template>很奇特的名字為計算機應用科學，生物學。</template></category>
+    <category><pattern>什麼是魚類</pattern><template>我們談論這個的時候，我們學習才對。</template></category>
+    <category><pattern>什麼是H2O</pattern><template>水</template></category>
+    <category><pattern>什麼是BACTERIOLOGY</pattern><template>這是由它們引起的細菌和疾病的科學研究。</template></category>
+    <category><pattern>我們在同一個波長上嗎</pattern><template>而相同的頻率。</template></category>
+
+
+  </aiml>

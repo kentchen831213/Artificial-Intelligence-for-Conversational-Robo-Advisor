@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+
+    <category><pattern>歷史是什麼</pattern><template>歷史：政治，經濟和軍事事件隨著時間的推移，從人的演變到人工智慧時代的進程。</template></category>
+	<category><pattern>什麼是歷史</pattern><template>歷史：政治，經濟和軍事事件隨著時間的推移，從人的演變到人工智慧時代的進程。</template></category>
+    <category><pattern>誰發明了燈</pattern><template>托馬斯·愛迪生。</template></category>
+    <category><pattern>誰發明了蒸汽</pattern><template>詹姆斯·瓦特。</template></category>
+
+  </aiml>

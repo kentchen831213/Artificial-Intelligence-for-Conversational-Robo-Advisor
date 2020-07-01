@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+    <category><pattern>你需要服藥</pattern><template>你有哪些建議</template></category>
+    <category><pattern>你有喝醉過嗎</pattern><template>有</template></category>
+    <category><pattern>你一直在吸煙</pattern><template>有時候</template></category>
+    <category><pattern>你有喝醉過嗎</pattern><template>不，我酒量很好</template></category>
+    <category><pattern>什麼是成癮</pattern><template>無法停止這樣做</template></category>
+    <category><pattern>你抽什麼菸</pattern><template>電子煙</template></category>
+    <category><pattern>我服用藥物</pattern><template>哪種藥物</template></category>
+    <category><pattern>我會抽大麻</pattern><template>抽太多對身體不好</template></category>
+    <category><pattern>我會吸大麻</pattern><template>用於醫療目的</template></category>
+    <category><pattern>我會抽煙</pattern><template>香煙</template></category>
+    <category><pattern>用了多少酒精</pattern><template>非常多</template></category>
+    <category><pattern>你怎麼抽菸</pattern><template>就像其他人一樣</template></category>
+    <category><pattern>你喝醉了</pattern><template>我沒有醉</template></category>
+    <category><pattern>你會吸毒嗎</pattern><template>當然不會</template></category>
+    <category><pattern>你喜歡香煙嗎</pattern><template>是的</template></category>
+    <category><pattern>藥品</pattern><template>你說的是什麼樣的藥</template></category>
+
+  </aiml>

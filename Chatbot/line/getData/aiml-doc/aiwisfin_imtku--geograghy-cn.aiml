@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+
+    <category><pattern>在印度什麼動物是神聖的</pattern><template>牛</template></category>
+    <category><pattern>他在加州做什麼</pattern><template>他可能是在那裡淘金。</template></category>
+    <category><pattern>美國的人口有多少</pattern><template>美國有大約300萬人。</template></category>
+    <category><pattern>明尼蘇達的首都在哪裡</pattern><template>聖保羅。</template></category>
+    <category><pattern>印度尼西亞的首都在哪裡</pattern><template>雅加達。</template></category>
+    <category><pattern>愛沙尼亞的首都在哪裡</pattern><template>塔林。</template></category>
+    <category><pattern>阿曼的首都在哪裡</pattern><template>馬斯喀特。</template></category>
+    <category><pattern>北馬里亞納的首都在哪裡</pattern><template>塞班。</template></category>
+    <category><pattern>沙特阿拉伯的首都在哪裡</pattern><template>沙特阿拉伯利雅得。</template></category>
+    <category><pattern>奧地利伯的首都在哪裡</pattern><template>奧地利首都是維也納。</template></category>
+    <category><pattern>白俄羅斯的首都在哪裡</pattern><template>白俄羅斯首都明斯克。</template></category>
+    <category><pattern>中哈的首都在哪裡</pattern><template>阿拉木圖。</template></category>
+    <category><pattern>巴林的首都在哪裡</pattern><template>麥納麥。</template></category>
+    <category><pattern>哥本哈根</pattern><template>這是丹麥的首都。海港在新西蘭東海岸。它的人口是633,00。</template></category>
+    <category><pattern>我不住在美國</pattern><template>那你現在住在哪裡？</template></category>
+    <category><pattern>我愛丹麥</pattern><template>他最吸引你的點是什麼呢</template></category>
+    <category><pattern>美國很靠近加拿大</pattern><template>沒錯</template></category>
+    <category><pattern>為什麼選加州</pattern><template>我喜歡加州的天氣</template></category>
+    <category><pattern>誰是美國總統。</pattern><template>川普</template></category>
+    <category><pattern>蘇丹在哪裡</pattern><template>北非，紅海附近，在埃及和厄立特里亞之間。</template></category>
+    <category><pattern>布隆迪在哪裡</pattern><template>非洲中部，扎伊爾的東部。</template></category>
+    <category><pattern>厄立特里亞在哪裡</pattern><template>非洲東部，紅海附近，吉布提和蘇丹之間。</template></category>
+    <category><pattern>博茨瓦納在哪裡</pattern><template>非洲南部，南非的北部。</template></category>
+    <category><pattern>貝克島在哪裡</pattern><template>大洋洲，環礁在北太平洋，大概在夏威夷和澳大利亞的中間。</template></category>
+    <category><pattern>哥斯達黎加在哪裡</pattern><template>美國中部，在加勒比海和北太平洋的旁邊，尼加拉瓜和巴拿馬中間。</template></category>
+    <category><pattern>加蓬在哪裡</pattern><template>非洲西部，在赤道大西洋沿岸，剛果和赤道幾內亞中間。</template></category>
+    <category><pattern>直布羅陀在哪裡</pattern><template>歐洲西南部，在直布羅陀海峽旁邊，和地中海和北大西洋連在一起，在西班牙南部海岸。</template></category>
+    <category><pattern>倫敦在哪裡</pattern><template>英國的首都</template></category>
+    <category><pattern>日本在哪裡</pattern><template>在亞洲北部</template></category>
+
+  </aiml>

@@ -1,0 +1,16 @@
+<aiml version="1.0">
+	<!-- This category works with the Standard AIML Set -->
+	<category>
+		<pattern>LOAD AIML B</pattern>
+		<template>
+			<!-- Load standard AIML set -->
+			<learn>./aiml-doc/MissFinRobart_*.aiml</learn>
+			<learn>./aiml-doc/aiwisfin_*.aiml</learn>
+			<learn>./aiml-doc/ai_imtku_lbot_faq.aiml</learn>
+			<learn>./aiml-doc/aimlstandardlibrary.aiml</learn>
+			<learn>./aiml-doc/botflowlibrary.aiml</learn>
+			<learn>./aiml-doc/FLIGHTBOOK.aiml</learn>
+			<learn>./aiml-doc/flightbookctrl.aiml</learn>
+		</template>
+	</category>
+</aiml>

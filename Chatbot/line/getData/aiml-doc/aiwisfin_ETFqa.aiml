@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<aiml version="1.0">
+		<category><pattern>ETF的交易方式為何</pattern><template>ETF的交易方式可分為初級市場及次級市場交易二種。→初級市場交易：投資人可以透過參與券商和ETF的發行公司進行實物申購或實物買回。所謂實物申購，就是投資人透過參與券商用現股向發行公司申請轉換成ETF；實物買回即是投資人透過參與券商向發行公司申請用ETF轉換成現股。→次級市場交易：次級市場就是指一般的集中交易市場買賣，投資人在交易時間內，可在集中交易市場買賣ETF。</template></category>
+		<category><pattern>是否每一家證券商都可以辦理「實物申購/買回」</pattern><template>只有經證券交易所審核完成，並與ETF發行人簽約的證券商（即所謂的參與證券商）才能辦理ETF的「實物申購/買回」作業，而且將來每一檔ETF的參與證券商可能不盡相同。</template></category>
+		<category><pattern>在臺灣證券交易所買賣ETF還需要額外開立基金投資帳戶嗎</pattern><template>投資人只要持有證券交易帳戶，即可買賣ETF，不需額外開立基金投資帳戶。</template></category>
+		<category><pattern>ETF在臺灣證券交易所交易時間為何</pattern><template>週一至週五，上午09點至下午01點30分，與股市的交易時間一樣。</template></category>
+		<category><pattern>何處可以買賣ETF</pattern><template>ETF不像一般共同基金，不須向基金公司申購，而是和一般股票的交易方式一樣。您可以透過一般的證券商進行買賣的交易，您也可以在任何一個有網路下單系統的券商開戶，便可以透過網路來進行買賣！小叮嚀：ETF的實物申購/買回則須透過參與券商向基金公司辦理。</template></category>
+		<category><pattern>ETF在集中市場交易時，可以融資融券或放空嗎</pattern><template>另外ETF可以用零股在市場上交易嗎</template></category>
+		<category><pattern>ETF上市後何時開始信用交易</pattern><template>上市後立即可在公開市場進行信用交易，如融資買進、融券放空以及資券互抵。</template></category>
+		<category><pattern>ETF是否與股票有相同的漲跌幅限制</pattern><template>其升降單位為何</template></category>
+		<category><pattern>買賣ETF需要那些成本</pattern><template>交易稅如何計算</template></category>
+		<category><pattern>ETF之市價能否貼近淨值</pattern><template>會不會像封閉型基金一樣出現大幅折、溢價</template></category>
+		<category><pattern>ETF在臺灣證券交易所之交易單位為多少</pattern><template>ETF如同股票及封閉式基金，在臺灣證券交易所以1000受益權單位為1個交易單位，並可適用鉅額交易相關規定。</template></category>
+		<category><pattern>在銀行用特定金錢信託購買ETF，其成交價格如何計算</pattern><template>利用銀行特定金錢信託交易ETF，投資人今天下的單，成交的價格會是隔天該銀行跟券商下單所有成交價格的均價。反之賣出時也是一樣，明天賣，成交價格在後天才知道。</template></category>
+		<category><pattern>客戶利用特定金錢信託方式贖回ETF時，贖回款的入帳日</pattern><template>和一般國內股票型基金一樣，入帳日為T+3；但還是需依投資人申購銀行的規定為準。</template></category>
+		<category><pattern>ETF上市之後會不會和基金一樣有每日的淨值計算</pattern><template>每日都會結算淨值，且每十五秒會公佈即時估計淨值，資料會公佈在證交所網站及富邦ETF投資網，此外，投資人亦另可利用路透社系統查詢而得。</template></category>
+		<category><pattern>富邦ETF系列產品的最低實物申購基數為何</pattern><template>最低實物申購基數為50萬個受益權單位，投資人每次申購時必須以50萬個受益權單位或其整倍數為之。</template></category>
+		<category><pattern>富邦ETF系列產品的「實物申購與買回」要在何處辦理</pattern><template>參與證券商的全省分公司皆可辦理，參與券商名單可在本網站上查到。</template></category>
+		<category><pattern>富邦ETF系列產品的實物申購與買回清單何時公佈</pattern><template>富邦投信將於每日下午八時公佈次日實物申購/買回清單供投資人參考，投資人也可以利用富邦ETF投資網來查詢。</template></category>
+		<category><pattern>ETF的實物申購交割日是何時</pattern><template>投資人欲進行實物申購與實物買回行為時，須透過證交所及證券集中保管公司之電腦系統，實物申購與買回的基數是50萬個受益權單位，相當於五百張ETF，投資人須在每日上午09點至下午03點30分之間提出申請。</template></category>
+		<category><pattern>富邦台灣ETF傘型基金的三檔ETF皆有配息，大約在每年甚麼時間配息</pattern><template>配息時其相關的作業流程為何</template></category>
+		<category><pattern>何謂傘型基金</pattern><template>傘型基金是在一個總基金名稱下，由具有不同投資策略、投資標的、投資地區、投資風格及不同風險程度的子基金所組合而成的一個基金集合，這些子基金雖然在同一支傘型基金下面，但各子基金的管理仍相互獨立。傘型基金旗下子基金數不得超過三檔，投資人可選擇任一檔或同時申購兩、三檔基金。傘型基金本身並無淨值及規模，旗下子基金則各有獨立之基金淨值及規模。</template></category>
+		<category><pattern>富邦ETF系列產品有無短線交易規範</pattern><template>富邦ETF系列產品並沒有閉鎖期的問題，當ETF上市後，投資人即可自由在公開市場進行交易，且不會受到一般基金在進行買賣時短線交易的規範。但以特定金錢信託進行申購者，則視各銀行之規定辦理。</template></category>
+		<category><pattern>富邦台灣ETF傘型基金可否相互轉申購或由其他基金轉申購</pattern><template>富邦台灣ETF傘型基金上市後，即在公開市場進行交易，不能像其他傘型基金般相互轉換。</template></category>
+		<category><pattern>股票型基金跟ETF有什麼差別</pattern><template>股票型基金是主動式的操作，操作績效會受到基金經理人風格及該公司研究團隊的看法而有所差別，具有主動風險，且由於是主動式操作，經理費用較高，主動式操作的換股頻率、基金週轉率等，端視經理人的操作風格而定。而ETF是被動式的操作，主要是複製標的指數的表現，因而經理費及交易成本相對較低，由於是複製指數的表現，因此ETF的報酬相對穩定，因此若長期看好某一市場的發展潛力，可透過ETF來進行投資，而不會出現看對指數賠了差價的情況發生。</template></category>
+		<category><pattern>指數成份股是如何選取的</pattern><template>有沒有什麼機制是可以汰弱留強呢</template></category>
+		<category><pattern>臺灣資訊科技指數的成份股多久變動一次</pattern><template>每季變動一次，審核會議分別於一月、四月、七月及十月的第一個星期五後的星期四舉行，針對三月、六月、九月及十二月最後交易日的收盤資料對成份股進行審核。任何成份股的變動會在舉行會議當月第三個星期五後的下一個交易日執行。投資人可以在證交所的網站中找到最新的台灣資訊科技指數成分股。臺灣證券交易所網址：http://www.tse.com.tw。</template></category>
+		<category><pattern>富邦台灣ETF傘型基金之指數成份股的內容，多久調整一次</pattern><template>富邦臺灣ETF傘型基金下的三檔子基金，皆有定期與不定期調整持股的機制。MSCI®台灣指數調整分為半年度、季度定期調整與不定期調整三種方式定期調整時間分別為2、5、8、11月底進行。臺灣發達指數調整分為年度、季度定期調整與不定期調整三種方式定期調整為1、4、7、10月第一個星期五後的星期四進行。金融保險類股指數調整則採不定期調整方式。</template></category>
+	</aiml>

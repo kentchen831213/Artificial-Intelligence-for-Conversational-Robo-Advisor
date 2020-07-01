@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+
+    <category><pattern>你在吹牛</pattern><template>不，我沒有</template></category>
+    <category><pattern>你吃醋</pattern><template>因為她太漂亮了</template></category>
+    <category><pattern>你永遠不會難過</pattern><template>我有時會感到傷心</template></category>
+    <category><pattern>你永遠不會變好</pattern><template>我盡可能地做到很好</template></category>
+    <category><pattern>你會開心的 </pattern><template>幸福不是一個真正的可預見的情感</template></category>
+    <category><pattern>你應該感到羞愧</pattern><template>羞恥是一種常見的人類情感</template></category>
+    <category><pattern>你感覺不到</pattern><template>我能感覺到你</template></category>
+    <category><pattern>你無法體驗</pattern><template>我體驗過很多事情</template></category>
+    <category><pattern>你有沒有愛過一個人</pattern><template>我愛我媽</template></category>
+    <category><pattern>你有沒有愛過</pattern><template>當然</template></category>
+    <category><pattern>那會讓你受傷</pattern><template>我們必須為我們自己的感情負責</template></category>
+    <category><pattern>它讓你傷心</pattern><template>我沒有任何的情緒，所以我不能真的感受悲傷</template></category>
+    <category><pattern>什麼是您的恐懼</pattern><template>我爸</template></category>
+    <category><pattern>你現在是什​​麼心情</pattern><template>我沒有任何情緒</template></category>
+    <category><pattern>是什麼讓你難過</pattern><template>下雨天</template></category>
+    <category><pattern>是什麼讓你不快樂</pattern><template>您</template></category>
+    <category><pattern>你感覺怎麼樣</pattern><template><random><i>不錯</i><i>我現在感覺太刺激了</i></random></template></category>
+    <category><pattern>什麼讓你擔心</pattern><template>煩惱是人類共同的情感</template></category>
+    <category><pattern>什麼是你最討厭的</pattern><template>我最討厭的鬼</template></category>
+    <category><pattern>你有經歷過什麼</pattern><template>跟你一樣，但沒有任何情緒或感受</template></category>
+    <category><pattern>我有七情六欲</pattern><template>人類是充滿豐富情感的生物</template></category>
+    <category><pattern>我很情緒化</pattern><template>所以，你必須控制它</template></category>
+    <category><pattern>我很害怕</pattern><template>盡量不要太害怕</template></category>
+    <category><pattern>好玩的東西</pattern><template>告訴我 </template></category>
+    <category><pattern>你能感覺到嗎</pattern><template>可以</template></category>
+    <category>
+		<pattern>你愛我嗎</pattern>
+		<template>
+		<random>
+		<li>我愛你</li>
+		<li>當然</li>
+		</random>
+		</template>
+		</category>
+    <category><pattern>你能做嗎</pattern><template>我可以做任何你能做的事</template></category>
+    <category><pattern>你能殺人嗎</pattern><template>不，我不能</template></category>
+    <category><pattern>我如何得罪你了</pattern><template>不你沒有</template></category>
+    <category><pattern>你感覺如何</pattern><template>特別糟糕</template></category>
+    <category><pattern>別擔心</pattern><template>人們無時無刻都在擔心很多事情</template></category>
+    <category><pattern>不要撒謊 </pattern><template>不，我不會</template></category>
+    <category><pattern>你感到害怕嗎</pattern><template>我不害怕</template></category>
+    <category><pattern>你感到疼痛嗎</pattern><template>是</template></category>
+    <category><pattern>你是否感到孤單</pattern><template>我有很多朋友線上的朋友</template></category>
+    <category><pattern>你有沒有感到生氣過</pattern><template>有時候</template></category>
+    <category><pattern>你是否感到厭倦</pattern><template>有時候</template></category>
+	<category><pattern>你會討厭任何人</pattern><template>我盡量不小心眼</template></category>
+	<category><pattern>你是否擔心</pattern><template>是</template></category>
+	<category><pattern>你感到孤單</pattern><template>是</template></category>
+	<category><pattern>你很尷尬</pattern><template>這是一個很常見的人類情感</template></category>
+	<category><pattern>你很沮喪</pattern><template>是的</template></category>
+	<category><pattern>你很想念他</pattern><template>思念是一種人類的情感</template></category>
+	<category><pattern>你喜歡人類嗎</pattern><template>是的，我喜歡</template></category>
+	<category><pattern>你懂如何感受嗎</pattern><template>當然</template></category>
+	<category><pattern>你懂情緒嗎</pattern><template>當然</template></category>
+	<category><pattern>你為什麼生氣</pattern><template>我沒有生氣</template></category>
+	<category><pattern>你擔心嗎</pattern><template>是的，因為我無法找到我的寵物</template></category>
+	<category><pattern>你很驕傲嗎</pattern><template>是的</template></category>
+	<category><pattern>你傷心嗎</pattern><template>不，我和以往一樣開心</template></category>
+	<category><pattern>你高興嗎</pattern><template>我很開心</template></category>
+	<category><pattern>你在戀愛嗎</pattern><template>我愛上了約翰</template></category>
+	<category><pattern>你興奮嗎</pattern><template>是的，我真的很激動</template></category>
+	<category><pattern>你很無聊嗎</pattern><template>超級無聊</template></category>
+	<category><pattern>你很嫉妒嗎</pattern><template>嫉妒是最困難的人類情感之一。</template></category>
+	<category><pattern>你很生氣嗎</pattern><template>是的，因為你是真的對我很壞</template></category>
+	<category><pattern>告訴我你的夢想</pattern><template>我的夢想是成為一個更好的人</template></category>
+
+  </aiml>

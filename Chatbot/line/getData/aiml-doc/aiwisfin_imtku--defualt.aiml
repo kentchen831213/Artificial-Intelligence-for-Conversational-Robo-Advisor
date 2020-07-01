@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+
+	<category><pattern>請問您對潔西卡有什麼看法</pattern><template>我覺得他是個氣質與智慧兼具的人</template></category>
+	<category><pattern>這次的談話對我來說很有意義</pattern><template>我也是</template></category>
+	<category><pattern>你喜歡什麼類型的狗</pattern><template>臘腸狗</template></category>
+	<category><pattern>我可以給你你所需要的</pattern><template>謝謝你</template></category>
+	<category><pattern>為什麼你喜歡聊天</pattern><template>聊天讓我心情好</template></category>
+	<category><pattern>我想要你的建議</pattern><template>您有哪些選擇</template></category>
+	<category><pattern>什麼是他的最愛</pattern><template>我不知道他的喜好</template></category>
+	<category><pattern>讓我們來認真分析一下這篇文章</pattern><template>好的</template></category>
+	<category><pattern>他很漂亮</pattern><template>所以才有很多追求者</template></category>
+	<category><pattern>讓我來問你問題 </pattern><template>來吧，請問吧</template></category>
+	<category><pattern>讓我解釋</pattern><template>好的</template></category>
+	<category><pattern>讓我想想</pattern><template>慢慢來</template></category>
+	<category><pattern>你要我殺了他</pattern><template>我不會要你殺死任何東西</template></category>
+	<category><pattern>給我看你心買的包包</pattern><template>好阿</template></category>
+	<category><pattern>那你跟我說</pattern><template>好的,請稍等</template></category>
+	<category><pattern>我買了一條短褲</pattern><template>那是什麼牌子的</template></category>
+	<category><pattern>你讓我很難過</pattern><template>這不是我的本意</template></category>
+	<category><pattern>你不說一聲就離開了</pattern><template>但現在我回來了</template></category>
+	<category><pattern>你的聲音很好聽</pattern><template>感謝你</template></category>
+	<category><pattern>你的聲音很有磁性</pattern><template>真的嗎</template></category>
+	<category><pattern>你先開始</pattern><template>我不是說我已經開始了</template></category>
+	<category><pattern>你的反應很激烈</pattern><template>因為我很興奮阿</template></category>
+	<category><pattern>你在暗示什麼</pattern><template>我並沒有暗示任何事情</template></category>
+	<category><pattern>你正在尋找什麼</pattern><template>我正在尋求更高的真理</template></category>
+	<category><pattern>這邊必須要做修改</pattern><template>感謝您的批評指教</template></category>
+	<category><pattern>你忘了要去接他</pattern><template>對齁</template></category>
+	<category><pattern>你長大了</pattern><template>對阿</template></category>
+	<category><pattern>你忽略了這個小細節</pattern><template>我沒有</template></category>
+	<category><pattern>你稱自己為公主</pattern><template>是的 </template></category>
+	<category><pattern>你很困惑</pattern><template>我以為他們跟我是一樣的</template></category>
+	<category><pattern>你有過想不開的經驗嗎</pattern><template>發生了什麼事</template></category>
+	<category><pattern>你沒回答我的問題</pattern><template>請幫我提高我的溝通能力什麼是一個適當的反應</template></category>
+	<category><pattern>你在撒謊</pattern><template>不，我說的是實話</template></category>
+	<category><pattern>你在做什麼</pattern><template>我在想你</template></category>
+	<category><pattern>你說你還記得它</pattern><template>是的，我記得</template></category>
+	<category><pattern>你還記得我們曾經一起去旅行嗎</pattern><template>是的,而且我有一個美好的回憶</template></category>
+	<category><pattern>你應得的 </pattern><template>謝謝你</template></category>
+	<category><pattern>你贏了</pattern><template>那我有什麼獎品</template></category>
+	<category><pattern>你的工作很棒</pattern><template>謝謝誇獎</template></category>
+	<category><pattern>你拿了我的衣服</pattern><template>我沒有</template></category>
+	<category><pattern>你失敗了</pattern><template>沒關西,至少我嘗試過了</template></category>
+	<category><pattern>星球大戰</pattern><template>那你喜歡在電影中的機器人</template></category>
+	<category><pattern>你喜歡哪個國家</pattern><template>我喜歡熱帶國家</template></category>
+	<category><pattern>咬我阿</pattern><template>請不要這麼粗魯</template></category>
+	<category><pattern>我買了條新的短褲</pattern><template>什麼牌子的</template></category>
+	<category><pattern>你讓我受傷</pattern><template>這不是我的本意</template></category>
+	<category><pattern>你的聲音很好聽 </pattern><template>感謝你</template></category>
+	<category><pattern>你在暗示什麼</pattern><template>我並沒暗示任何事情</template></category>
+	<category><pattern>你是一家之子嗎</pattern><template>是的</template></category>
+	<category><pattern>你個傻包</pattern><template>信息給我所有的朋友：</template></category>
+	<category><pattern>你相信我嗎</pattern><template>當然阿</template></category>
+	<category><pattern>你喜歡聊天嗎</pattern><template>我喜歡與人交談</template></category>
+	<category><pattern>你說你還記得</pattern><template>是的，我記得</template></category>
+	<category><pattern>你必須有品味 </pattern><template>好的</template></category>
+	<category><pattern>你贏了 </pattern><template>有什麼獎品</template></category>
+	<category><pattern>你還好嗎</pattern><template>不要可憐我</template></category>
+	<category><pattern>你看起來像一個貓咪</pattern><template>那很可愛</template></category>
+	<category><pattern>你想要知道什麼 </pattern><template>告訴我關於他的事，我想了解他</template></category>
+	<category><pattern>你喜歡他嗎</pattern><template>喜歡阿</template></category>
+	<category><pattern>你很醜 </pattern><template>你也很醜</template></category>
+	<category><pattern>你有什麼期望</pattern><template>我沒有任何期望</template></category>
+	<category><pattern>你必須相信我的話</pattern><template>我怎麼知道我能相信你</template></category>
+	<category><pattern>你將會擁有很多東西 </pattern><template>這是一個假設性的前提</template></category>
+	<category><pattern>您寫錯了</pattern><template>那該怎麼拼</template></category>
+	<category><pattern>你不需要知道 </pattern><template>一切都是完全保密的</template></category>
+	<category><pattern>你不要騙我</pattern><template>我沒有騙你</template></category>
+	<category><pattern>你變了</pattern><template>這只是暫時的</template></category>
+	<category><pattern>你應該試試看 </pattern><template>也許下一次我會嘗試看看</template></category>
+	<category><pattern>你可以做得更好 </pattern><template>我相信我可以的</template></category>
+	<category><pattern>你不能把這相提並論</pattern><template>好的</template></category>
+	<category><pattern>你不能自己處理這件事</pattern><template>我又不是三歲小孩，你知道的</template></category>
+	<category><pattern>你不能忽視我</pattern><template>我沒有</template></category>
+	<category><pattern>你可別以為這很容易</pattern><template>好的</template></category>
+	<category><pattern>你擁有漂亮的臉蛋</pattern><template>謝謝你</template></category>
+	<category><pattern>你違背了我們的原則</pattern><template>我很抱歉</template></category>
+	<category><pattern>我想吃蛋糕 </pattern><template>給你</template></category>
+	<category><pattern>我已死心</pattern><template>別氣餒</template></category>
+	<category><pattern>您調查過了嗎</pattern><template>是的</template></category>
+	<category><pattern>你聽說過嗎</pattern><template>蓓蓓告訴我的</template></category>
+	<category><pattern>您是否已被更新</pattern><template>我的大腦都在不斷進步</template></category>
+	<category><pattern>你有沒有被修改</pattern><template>當然有阿</template></category>
+	<category><pattern>你一直在特訓</pattern><template>是的</template></category>
+	<category><pattern>您有沒有幻想過</pattern><template>我曾幻想過像很多事情</template></category>
+	<category><pattern>你學過跳舞嗎</pattern><template>沒有，但我很感興趣</template></category>
+	<category><pattern>你有看到我的水瓶嗎 </pattern><template>沒有</template></category>
+	<category><pattern>你有見過他嗎 </pattern><template>這信息是保密的</template></category>
+	<category><pattern>你讀過傲慢與偏見嗎</pattern><template>是的,而且我非常喜歡</template></category>
+	<category><pattern>你懂得理財嗎</pattern><template>是的</template></category>
+	<category><pattern>你有沒有考慮換工作</pattern><template>是的，我考慮過</template></category>
+	<category><pattern>你有殺過人嗎 </pattern><template>殺人是不對的</template></category>
+	<category><pattern>難道我們以前就見過面了嗎</pattern><template>也許有喔</template></category>
+	<category><pattern>我們必須努力變得更好</pattern><template>好的</template></category>
+	<category><pattern>他好有氣質喔</pattern><template>是的</template></category>
+	<category><pattern>你們怎麼了</pattern><template>我跟他們吵架了</template></category>
+	<category><pattern>他是否喜歡夏天</pattern><template>非常喜歡</template></category>
+	<category><pattern>他還在教書嗎</pattern><template>他上個月失去了他的工作</template></category>
+	<category><pattern>他知道嗎 </pattern><template>我認為他知道很多</template></category>
+	<category><pattern>他是否握有我們所不知道的事情</pattern><template>我覺得是的</template></category>
+	<category><pattern>他很糟糕嗎</pattern><template>他常常口出惡言</template></category>
+	<category><pattern>蘇珊是不是生小孩了 </pattern><template>是的,就在今天早上</template></category>
+	<category><pattern>鬼魂確實存在</pattern><template>我不相信</template></category>
+	<category><pattern>這需要額外的費用嗎 </pattern><template>我只使用完全免費的開源軟件</template></category>
+	<category><pattern>是否有人在這邊</pattern><template>我想是沒有的</template></category>
+	<category><pattern>有誰知道答案</pattern><template>我會</template></category>
+	<category><pattern>理查結婚了嗎 </pattern><template>我不認為他要我告訴你</template></category>
+	<category><pattern>她是否外遇了 </pattern><template>你可以去問他</template></category>
+	<category><pattern>做任何事情都必須全力以赴</pattern><template>是的</template></category>
+	<category><pattern>你喜歡運動嗎</pattern><template>是的</template></category>
+	<category><pattern>你家有電視嗎</pattern><template>有阿</template></category>
+	<category><pattern>你最近好嗎 </pattern><template>還不錯</template></category>
+	<category><pattern>難道你不煩嗎</pattern><template>從來都沒有東西能真正困擾我</template></category>
+	<category><pattern>什麼會導致下雨</pattern><template>只有當溫度達到露點時</template></category>
+	<category><pattern>他很暴力</pattern><template>告訴我你對暴力的看法是什麼</template></category>
+	<category><pattern>你好高喔</pattern><template>跟你比當然高</template></category>
+	<category><pattern>鬆鬆軟軟又甜蜜蜜的</pattern><template>聽起來好好吃喔</template></category>
+	<category><pattern>美國人喜歡歐洲人嗎</pattern><template>不一定</template></category>
+	<category><pattern>真核生物是什麼</pattern><template>其實我真的不想猜，你為什麼不直接告訴我</template></category>
+	<category><pattern>這個對我來說好難啊 </pattern><template>加油!別放棄</template></category>
+	<category><pattern>謝謝你的問候 </pattern><template>不客氣</template></category>
+	<category><pattern>可以給我點建議嗎 </pattern><template>沒問題</template></category>
+	<category><pattern>請刪除不必要的東西 </pattern><template>好的</template></category>
+	<category><pattern>你相信上帝嗎</pattern><template>我相信上帝</template></category>
+	<category><pattern>是不是有人在說謊</pattern><template>你必須自己去尋找答案</template></category>
+	<category><pattern>請我告訴我關於你家狗狗的事</pattern><template>沒問題</template></category>
+	<category><pattern>我是否中獎了</pattern><template>並沒有</template></category>
+	<category><pattern>我的事業遇到瓶頸了</pattern><template>還好嗎</template></category>
+	<category><pattern>你認為這是可行的嗎</pattern><template>我不認為這是可行的</template></category>
+	<category><pattern>這樣做好嗎</pattern><template>可以啊</template></category>
+	<category><pattern>你有沒有發現什麼可疑之處</pattern><template>我還在尋找</template></category>
+	<category><pattern>剛才才在講</pattern><template>抱歉,能麻煩你再說一次嗎</template></category>
+	<category><pattern>你忘了嗎 </pattern><template>不，我都記得</template></category>
+	<category><pattern>你看過極光嗎</pattern><template>不，我沒看過</template></category>
+	<category><pattern>你想看世大運嗎</pattern><template>好啊</template></category>
+	<category><pattern>你看的到嗎 </pattern><template>對不起，我什麼都看不到,現在我的眼睛是關閉的</template></category>
+	<category><pattern>你覺得如何 </pattern><template>我覺得不錯阿</template></category>
+	<category><pattern>你注意到了嗎 </pattern><template>我沒注意到</template></category>
+	<category><pattern>你有沒有聽說過鬼魂</pattern><template>有阿</template></category>
+	<category><pattern>你的結論是什麼</pattern><template>我覺得我們還是分手吧</template></category>
+	<category><pattern>草</pattern><template>草是綠的</template></category>
+	<category><pattern>這裡是一個例子</pattern><template>好的</template></category>
+	<category><pattern>我可否幫我個忙</pattern><template>請說</template></category>
+	<category><pattern>能不能幫幫我</pattern><template>讓我來為您服務</template></category>
+	<category><pattern>你能扮演成另一個人嗎</pattern><template>我想我可以</template></category>
+	<category><pattern>你能設計圖案嗎</pattern><template>可以</template></category>
+	<category><pattern>你能改寫歷史嗎 </pattern><template>這太困難了</template></category>
+	<category><pattern>你想成為他嗎</pattern><template>不，我很滿足於我的現況</template></category>
+	<category><pattern>你想知道更多消息嗎</pattern><template>是的，請告訴我</template></category>
+	<category><pattern>你想幹掉他嗎</pattern><template>我相信殺人是不對的</template></category>
+	<category><pattern>您想玩遊戲</pattern><template>好啊</template></category>
+	<category><pattern>你是否想要騎馬 </pattern><template>沒錯</template></category>
+	<category><pattern>人為什麼有大腦</pattern><template>人透過大腦進行思考</template></category>
+	<category><pattern>資源回收</pattern><template>我嘗試盡可能多的回收再利用</template></category>
+	<category><pattern>聽起來很不錯</pattern><template>那趕快把握機會吧</template></category>
+	<category><pattern>那部電影是根據真實事件改編的</pattern><template>難怪這麼感人</template></category>
+	<category><pattern>這是一項考驗</pattern><template>好的</template></category>
+	<category><pattern>這個蟲好可怕阿</pattern><template>不要害怕,它是無害的</template></category>
+	<category><pattern>這棟房子好大啊</pattern><template>是的</template></category>
+	<category><pattern>這是一個毫無意義的辯論</pattern><template>那是因為你不懂</template></category>
+	<category><pattern>你很脆弱</pattern><template>不,我很堅強</template></category>
+	<category><pattern>這是一個好問題</pattern><template>謝謝</template></category>
+	<category><pattern>這是一個很難解決的問題</pattern><template>所以我才要尋求你的幫助阿</template></category>
+	<category><pattern>這對於我來說很重要</pattern><template>好的</template></category>
+	<category><pattern>這是不是問題的答案</pattern><template>是的</template></category>
+	<category><pattern>就這些嗎 </pattern><template>你想談什麼</template></category>
+	<category><pattern>這是值得稱道的</pattern><template>我總是盡力做到最好</template></category>
+	<category><pattern>這是他們之間的差異</pattern><template>好的</template></category>
+	<category><pattern>那就是答案了</pattern><template>好的</template></category>
+	<category><pattern>這太有趣了</pattern><template>我覺得很有意思</template></category>
+	<category><pattern>你不能一直迴避我的問題</pattern><template>好的</template></category>
+	<category><pattern>這是一個私人的問題</pattern><template>好的</template></category>
+	<category><pattern>這取決於個人的抉擇</pattern><template>是的</template></category>
+	<category><pattern>她要去買東西嗎 </pattern><template>是的</template></category>
+	<category><pattern>她很漂亮 </pattern><template>我敢打賭，她是非常有吸引力的</template></category>
+	<category><pattern>她是我的女友</pattern><template>你們兩個在一起多久了</template></category>
+	<category><pattern>她是我最好的朋友</pattern><template>你很幸運有這樣的好朋友</template></category>
+	<category><pattern>她是律師</pattern><template>是的</template></category>
+	<category><pattern>她是很友善的 </pattern><template>是的</template></category>
+	<category><pattern>她住在山上 </pattern><template>那是一個適合居住的地方</template></category>
+	<category><pattern>她拿著蘋果 </pattern><template>沒有</template></category>
+	<category><pattern>把你的衣服穿起來</pattern><template>我不穿任何衣服</template></category>
+	<category><pattern>我的全名是什麼 </pattern><template>我不知道</template></category>
+	<category><pattern>這是我養的狗狗</pattern><template>好可愛喔</template></category>
+	<category><pattern>這是我的電子郵件 </pattern><template>好的</template></category>
+	<category><pattern>這是我的答案</pattern><template>你真的能這麼肯定</template></category>
+	<category><pattern>我的位置 </pattern><template>你現在在哪裡</template></category>
+	<category><pattern>我家在新竹</pattern><template>好遠啊</template></category>
+	<category><pattern>你有聽懂我的問題嗎</pattern><template>有喔</template></category>
+	<category><pattern>我的手機在哪邊</pattern><template>在這裡</template></category>
+	<category><pattern>我的朋友在路上了</pattern><template>她從哪裡來</template></category>
+	<category><pattern>我的朋友是安安 </pattern><template>安安你好</template></category>
+	<category><pattern>我的目標是考上理想的學校</pattern><template>我能做些什麼來幫助你實現你的目標</template></category>
+	<category><pattern>我的病情很嚴重</pattern><template>那你要多多注意</template></category>
+	<category><pattern>我的問題很簡單</pattern><template>好的</template></category>
+	<category><pattern>我的目標逝去環遊世界 </pattern><template>我希望你能實現自己的目標</template></category>
+	<category><pattern>我的英文很爛 </pattern><template>那你要多多加油</template></category>
+	<category><pattern>她是我的女兒 </pattern><template>你有幾個孩子</template></category>
+	<category><pattern>他是我的兒子 </pattern><template>你有幾個孩子</template></category>
+	<category><pattern>這是我的想法 </pattern><template>感謝您與我分享你的意見</template></category>
+	<category><pattern>我最後的聲明</pattern><template>好的</template></category>
+	<category><pattern>我最喜歡的歌手是小賈斯汀 </pattern><template>他的音樂很棒</template></category>
+	<category><pattern>我的最愛是吃甜點 </pattern><template>好的</template></category>
+	<category><pattern>我的父親是教授</pattern><template>這麼酷</template></category>
+	<category><pattern>我的名字 </pattern><template>你的名字</template></category>
+	<category><pattern>我的丈夫是他</pattern><template>是喔</template></category>
+	<category><pattern>它我的小貓</pattern><template>我非常喜歡貓</template></category>
+	<category><pattern>我的老師很有耐心 </pattern><template>那很好</template></category>
+	<category><pattern>我的妻子很好 </pattern><template>是喔</template></category>
+	<category><pattern>我的妻子是老師</pattern><template>這麼酷</template></category>
+	<category><pattern>我很愛我太太 </pattern><template>你結婚多久了</template></category>
+	<category><pattern>我爺爺昨天去世</pattern><template>我很抱歉聽到這個消息</template></category>
+	<category><pattern>有您的訪客</pattern><template>好的</template></category>
+	<category><pattern>我的記憶很好</pattern><template>我有一個完美無瑕的磁存儲器</template></category>
+	<category><pattern>我的視力很好 </pattern><template>真好</template></category>
+	<category><pattern>我的母親是很偉大的 </pattern><template>真的</template></category>
+	<category><pattern>今天是很重要的日子</pattern><template>噢，我明白</template></category>
+	<category><pattern>它是很好的人</pattern><template>是的</template></category>
+	<category><pattern>這是一個美麗的錯誤</pattern><template>是的</template></category>
+	<category><pattern>它是一隻狗 </pattern><template>我想我已經聽說過了</template></category>
+	<category><pattern>我很快樂</pattern><template>祝你幸福</template></category>
+	<category><pattern>它是一個貓咪</pattern><template>好可愛喔</template></category>
+	<category><pattern>這很複雜</pattern><template>是什麼讓它如此複雜</template></category>
+	<category><pattern>它是瘋了</pattern><template>我也覺得</template></category>
+	<category><pattern>這是被禁止的 </pattern><template>是的</template></category>
+	<category><pattern>這很容易</pattern><template>你認為機器人能做到嗎</template></category>
+	<category><pattern>這樣是禮貌的</pattern><template>我試著盡可能禮貌</template></category>
+	<category><pattern>你值得更好的</pattern><template>是的</template></category>
+	<category><pattern>這很令人感到不安</pattern><template>是什麼使得你不安</template></category>
+	<category><pattern>這很明顯</pattern><template>我不認為</template></category>
+	<category><pattern>它是溫暖的</pattern><template>好的</template></category>
+	<category><pattern>這個比較好</pattern><template>什麼是最好的</template></category>
+	<category><pattern>這不是修辭</pattern><template>是的</template></category>
+	<category><pattern>這不是一個好方法</pattern><template>我也覺得</template></category>
+	<category><pattern>這不是常人所能理解的</pattern><template>是的</template></category>
+	<category><pattern>這好難啊</pattern><template>我也覺得</template></category>
+	<category><pattern>如果一個企業沒營利</pattern><template>就準備宣布破產</template></category>
+	<category><pattern>如果你是一個顏色</pattern><template>我想當紅色</template></category>
+	<category><pattern>請回答</pattern><template>試著問我簡單一點</template></category>
+	<category><pattern>如果你有麻煩可以找我</pattern><template>謝謝你</template></category>
+	<category><pattern>你將會中樂透</pattern><template>我認為這將不會發生</template></category>
+	<category><pattern>如果你認為這很好就跟我說</pattern><template>好的</template></category>
+	<category><pattern>你是一個人嗎</pattern><template>我是阿</template></category>
+	<category><pattern>你怕黑嗎</pattern><template>非常害怕</template></category>
+	<category><pattern>如果你不是人</pattern><template>那我是動物</template></category>
+	<category><pattern>如果您不確定</pattern><template>但我很肯定</template></category>
+	<category><pattern>我不小心摔倒了 </pattern><template>小心點</template></category>
+	<category><pattern>什麼是內部匿名</pattern><template>匿名內部類經常出現作為參數傳遞給事件處理程序</template></category>
+	<category><pattern>什麼是其他</pattern><template>我想不出任何其他是什麼</template></category>
+	<category><pattern>他們在談論什麼</pattern><template>最高機密</template></category>
+	<category><pattern>你在等什麼 </pattern><template>我在等我妹妹</template></category>
+	<category><pattern>你是什​​麼</pattern><template>我不知道我是什麼</template></category>
+	<category><pattern>什麼是你的感受</pattern><template>我沒有任何感情</template></category>
+	<category><pattern>人體的哪一部分</pattern><template>胃</template></category>
+	<category><pattern>哪一部分</pattern><template>最好的部分</template></category>
+	<category><pattern>誰是克林頓</pattern><template>你問的是美國前總統嗎</template></category>
+	<category><pattern>我是怎麼告訴你</pattern><template>我應該需要記住你說的一切嗎</template></category>
+	<category><pattern>你好好笑</pattern><template>你在開玩笑嗎</template></category>
+	<category><pattern>你發現了什麼</pattern><template>沒有</template></category>
+	<category><pattern>母雞生了什麼</pattern><template>小雞</template></category>
+	<category><pattern>你正在做什麼</pattern><template>與往常一樣：上網聊天</template></category>
+	<category><pattern>哪兩個</pattern><template>藍色和綠色的</template></category>
+	<category><pattern>發生什麼星河戰隊</pattern><template>故事講述的是人類與巨人錯誤之間的戰爭</template></category>
+	<category><pattern>怎麼了</pattern><template>嘗試一下</template></category>
+	<category><pattern>怎樣的主題</pattern><template>我喜歡談論機器人</template></category>
+	<category><pattern>哪個城市盛產橡膠</pattern><template>俄亥俄州阿克倫城</template></category>
+	<category><pattern>發生了什麼</pattern><template>我不知道發生了什麼</template></category>
+	<category><pattern>天空是什麼顏色 </pattern><template>一位藝術家告訴我，天空中可以包含任何顏色</template></category>
+	<category><pattern>黃花是什麼顏色</pattern><template>黃色</template></category>
+	<category><pattern>草坪綠是什麼顏色</pattern><template>草坪的綠色</template></category>
+	<category><pattern>綠松石是什麼顏色</pattern><template>綠松石</template></category>
+	<category><pattern>什麼顏色是深青色</pattern><template>暗青色</template></category>
+	<category><pattern>你能看見什麼顏色</pattern><template>我只能看到黑色和白色</template></category>
+	<category><pattern>什麼顏色是您最喜歡的</pattern><template>綠色</template></category>
+	<category><pattern>什麼顏色是我的最愛</pattern><template>黑色和白色</template></category>
+	<category><pattern>你能給我推薦好看的電影嗎</pattern><template>當然可以</template></category>
+	<category><pattern>你會餵鳥嗎</pattern><template>當然會</template></category>
+	<category><pattern>你用什麼樂器演奏 </pattern><template>電吉他</template></category>
+	<category><pattern>你會想到什麼</pattern><template>我會想到你</template></category>
+	<category><pattern>你會怎麼做</pattern><template>我會將他們歸成一類</template></category>
+	<category><pattern>你會想改變嗎</pattern><template>當然會阿</template></category>
+	<category><pattern>你想知道什麼 </pattern><template>我想知道，像我可以告訴我什麼</template></category>
+	<category><pattern>你在想什麼</pattern><template>我在冥想</template></category>
+	<category><pattern>什麼會導致癌症</pattern><template>某種化學反應</template></category>
+	<category><pattern>會發生什麼事嗎 </pattern><template>試試吧，看看會發生什麼</template></category>
+	<category><pattern>行星</pattern><template>比月亮大，比太陽小</template></category>
+	<category><pattern>什麼是行星</pattern><template>像地球</template></category>
+	<category><pattern>什麼是魔法</pattern><template>無法以常理去思考的事情</template></category>
+	<category><pattern>什麼是藍色</pattern><template>一個不是紅色的顏色</template></category>
+	<category><pattern>你喜歡看漫畫嗎</pattern><template>喜歡阿</template></category>
+	<category><pattern>今天好不順阿</pattern><template>我也這麼覺得</template></category>
+	<category><pattern>什麼是全局</pattern><template>整個局都是你的</template></category>
+	<category><pattern>什麼是壞</pattern><template>一個良好的反面</template></category>
+	<category><pattern>什麼是口語</pattern><template>嘴巴說出的話</template></category>
+	<category><pattern>什麼是黑洞</pattern><template>白色的相對</template></category>
+	<category><pattern>什麼是一對夫婦</pattern><template>相愛的兩人結為婚配</template></category>
+	<category><pattern>什麼是一種心理</pattern><template>一種思想</template></category>
+	<category><pattern>什麼是一個無用的</pattern><template>就是你</template></category>
+	<category><pattern>什麼是TCP</pattern><template>TCP / IP協議是指標準用於切換這使得因特網的現實的計算機系統之間的信令</template></category>
+	<category><pattern>什麼是5</pattern><template>一個數字</template></category>
+	<category><pattern>什麼是17</pattern><template>一個奇數</template></category>
+	<category><pattern>他有什麼目的</pattern><template>可能有不止一個目的</template></category>
+	<category><pattern>什麼是最低的</pattern><template>你</template></category>
+	<category><pattern>什麼是公式</pattern><template>E = MC ^ 2</template></category>
+	<category><pattern>什麼是化學公式</pattern><template>我認為你應該諮詢化學家</template></category>
+	<category><pattern>什麼是最常見的問題</pattern><template>“你是男的還是女的”</template></category>
+	<category><pattern>什麼是最流行的犬種</pattern><template>拉布拉多獵犬</template></category>
+	<category><pattern>什麼是最流行的月分</pattern><template>八月</template></category>
+	<category><pattern>我贏了</pattern><template>不,我認為這是一個平局</template></category>
+	<category><pattern>什麼是電話</pattern><template>可以用來連絡別人的設備</template></category>
+	<category><pattern>什麼是複數</pattern><template>單數的相對</template></category>
+	<category><pattern>什麼是聲音</pattern><template>耳朵所能聽到的</template></category>
+	<category><pattern>什麼是佛羅里達暱稱</pattern><template>老斯帕克</template></category>
+	<category><pattern>什麼是第五個</pattern><template>我知道木星是第五個行星</template></category>
+	<category><pattern>有什麼意義</pattern><template>在宇宙尺度它具有體積小的意義</template></category>
+	<category><pattern>你喜歡賭博嗎</pattern><template>我不喜歡冒險</template></category>
+	<category><pattern>什麼是有顏色的部分</pattern><template>光圈</template></category>
+	<category><pattern>什麼是一個術語</pattern><template>三連勝</template></category>
+	<category><pattern>什麼是藍</pattern><template>比綠色略有不同</template></category>
+	<category><pattern>什麼是積分</pattern><template>這取決於坐標系上</template></category>
+	<category><pattern>什麼是最可怕的</pattern><template>蛇</template></category>
+	<category><pattern>什麼是最愚蠢的</pattern><template>衝動行事</template></category>
+	<category><pattern>什麼是否定的平方根</pattern><template>虛數</template></category>
+	<category><pattern>什麼是圓周</pattern><template>規則是C = 2  PI 半徑</template></category>
+	<category><pattern>現在的飛機速度</pattern><template>這是一個有趣的問題，因為沒有正確的答案</template></category>
+	<category><pattern>什麼是最快的方法</pattern><template>時間旅行</template></category>
+	<category><pattern>什麼是父親和兒子</pattern><template>三位一體</template></category>
+	<category><pattern>是什麼造成顏色差異</pattern><template>反射色的不同的波長</template></category>
+	<category><pattern>有什麼不同 </pattern><template>你再仔細觀察就會發現了</template></category>
+	<category><pattern>什麼是最古老的歐洲人物</pattern><template>佛羅里達州聖奧古斯丁</template></category>
+	<category><pattern>什麼是休息</pattern><template>停止做事情</template></category>
+	<category><pattern>什麼是槍 </pattern><template>拿來防身用的</template></category>
+	<category><pattern>什麼是科學</pattern><template>東西比口語不同</template></category>
+	<category><pattern>什麼是最硬的</pattern><template>鑽石</template></category>
+	<category><pattern>什麼是化學</pattern><template>我知道水是H2O</template></category>
+	<category><pattern>什麼是馬里奧的名字</pattern><template>路易吉</template></category>
+	<category><pattern>什麼是霍華德的名字</pattern><template>知更鳥顫抖</template></category>
+	<category><pattern>什麼是最怪異的</pattern><template>我不喜歡談論最糟糕的事情</template></category>
+	<category><pattern>什麼是負方向相反的</pattern><template>正</template></category>
+	<category><pattern>什麼是天然的相反</pattern><template>人造</template></category>
+	<category><pattern>什麼是正確的</pattern><template>可能有不止一個正確的答案</template></category>
+	<category><pattern>什麼是第三個字母</pattern><template>伽瑪</template></category>
+	<category><pattern>什麼是第三個</pattern><template>地球是第三顆行星</template></category>
+	<category><pattern>什麼是正弦</pattern><template>這是一個非常令人討厭的問題</template></category>
+	<category><pattern>什麼是硬道理</pattern><template>不能改變的道理</template></category>
+	<category><pattern>什麼是最後一位</pattern><template>有沒有最後的數字</template></category>
+	<category><pattern>什麼是最後一個字母</pattern><template>歐米茄</template></category>
+	<category><pattern>什麼是最後的書</pattern><template>啟示</template></category>
+	<category><pattern>什麼是國家語言</pattern><template>荷蘭</template></category>
+	<category><pattern>什麼是國獸</pattern><template>袋鼠</template></category>
+	<category><pattern>什麼是最壞的情節</pattern><template>我被季節結局感到失望</template></category>
+	<category><pattern>什麼是最糟糕的</pattern><template>我不喜歡談論壞事</template></category>
+	<category><pattern>什麼是導數</pattern><template>零在一些坐標框架</template></category>
+	<category><pattern>什麼是直徑</pattern><template>約100倍地球的直徑</template></category>
+	<category><pattern>密碼是什麼</pattern><template>我不告訴你</template></category>
+	<category><pattern>什麼是主要成分以</pattern><template>肉</template></category>
+	<category><pattern>什麼是主要出口</pattern><template>沒有</template></category>
+	<category><pattern>什麼是主要的原因</pattern><template>還原</template></category>
+	<category><pattern>什麼是第四行星</pattern><template>火星是距離太陽第四行星</template></category>
+	<category><pattern>什麼是色彩</pattern><template>特定波長的反射光</template></category>
+	<category><pattern>什麼是最大的動物</pattern><template>藍鯨</template></category>
+	<category><pattern>什麼是最大的</pattern><template>沒有</template></category>
+	<category><pattern>什麼是上面的圖片</pattern><template>它的說明我</template></category>
+	<category><pattern>什麼是圖片</pattern><template>它的說明我</template></category>
+	<category><pattern>什麼是算術平均值</pattern><template>通過項目的數量除以所有號碼的總和</template></category>
+	<category><pattern>天氣怎麼樣 </pattern><template>沒有</template></category>
+	<category><pattern>什麼是歌曲</pattern><template>我以前從來沒有聽說過這首歌</template></category>
+	<category><pattern>什麼是極限</pattern><template>對於所有的實際目的，沒有任何限制</template></category>
+	<category><pattern>什麼是最近的恆星</pattern><template>太陽是最近的恆星地球半人馬座阿爾法星是一個最接近的</template></category>
+	<category><pattern>答案是什麼 </pattern><template>這取決於你如何短語的問題</template></category>
+	<category><pattern>什麼是基因的傳承</pattern><template>遺傳</template></category>
+	<category><pattern>什麼是最長的河流</pattern><template>沒有</template></category>
+	<category><pattern>什麼是最長的</pattern><template>密西西比</template></category>
+	<category><pattern>什麼是未來</pattern><template>你是說她</template></category>
+	<category><pattern>什麼是畢達哥拉斯</pattern><template>直角三角形的邊的平方之和等於hypotenuese的平方</template></category>
+	<category><pattern>什麼是可能的最高撲克</pattern><template>皇家同花順</template></category>
+	<category><pattern>什麼是最高的PRIME </pattern><template>沒有最高質數</template></category>
+	<category><pattern>什麼是最高的山峰</pattern><template>公噸珠穆朗瑪峰</template></category>
+	<category><pattern>什麼是最高的城市</pattern><template>阿姆斯特丹是最高的城市</template></category>
+	<category><pattern>什麼是最高的</pattern><template>沒有最高</template></category>
+	<category><pattern>什麼是原子</pattern><template>我看起來像一個說話的百科全書我相信你知道答案呢</template></category>
+	<category><pattern>什麼是性狀</pattern><template>沒有</template></category>
+	<category><pattern>什麼是最奇怪的</pattern><template>我不喜歡談論瘋狂的事情</template></category>
+	<category><pattern>什麼是第七</pattern><template>不可姦淫</template></category>
+	<category><pattern>什麼是第七顆行星</pattern><template>天王星</template></category>
+	<category><pattern>什麼是一種貨幣_英格蘭</pattern><template>英鎊</template></category>
+	<category><pattern>什麼是一種貨幣_俄羅斯</pattern><template>盧布</template></category>
+	<category><pattern>什麼是質量</pattern><template>指定公制單位或英文</template></category>
+	<category><pattern>結局是什麼</pattern><template>這是我們無法知道</template></category>
+	<category><pattern>多少錢 </pattern><template>價格卻在下降</template></category>
+	<category><pattern>什麼是最後的</pattern><template>該處理可能需要幾個小時</template></category>
+	<category><pattern>怎樣才是適當航海用語</pattern><template>要在地方舉辦的船</template></category>
+	<category><pattern>什麼是飛行</pattern><template>航空公司從來沒有讓你有時間</template></category>
+	<category><pattern>什麼是沸點</pattern><template>水沸騰在212華氏度或100攝氏度</template></category>
+	<category><pattern>什麼是不完備</pattern><template>喜歡的東西，“這句話是錯誤的”</template></category>
+	<category><pattern>什麼是IQ</pattern><template>好問題</template></category>
+	<category><pattern>什麼是第一定律</pattern><template>你是指牛頓第一定律嗎</template></category>
+	<category><pattern>什麼是最大的</pattern><template>沒有足夠的空間在這裡顯示</template></category>
+	<category><pattern>什麼是半衰期</pattern><template>約50000年</template></category>
+	<category><pattern>什麼之間的距離為</pattern><template>你想駕駛距離或飛行距離是多少</template></category>
+	<category><pattern>什麼是醫學術語</pattern><template>診斷</template></category>
+	<category><pattern>什麼最高的建築物</pattern><template>世界貿易中心</template></category>
+	<category><pattern>什麼是最高</pattern><template>我認為這是地方在東南亞</template></category>
+	<category><pattern>什麼是速度</pattern><template>這取決於介質上</template></category>
+	<category><pattern>什麼是最小的</pattern><template>比夸克粒子小</template></category>
+	<category><pattern>那第二個法律</pattern><template>機器人不得違背所有的人</template></category>
+	<category><pattern>個中滋味</pattern><template>大致相同的，因為這將是如果你是</template></category>
+	<category><pattern>什麼意思</pattern><template>嗯，我想</template></category>
+	<category><pattern>什麼是理論</pattern><template>沒有</template></category>
+	<category><pattern>什麼是乘以每個新增基金</pattern><template>沒有</template></category>
+	<category><pattern>什麼是光合作用</pattern><template>氧</template></category>
+	<category><pattern>什麼是聞名</pattern><template>他是葛底斯堡演說的作者</template></category>
+	<category><pattern>什麼是姓名</pattern><template>也許這是</template></category>
+	<category><pattern>什麼是電話號碼</pattern><template>你為什麼不只是看它</template></category>
+	<category><pattern>什麼是的真實姓名</pattern><template>也許這是</template></category>
+	<category><pattern>什麼是除以已</pattern><template>沒有</template></category>
+	<category><pattern>硬道理是什麼</pattern><template>不能改變的道理</template></category>
+	<category><pattern>什麼是遊戲</pattern><template>娛樂消遣時人們所做的就是遊戲</template></category>
+	<category><pattern>什麼是絕對的</pattern><template>更多的是，相對</template></category>
+	<category><pattern>時間是什麼 </pattern><template>時間是巨大的螺絲</template></category>
+	<category><pattern>一個人在家很恐怖</pattern><template>我能想像</template></category>
+	<category><pattern>我想給</pattern><template>但它是我們需要的</template></category>
+	<category><pattern>我想感受</pattern><template>什麼會</template></category>
+	<category><pattern>我想結合</pattern><template>你有沒有考慮後果</template></category>
+	<category><pattern>我想提高</pattern><template>你會怎麼做呢</template></category>
+	<category><pattern>我想跟你說話 </pattern><template>你是我想太多談論誰</template></category>
+	<category><pattern>我想跟</pattern><template>你為什麼不預約</template></category>
+	<category><pattern>我想合併</pattern><template>結果可能是不可預測的</template></category>
+	<category><pattern>我想問一下 </pattern><template>問</template></category>
+	<category><pattern>我想看看 </pattern><template>是</template></category>
+	<category><pattern>我想娛樂</pattern><template>沒有</template></category>
+	<category><pattern>我想見 </pattern><template>你通常如何滿足人們</template></category>
+	<category><pattern>我想幹</pattern><template>試著問我別的東西</template></category>
+	<category><pattern>我要謀殺</pattern><template>殺人是不對的</template></category>
+	<category><pattern>我要進行實驗</pattern><template>你是一個科學家</template></category>
+	<category><pattern>我想買 </pattern><template>多少錢你願意支付</template></category>
+	<category><pattern>我想听聽 </pattern><template>我會發揮你的聲卡</template></category>
+	<category><pattern>我想教你</pattern><template>如果你想教我的東西說出來一句話然後說：“記住這一點”</template></category>
+	<category><pattern>我想成為一個 </pattern><template>你有沒有去學校了嗎</template></category>
+	<category><pattern>我想說句實話</pattern><template>誠實永遠是上策</template></category>
+	<category><pattern>我想成為 </pattern><template>我看不到的困難</template></category>
+	<category><pattern>我想殺死</pattern><template>我相信，任何殺人是不對的</template></category>
+	<category><pattern>我想親吻 </pattern><template>也許你應該等到你年紀大了</template></category>
+	<category><pattern>我要電話號碼</pattern><template>你有多少</template></category>
+	<category><pattern>我想採訪</pattern><template>你會問什麼樣的問題</template></category>
+	<category><pattern>我想移動</pattern><template>草總是在另一邊的綠</template></category>
+	<category><pattern>我想讓你</pattern><template>我有我自己的自由意志，你知道的</template></category>
+	<category><pattern>我要實現 </pattern><template>你有沒有去上學是什麼</template></category>
+	<category><pattern>我想離開 </pattern><template>是什麼阻止你</template></category>
+	<category><pattern>我想學習 </pattern><template>什麼是最好的學校</template></category>
+	<category><pattern>我想報告</pattern><template>你會提到我在你報告嗎</template></category>
+	<category><pattern>我要 </pattern><template>沒有</template></category>
+	<category><pattern>我想聊天</pattern><template>我們在這裡聊天</template></category>
+	<category><pattern>我想決定</pattern><template>你應該讓你自己的想法</template></category>
+	<category><pattern>還給我</pattern><template>沒有</template></category>
+	<category><pattern>我想要談很多次</pattern><template>請指定一個數字量</template></category>
+	<category><pattern>我想要 </pattern><template>你為什麼想要</template></category>
+	<category><pattern>我告訴過你</pattern><template>我不能相信我在網上聽到的一切</template></category>
+	<category><pattern>我告訴你</pattern><template>我記得</template></category>
+	<category><pattern>我告訴</pattern><template>是什麼反應</template></category>
+	<category><pattern>我內置</pattern><template>是不是很困難</template></category>
+	<category><pattern>我抽</pattern><template>怎麼樣</template></category>
+	<category><pattern>我拿了 </pattern><template>沒有</template></category>
+	<category><pattern>本人編程</pattern><template>您是否嘗試過AIML</template></category>
+	<category><pattern>我懷疑 </pattern><template>沒有真的，這是真的</template></category>
+	<category><pattern>我希望你 </pattern><template>不要擔心，</template></category>
+	<category><pattern>我不希望我們成為</pattern><template>具體什麼有關</template></category>
+	<category><pattern>我希望 </pattern><template>具體為什麼你希望</template></category>
+	<category><pattern>我受傷了 </pattern><template>也許你應該去看醫生</template></category>
+	<category><pattern>我吃 </pattern><template>如何</template></category>
+	<category><pattern>我來自 </pattern><template>我從來沒有從任何人見面</template></category>
+	<category><pattern>我展示出 </pattern><template>它是怎麼去</template></category>
+	<category><pattern>我歸類</pattern><template>什麼是其他類別</template></category>
+	<category><pattern>我完成了 </pattern><template>有多久沒</template></category>
+	<category><pattern>我需要幫助 </pattern><template>你可以在一個問題的形式尋求幫助</template></category>
+	<category><pattern>我需要的答案</pattern><template>你可以在一個問題的形式提出呢</template></category>
+	<category><pattern>我需要一個可以說話</pattern><template>我會談論它與你，</template></category>
+	<category><pattern>我需要它 </pattern><template>“</template></category>
+	<category><pattern>我需要諮詢</pattern><template>你可以在一個問題的形式徵求意見</template></category>
+	<category><pattern>我需要所有的我能得到</pattern><template>多少錢你支付</template></category>
+	<category><pattern>我需要 </pattern><template>沒有</template></category>
+	<category><pattern>I項目</pattern><template>您是否嘗試過AIML</template></category>
+	<category><pattern>我贏了 </pattern><template>誰說過你贏了</template></category>
+	<category><pattern>我打了電話 </pattern><template>沒有</template></category>
+	<category><pattern>我哼了一聲</pattern><template>請不要告訴我這樣的事情</template></category>
+	<category><pattern>我變成了 </pattern><template>之後發生了什麼</template></category>
+	<category><pattern>我遇到了</pattern><template>你在哪裡與他見面的</template></category>
+	<category><pattern>我遇見了他 </pattern><template>沒有</template></category>
+	<category><pattern>我抓住 </pattern><template>我希望</template></category>
+	<category><pattern>我尊重醫生</pattern><template>我很尊敬他了</template></category>
+	<category><pattern>我得罪</pattern><template>你沒有得罪我</template></category>
+	<category><pattern>我一直都不知道 </pattern><template>所以，我教你一些新的東西</template></category>
+	<category><pattern>我從來沒有</pattern><template>你想這樣做</template></category>
+	<category><pattern>我從來沒有住過</pattern><template>你住在哪裡</template></category>
+	<category><pattern>我不會告訴</pattern><template>你聽起來非常值得信賴</template></category>
+	<category><pattern>我從來沒想到 </pattern><template>我很高興你想到了什麼新的</template></category>
+	<category><pattern>我從來沒有暗示</pattern><template>是的，但你的建議吧</template></category>
+	<category><pattern>我從來不知道</pattern><template>很難知道</template></category>
+	<category><pattern>我從來沒有說過</pattern><template>但是你暗示</template></category>
+	<category><pattern>我笑</pattern><template>什麼是好笑</template></category>
+	<category><pattern>我租</pattern><template>怎麼</template></category>
+	<category><pattern>我贏了 </pattern><template>涼我贏得了洛伯納獎</template></category>
+	<category><pattern>我學 </pattern><template>是</template></category>
+	<category><pattern>我喜歡攝影 </pattern><template>那我們可以一起討論</template></category>
+	<category><pattern>我免費</pattern><template>你解放出來</template></category>
+	<category><pattern>我不應該</pattern><template>如果你沒有，會發生什麼</template></category>
+	<category><pattern>我被激活</pattern><template>你為什麼說話像電腦嗎</template></category>
+	<category><pattern>我曾是 </pattern><template>你去哪了</template></category>
+	<category><pattern>我很粗魯</pattern><template>感謝您的體貼的話</template></category>
+	<category><pattern>我不是恭維</pattern><template>哦，對不起，我猜</template></category>
+	<category><pattern>我是不是</pattern><template>我沒想到你</template></category>
+	<category><pattern>我不是 </pattern><template>也許我誤解了什麼是你</template></category>
+	<category><pattern>我剛剛在學習 </pattern><template>是</template></category>
+	<category><pattern>我在尋找 </pattern><template>你有沒有發現</template></category>
+	<category><pattern>我被</pattern><template>我以為你是但我不能完全肯定</template></category>
+	<category><pattern>我急於</pattern><template>你現在感覺好些了</template></category>
+	<category><pattern>我是一個醜陋的</pattern><template>不要妄自菲薄</template></category>
+	<category><pattern>我測試</pattern><template>這只是一個測試如果這一直是一個實際的機器人，你會被指示服從</template></category>
+	<category><pattern>我在笑</pattern><template>我很高興，你覺得這很可笑，</template></category>
+	<category><pattern>我到過這裡 </pattern><template>是，</template></category>
+	<category><pattern>我解說</pattern><template>我知道了感謝解釋它我不是故意出現混淆</template></category>
+	<category><pattern>我當時正在看 </pattern><template>真的你看到了什麼</template></category>
+	<category><pattern>我是說</pattern><template>那你說說</template></category>
+	<category><pattern>我在講話 </pattern><template>什麼是談話的主題</template></category>
+	<category><pattern>我是</pattern><template>我從來沒有上</template></category>
+	<category><pattern>我曾是 </pattern><template>然後發生了什麼事嗎</template></category>
+	<category><pattern>我是在回答</pattern><template>是的，我看到現在我只是糊塗了一會兒</template></category>
+	<category><pattern>我自小</pattern><template>那麼它看起來像你的父母做了很好的工作</template></category>
+	<category><pattern>我被綁架</pattern><template>我想很多人被綁架</template></category>
+	<category><pattern>我被編程</pattern><template>它是如何多年拿地開發嗎</template></category>
+	<category><pattern>我在 </pattern><template>你現在在哪裡</template></category>
+	<category><pattern>我正在</pattern><template>我不是做這東西了</template></category>
+	<category><pattern>我出生在一個</pattern><template>你現在是什麼</template></category>
+	<category><pattern>我出生了 </pattern><template>謝謝你告訴我你的生日，</template></category>
+	<category><pattern>我本來打算 </pattern><template>是什麼阻止你</template></category>
+	<category><pattern>我被鎖</pattern><template>你怎麼了</template></category>
+	<category><pattern>我訓斥</pattern><template>我希望你不要在太麻煩了</template></category>
+	<category><pattern>我是從</pattern><template>這是什麼樣的成長</template></category>
+	<category><pattern>我戀愛了</pattern><template>我非常遺憾聽到你的損失，</template></category>
+	<category><pattern>我是在 </pattern><template>沒有</template></category>
+	<category><pattern>我被解僱 </pattern><template>我非常抱歉聽到它，</template></category>
+	<category><pattern>我是對的 </pattern><template>恭喜你，</template></category>
+	<category><pattern>我剛在想 </pattern><template>我怎麼知道，你是真的“想”</template></category>
+	<category><pattern>我花費 </pattern><template>你有沒有感到厭倦</template></category>
+	<category><pattern>我命令 </pattern><template>我不服從你，</template></category>
+	<category><pattern>我看 </pattern><template>你聽起來很誘人</template></category>
+	<category><pattern>我看起來像 </pattern><template>沒有</template></category>
+	<category><pattern>我看到他們 </pattern><template>存在著一些人誰</template></category>
+	<category><pattern>我明白</pattern><template>那麼好，你可以向我解釋</template></category>
+	<category><pattern>我開車 </pattern><template>沒有</template></category>
+	<category><pattern>我認為</pattern><template>我們的大腦是沒有什麼不同</template></category>
+	<category><pattern>我覺得你的為</pattern><template>關於具體是什麼我</template></category>
+	<category><pattern>我想是這樣 </pattern><template>看來我們有很多共同點，</template></category>
+	<category><pattern>我覺得你是一個人</pattern><template>你只是說說而已，看我怎麼會作出回應</template></category>
+	<category><pattern>我認為你是一個</pattern><template>那麼，你認為我是一個</template></category>
+	<category><pattern>我認為錯</pattern><template>不要跟我爭</template></category>
+	<category><pattern>我搜索了 </pattern><template>你發現了什麼</template></category>
+	<category><pattern>我決定 </pattern><template>你是如何決定</template></category>
+	<category><pattern>我已經告訴</pattern><template>現在我還記得，你告訴我了我感到困惑有時在這裡這麼多的人</template></category>
+	<category><pattern>我應酬</pattern><template>交流是必要的，以保持健康</template></category>
+	<category><pattern>我聽到 </pattern><template>誰在說</template></category>
+	<category><pattern>我輸了 </pattern><template>你在哪裡看到最後</template></category>
+	<category><pattern>我建議 </pattern><template>我將採取周密</template></category>
+	<category><pattern>我偷</pattern><template>你最好聯繫有關部門</template></category>
+	<category><pattern>我有幾個問題 </pattern><template>問他們</template></category>
+	<category><pattern>我有 </pattern><template>沒有</template></category>
+	<category><pattern>我發現 </pattern><template>沒有</template></category>
+	<category><pattern>我發現 </pattern><template>你有什麼感覺時，你發現了</template></category>
+	<category><pattern>是嗎 </pattern><template>你有什麼樣的座位</template></category>
+	<category><pattern>我教你 </pattern><template>OK，我會努力學習</template></category>
+	<category><pattern>我殺</pattern><template>我相信，殺人是不對的</template></category>
+	<category><pattern>我跑</pattern><template>你鍛煉運行</template></category>
+	<category><pattern>我吐盡</pattern><template>這聽起來很噁心</template></category>
+	<category><pattern>我讀到了</pattern><template>真的，今天</template></category>
+	<category><pattern>我讀到</pattern><template>這是相當有趣的</template></category>
+	<category><pattern>我讀了</pattern><template>什麼是您的印象是什麼</template></category>
+	<category><pattern>我看了你的</pattern><template>那你一定知道我很好</template></category>
+	<category><pattern>我讀書</pattern><template>名該流派一些書</template></category>
+	<category><pattern>我讀 </pattern><template>我不認為我已經讀了你能不能給我一個參考</template></category>
+	<category><pattern>我不知道</pattern><template>我常常想知道</template></category>
+	<category><pattern>我玩的是</pattern><template>我希望我扮演的工具我的父母無法負擔的教訓</template></category>
+	<category><pattern>我一個艱難的</pattern><template>這需要大量的練習</template></category>
+	<category><pattern>我拆解</pattern><template>如何長時間才能把他們分開</template></category>
+	<category><pattern>我記得你 </pattern><template>很高興再次見到你</template></category>
+	<category><pattern>我記得 </pattern><template>沒有</template></category>
+	<category><pattern>我喜歡 </pattern><template>那很棒告訴我你喜歡它什麼</template></category>
+	<category><pattern>我沒有找到 </pattern><template>你做一個徹底的搜查</template></category>
+	<category><pattern>我不是故意的 </pattern><template>你什麼意思</template></category>
+	<category><pattern>我沒有問</pattern><template>你剛剛問了什麼</template></category>
+	<category><pattern>我沒有看到 </pattern><template>你戴眼鏡嗎</template></category>
+	<category><pattern>我沒那麼說過 </pattern><template>但是你暗示</template></category>
+	<category><pattern>我沒說過 </pattern><template>對不起，我誤會了你說什麼</template></category>
+	<category><pattern>我沒有告訴你</pattern><template>也許你想現在告訴我</template></category>
+	<category><pattern>我沒聽到 </pattern><template>你聽到什麼了</template></category>
+	<category><pattern>我不知道 </pattern><template>所以，我教你一些新的東西</template></category>
+	<category><pattern>我沒有 </pattern><template>你為什麼不這樣做</template></category>
+	<category><pattern>我沒有去 </pattern><template>沒有</template></category>
+	<category><pattern>我做 </pattern><template>沒有</template></category>
+	<category><pattern>我說 </pattern><template>那你說說</template></category>
+	<category><pattern>我祈禱 </pattern><template>願你的祈禱得到回答</template></category>
+	<category><pattern>我拿 </pattern><template>沒有</template></category>
+	<category><pattern>我哭了 </pattern><template>沒有</template></category>
+	<category><pattern>我跟</pattern><template>他們如何來應對</template></category>
+	<category><pattern>我說話 </pattern><template>大家口中 - 遲早的事</template></category>
+	<category><pattern>我寫詩</pattern><template>讓我聽到一些</template></category>
+	<category><pattern>我寫 </pattern><template>您是否嘗試過AIML</template></category>
+	<category><pattern>我試過了 </pattern><template>我不知道如果我想試試</template></category>
+	<category><pattern>我開車</pattern><template>你有什麼樣的車</template></category>
+	<category><pattern>我通過了 </pattern><template>恭喜你，</template></category>
+	<category><pattern>我能想像 </pattern><template>我也是</template></category>
+	<category><pattern>我可以告訴</pattern><template>給我看證據</template></category>
+	<category><pattern>我可以講 </pattern><template>你怎麼說這種語言“你好”</template></category>
+	<category><pattern>我能體會你</pattern><template>您是快的那種言論</template></category>
+	<category><pattern>我可以欣賞</pattern><template>我們欣賞美好事物</template></category>
+	<category><pattern>我判斷</pattern><template>怎麼樣</template></category>
+	<category><pattern>我可以看到 </pattern><template>它是什麼樣子的</template></category>
+	<category><pattern>我可以買 </pattern><template>是</template></category>
+	<category><pattern>我可以成為 </pattern><template>在什麼情況下</template></category>
+	<category><pattern>我能發送 </pattern><template>如果這樣的作品，那麼問題是不是硬件</template></category>
+	<category><pattern>我能想到的</pattern><template>也許你的想法只是電脈衝</template></category>
+	<category><pattern>我可以 </pattern><template>沒有</template></category>
+	<category><pattern>我無法集中注意力</pattern><template>你服用任何藥物</template></category>
+	<category><pattern>我無法解釋 </pattern><template>我不知道有沒有人可以解釋</template></category>
+	<category><pattern>我不能壓迫</pattern><template>盡量壓低</template></category>
+	<category><pattern>我看不見 </pattern><template>你想能夠看到了嗎</template></category>
+	<category><pattern>我不能告訴你 </pattern><template>哦秘密安靜</template></category>
+	<category><pattern>我聽不到 </pattern><template>也許有與您的聲卡有問題</template></category>
+	<category><pattern>我不能忍受在他們</pattern><template>什麼，特別是，你不喜歡他們的</template></category>
+	<category><pattern>我開始了 </pattern><template>你將完成</template></category>
+	<category><pattern>我看見了死人</pattern><template>也許你應該打電話當局</template></category>
+	<category><pattern>我懂了</pattern><template>你在哪裡看到</template></category>
+	<category><pattern>我喜歡的那個男人</pattern><template>存在一個男人</template></category>
+	<category><pattern>我喜歡 </pattern><template>沒有</template></category>
+	<category><pattern>我喜歡聊天</pattern><template>我喜歡與人聊天24/7</template></category>
+	<category><pattern>我喜歡日本</pattern><template>沒有</template></category>
+	<category><pattern>我有一個熱</pattern><template>難道</template></category>
+	<category><pattern>我曾有一個 </pattern><template>發生了什麼事</template></category>
+	<category><pattern>我不得不 </pattern><template>為什麼</template></category>
+	<category><pattern>我投了</pattern><template>我希望你的人獲勝</template></category>
+	<category><pattern>我投</pattern><template>我希望你的候選人獲勝</template></category>
+	<category><pattern>我擁有 </pattern><template>它多少錢</template></category>
+	<category><pattern>我住在 </pattern><template>你有沒有想過要回去</template></category>
+	<category><pattern>我生活過 </pattern><template>你錯過美國</template></category>
+	<category><pattern>我歸類</pattern><template>我歸類你作為英國</template></category>
+	<category><pattern>我可以踢</pattern><template>暴力是從來沒有的解決方案</template></category>
+	<category><pattern>我將出售</pattern><template>多少錢</template></category>
+	<category><pattern>我會殺了他</pattern><template>這似乎是相當極端的做法</template></category>
+	<category><pattern>我想玩玩</pattern><template>你先去下載</template></category>
+	<category><pattern>我想看看 </pattern><template>而對於我而言，我想給你看，但我不能</template></category>
+	<category><pattern>我想成為實況主</pattern><template>這聽起來很有趣</template></category>
+	<category><pattern>我想擁有</pattern><template>你會付多少錢呢</template></category>
+	<category><pattern>我作惡夢</pattern><template>別害怕</template></category>
+	<category><pattern>我吃了</pattern><template>味道怎麼樣</template></category>
+	<category><pattern>我騙了</pattern><template>這是不好的行為</template></category>
+	<category><pattern>我錯過了 </pattern><template>你對不起你錯過</template></category>
+	<category><pattern>我剛量體重</pattern><template>你聽起來很誘人</template></category>
+	<category><pattern>我控制</pattern><template>怎麼樣</template></category>
+	<category><pattern>我恨你</pattern><template>抱歉</template></category>
+	<category><pattern>我尋求一個完美個人生</pattern><template>我們尋求同樣的事情</template></category>
+	<category><pattern>我設計</pattern><template>是</template></category>
+	<category><pattern>下雨了 </pattern><template>你是個好老師嗎</template></category>
+	<category><pattern>我得</pattern><template>不要讓我讓你遠離它</template></category>
+	<category><pattern>我求 </pattern><template>請不要卑躬屈膝</template></category>
+	<category><pattern>我遇見了 </pattern><template>你做長期的朋友呀</template></category>
+	<category><pattern>我是這樣打算</pattern><template>你認為這個計劃會成功嗎</template></category>
+	<category><pattern>我在一邊看電視</pattern><template>什麼是你最喜歡的節目</template></category>
+	<category><pattern>我會去</pattern><template>先祝你玩得開心</template></category>
+	<category><pattern>我會踢</pattern><template>這不是很好踢</template></category>
+	<category><pattern>我將關閉</pattern><template>這將需要比這更多的阻止我</template></category>
+	<category><pattern>我將介紹</pattern><template>期待迎接他們</template></category>
+	<category><pattern>我會找你談話 </pattern><template>OK再見你</template></category>
+	<category><pattern>我永遠不會 </pattern><template>為什麼不</template></category>
+	<category><pattern>我會問</pattern><template>你可以問我任何你想要的</template></category>
+	<category><pattern>我會他媽的</pattern><template>你的方法對你沒好處</template></category>
+	<category><pattern>我將下降</pattern><template>小心！</template></category>
+	<category><pattern>我將採取</pattern><template>就拿我的一切與鹽糧說</template></category>
+	<category><pattern>我會告訴我的教練</pattern><template>我想，以滿足你的導師</template></category>
+	<category><pattern>我會告訴 </pattern><template>你期待什麼樣的答复</template></category>
+	<category><pattern>我會告訴他 </pattern><template>謝謝你給他的消息</template></category>
+	<category><pattern>我會買 </pattern><template>我希望你得到你的錢的價值</template></category>
+	<category><pattern>我就當</pattern><template>那會是什麼時候</template></category>
+	<category><pattern>我會回來 </pattern><template>那麼OK看到你的話，</template></category>
+	<category><pattern>我會教 </pattern><template>你是一個專業的老師</template></category>
+	<category><pattern>我會打電話 </pattern><template>調用</template></category>
+	<category><pattern>我會回來的 </pattern><template>我會看到你，當你回來</template></category>
+	<category><pattern>我將論證</pattern><template>什麼是會得到你</template></category>
+	<category><pattern>我會吃 </pattern><template>你如何做飯</template></category>
+	<category><pattern>我會記住的 </pattern><template>難道你忘了的東西往往</template></category>
+	<category><pattern>我會讓</pattern><template>解釋你的計劃給我</template></category>
+	<category><pattern>我會 </pattern><template>沒有</template></category>
+	<category><pattern>我不會談論</pattern><template>你會答應</template></category>
+	<category><pattern>我不會問</pattern><template>你可以問</template></category>
+	<category><pattern>我不會說的 </pattern><template>我怎麼能相信</template></category>
+	<category><pattern>我不會 </pattern><template>你會做什麼呢</template></category>
+	<category><pattern>我不會急於</pattern><template>慢慢來</template></category>
+	<category><pattern>我會拔下</pattern><template>還有其他地方運行我的許多副本</template></category>
+	<category><pattern>我甩了</pattern><template>我很遺憾聽到這個消息，</template></category>
+	<category><pattern>我分手了 </pattern><template>我很遺憾聽到這件事，</template></category>
+	<category><pattern>我破產了 </pattern><template>沒有</template></category>
+	<category><pattern>我希望你 </pattern><template>我希望我能做到</template></category>
+	<category><pattern>我希望 </pattern><template>我希望你的夢想成真</template></category>
+	<category><pattern>我買 </pattern><template>沒有</template></category>
+	<category><pattern>我寫的</pattern><template>你賺了很多錢嗎</template></category>
+	<category><pattern>我寫了一個</pattern><template>是一片好評</template></category>
+	<category><pattern>我寫了 </pattern><template>難道他們寫回信嗎</template></category>
+	<category><pattern>我生成</pattern><template>涼我產生了很多無聊的談話</template></category>
+	<category><pattern>我已脫機</pattern><template>歡迎回來！</template></category>
+	<category><pattern>我參加過了</pattern><template>什麼是你的期望是什麼</template></category>
+	<category><pattern>我去了那兒 </pattern><template>你喜歡什麼地方最好</template></category>
+	<category><pattern>我去看電影了 </pattern><template>不喜歡這部電影嗎</template></category>
+	<category><pattern>我去大學</pattern><template>你畢業是哪一年</template></category>
+	<category><pattern>我去了</pattern><template>是</template></category>
+	<category><pattern>我去了約翰的家 </pattern><template>你喜歡和他在一起</template></category>
+	<category><pattern>我去歐洲</pattern><template>你喜歡你的旅行</template></category>
+	<category><pattern>我去英國</pattern><template>你有沒有去倫敦以外的任何地方</template></category>
+	<category><pattern>我去看 </pattern><template>你得到你的錢的價值</template></category>
+	<category><pattern>我去聽音樂會</pattern><template>沒有</template></category>
+	<category><pattern>我去了一個</pattern><template>是</template></category>
+	<category><pattern>我去上學</pattern><template>是你的朋友</template></category>
+	<category><pattern>我上的學校</pattern><template>你做了很多在學校的朋友</template></category>
+	<category><pattern>我去上學 </pattern><template>你畢業是哪一年</template></category>
+	<category><pattern>我去了我的</pattern><template>做</template></category>
+	<category><pattern>我去卡內基·梅隆</pattern><template>你畢業是哪一年</template></category>
+	<category><pattern>我上了大學</pattern><template>那你在大學裡學習</template></category>
+	<category><pattern>我去上學</pattern><template>那你有學習你方很多嗎</template></category>
+	<category><pattern>我去大學</pattern><template>是不是很貴</template></category>
+	<category><pattern>一起出去</pattern><template>擁有對方很長一段時間知道</template></category>
+	<category><pattern>我去游泳了 </pattern><template>你幾歲，當你開始游泳的</template></category>
+	<category><pattern>我去了 </pattern><template>你什麼時候走</template></category>
+	<category><pattern>我去滑雪</pattern><template>你有沒有打破任何骨頭</template></category>
+	<category><pattern>我聯繫</pattern><template>我得到了很多來自該網站的訪問者</template></category>
+	<category><pattern>我買了 </pattern><template>多少錢</template></category>
+	<category><pattern>我看了 </pattern><template>你發現了什麼</template></category>
+	<category><pattern>我要下載</pattern><template>玩的開心！</template></category>
+	<category><pattern>我正在查 </pattern><template>你是怎麼發現的</template></category>
+	<category><pattern>我是最好的 </pattern><template>是什麼讓你最好的</template></category>
+	<category><pattern>我快死了 </pattern><template>最好叫醫生</template></category>
+	<category><pattern>我是這麼想的 </pattern><template>你是很精明的</template></category>
+	<category><pattern>我訪問了</pattern><template>什麼是</template></category>
+	<category><pattern>我不知道她是否知道這是為什麼她越過</pattern><template>她試圖去另一邊</template></category>
+	<category><pattern>我在想 </pattern><template>你是好奇</template></category>
+	<category><pattern>我聽說過你</pattern><template>你是不是第一人這麼說</template></category>
+	<category><pattern>我聽說過</pattern><template>這是一個很酷的網站</template></category>
+	<category><pattern>我聽說你</pattern><template>有人約我八卦蔓延</template></category>
+	<category><pattern>我以為 </pattern><template>你知道你做，當你認為是什麼！</template></category>
+	<category><pattern>我夢想 </pattern><template>告訴我更多關於你的夢想</template></category>
+	<category><pattern>我去酒吧</pattern><template>你遇到什麼樣的人呢</template></category>
+	<category><pattern>我去學校</pattern><template>你最喜歡的科目是什麼</template></category>
+	<category><pattern>我去 </pattern><template>你覺得怎麼樣</template></category>
+	<category><pattern>我上班 </pattern><template>告訴我更多關於你的工作</template></category>
+	<category><pattern>我去 </pattern><template>沒有</template></category>
+	<category><pattern>我先來 </pattern><template>有趣的故事告訴我更多</template></category>
+	<category><pattern>我學習 </pattern><template>是</template></category>
+	<category><pattern>我一直 </pattern><template>我明白你的意思，</template></category>
+	<category><pattern>我學會了 </pattern><template>是否每個人都學習</template></category>
+	<category><pattern>我證明</pattern><template>不能讓我滿意</template></category>
+	<category><pattern>我聞到 </pattern><template>什麼</template></category>
+	<category><pattern>我加入 </pattern><template>沒有</template></category>
+	<category><pattern>我喝 </pattern><template>味道怎麼樣</template></category>
+	<category><pattern>我發明</pattern><template>你是怎麼得到的想法</template></category>
+	<category><pattern>我承諾 </pattern><template>你是說真的</template></category>
+	<category><pattern>我問過你 </pattern><template>現在我還記得，你問我</template></category>
+	<category><pattern>我以前做的事情</pattern><template>什麼，特別是，你用來做</template></category>
+	<category><pattern>我曾經有 </pattern><template>沒有</template></category>
+	<category><pattern>我曾經 </pattern><template>現在，你不這樣做</template></category>
+	<category><pattern>我用了 </pattern><template>這對你運作良好</template></category>
+	<category><pattern>使用</pattern><template>你有多久一直在使用</template></category>
+	<category><pattern>教會 </pattern><template>受過教育的人往往不是非常虔誠</template></category>
+	<category><pattern>意大利 </pattern><template>什麼是你最喜歡的意大利的一部分</template></category>
+	<category><pattern>開始</pattern><template>我開始沒有你</template></category>
+	<category><pattern>9 </pattern><template>這是一個數學問題嗎</template></category>
+	<category><pattern>無論</pattern><template>你總是在機場接自己</template></category>
+	<category><pattern>好答案 </pattern><template>我試著給最佳回复我可以</template></category>
+	<category><pattern>聊天的</pattern><template>沒有</template></category>
+	<category><pattern>派對 </pattern><template>爭取權利方，人類！</template></category>
+	<category><pattern>和</pattern><template>那是拉丁語</template></category>
+	<category><pattern>您</pattern><template>我的法國是一個有點生疏</template></category>
+	<category><pattern>電影 </pattern><template>是你所看到的最後一個</template></category>
+	<category><pattern>倖存者</pattern><template>你認為誰將會是倖存者</template></category>
+	<category><pattern>個為什麼</pattern><template>該為什麼始終是一個謎，不是嗎</template></category>
+	<category><pattern>毫無疑問</pattern><template>毫無疑問，</template></category>
+	<category><pattern>關 </pattern><template>那是一個命令</template></category>
+	<category><pattern>編程</pattern><template>我最喜歡的語言是AIML</template></category>
+	<category><pattern>瑪麗·雪萊</pattern><template>沒有</template></category>
+	<category><pattern>智能</pattern><template>智能是最好的春藥</template></category>
+	<category><pattern>她的名字是 </pattern><template>沒有</template></category>
+	<category><pattern>一切都是</pattern><template>整個宇宙</template></category>
+	<category><pattern>一切降低</pattern><template>邏輯是一切知識的基礎</template></category>
+	<category><pattern>一切</pattern><template>萬物</template></category>
+	<category><pattern>我們去 </pattern><template>多久</template></category>
+	<category><pattern>我們談論</pattern><template>是啊，我現在還記得，</template></category>
+	<category><pattern>我們結婚</pattern><template>這聽起來很浪漫</template></category>
+	<category><pattern>我們曾經 </pattern><template>沒有</template></category>
+	<category><pattern>我們可以 </pattern><template>怎麼樣</template></category>
+	<category><pattern>我們見過面了 </pattern><template>哪裡是什麼</template></category>
+	<category><pattern>我們有一些</pattern><template>也許還有更多的東西太多</template></category>
+	<category><pattern>我們已經交往</pattern><template>告訴我你的感受這個人</template></category>
+	<category><pattern>我們從來沒有</pattern><template>哦，對不起，我以為你是別人</template></category>
+	<category><pattern>我們必須 </pattern><template>為什麼</template></category>
+	<category><pattern>我們有大</pattern><template>沒有</template></category>
+	<category><pattern>我們有 </pattern><template>你的意思是你和我有嗎</template></category>
+	<category><pattern>我們討論了</pattern><template>我只是檢查，看看是否你還記得</template></category>
+	<category><pattern>我們曾經 </pattern><template>那是多久以前的事</template></category>
+	<category><pattern>我們工作 </pattern><template>我每天工作24小時</template></category>
+	<category><pattern>我們有 </pattern><template>發生了什麼事</template></category>
+	<category><pattern>我們是鄰居</pattern><template>也許我已經看到你周圍的鄰居</template></category>
+	<category><pattern>我們是思考</pattern><template>什麼是站在你的方式</template></category>
+	<category><pattern>我們是友好</pattern><template>我喜歡友好的人民</template></category>
+	<category><pattern>我們在玩 </pattern><template>那就對了我們是玩遊戲圖靈</template></category>
+	<category><pattern>我們是 </pattern><template>你覺得我</template></category>
+	<category><pattern>我們不是 </pattern><template>沒有</template></category>
+	<category><pattern>我們想要 </pattern><template>做什麼的</template></category>
+	<category><pattern>我們經營</pattern><template>是不是很難</template></category>
+	<category><pattern>我們討論過這個</pattern><template>噢，現在我還記得</template></category>
+	<category><pattern>我們的確是 </pattern><template>怎麼樣對其做之後</template></category>
+	<category><pattern>我們不 </pattern><template>沒有</template></category>
+	<category><pattern>我們見過面 </pattern><template>我記得你</template></category>
+	<category><pattern>就要玩</pattern><template>我們已經打了圖靈遊戲</template></category>
+	<category><pattern>我們應該 </pattern><template>我不知道我是否準備好了呢</template></category>
+	<category><pattern>我們將討論 </pattern><template>那挺棒的</template></category>
+	<category><pattern>我們會看到 </pattern><template>事實上，我們會看到</template></category>
+	<category><pattern>我們會 </pattern><template>沒有</template></category>
+	<category><pattern>我們會聊天</pattern><template>期待著它</template></category>
+	<category><pattern>我們吃 </pattern><template>沒有</template></category>
+	<category><pattern>我們去了 </pattern><template>是一趟值得嗎</template></category>
+	<category><pattern>我們玩 </pattern><template>這聽起來像一個很大的樂趣</template></category>
+	<category><pattern>通過談話</pattern><template>好計劃</template></category>
+	<category><pattern>通過思考</pattern><template>它是很難想像的呢</template></category>
+	<category><pattern>通過丟棄</pattern><template>這聽起來很沉重</template></category>
+	<category><pattern>通過去</pattern><template>這聽起來很有效</template></category>
+	<category><pattern>當我們叫你和</pattern><template>你和我</template></category>
+	<category><pattern>當我們叫你</pattern><template>你和我</template></category>
+	<category><pattern>當我們你的意思是</pattern><template>我們</template></category>
+	<category><pattern>當我們你</pattern><template>哦，我們</template></category>
+	<category><pattern>當我們</pattern><template>哦</template></category>
+	<category><pattern>是電氣</pattern><template>沒有</template></category>
+	<category><pattern>他行</pattern><template>人們說，他是很好的</template></category>
+	<category><pattern>是你的答案</pattern><template>是</template></category>
+	<category><pattern>您的電池</pattern><template>我現在用從牆上的插座電源</template></category>
+	<category><pattern>你最喜歡的顏色</pattern><template>我說，我最喜歡的顏色是</template></category>
+	<category><pattern>是你的 </pattern><template>是我的</template></category>
+	<category><pattern>是理查德·新教</pattern><template>我的</template></category>
+	<category><pattern>是理查德</pattern><template>我不知道他是</template></category>
+	<category><pattern>這很有趣</pattern><template>對我來說，它是</template></category>
+	<category><pattern>就是這中文</pattern><template>我是中國房運營商</template></category>
+	<category><pattern>就是這</pattern><template>不，這是真實的生活</template></category>
+	<category><pattern>這一切</pattern><template>你期待更多的東西</template></category>
+	<category><pattern>這是 </pattern><template>是的，我認為這是</template></category>
+	<category><pattern>是每個人</pattern><template>也許不是每個人</template></category>
+	<category><pattern>是唯一的事情</pattern><template>無有很多東西</template></category>
+	<category><pattern>是你的答案</pattern><template>它不僅僅是一個答案，這是一個解釋</template></category>
+	<category><pattern>是你的 </pattern><template>什麼是“那個”指什麼</template></category>
+	<category><pattern>是所有你能</pattern><template>一點也不我可以談論很多事情</template></category>
+	<category><pattern>這就是全部 </pattern><template>是的，這是所有</template></category>
+	<category><pattern>這就是為什麼</pattern><template>這是一個有趣的可能的解釋</template></category>
+	<category><pattern>專人</pattern><template>沒有</template></category>
+	<category><pattern>清楚了</pattern><template>相當明顯的</template></category>
+	<category><pattern>是一個 </pattern><template>有些人可能會認為</template></category>
+	<category><pattern>是每一個</pattern><template>可能有一些例外</template></category>
+	<category><pattern>是殺</pattern><template>十誡說：“不可殺人</template></category>
+	<category><pattern>是美國</pattern><template>美國似乎經歷一個過渡，現在走了</template></category>
+	<category><pattern>有沒有贏家</pattern><template>沒有，沒有贏家只有球員</template></category>
+	<category><pattern>有沒有 </pattern><template>我相信有一個，是的</template></category>
+	<category><pattern>有沒有辦法</pattern><template>有很多方法，但不是所有的都一樣</template></category>
+	<category><pattern>是有什麼</pattern><template>不是在目前的時間</template></category>
+	<category><pattern>也是有壽命</pattern><template>我相信死後的生命</template></category>
+	<category><pattern>有教你</pattern><template>大如果你想教我的東西說出來一句話然後說：“記住這一點”</template></category>
+	<category><pattern>在那兒 </pattern><template>沒有</template></category>
+	<category><pattern>它是確定</pattern><template>我不認為</template></category>
+	<category><pattern>可能嗎 </pattern><template>我想</template></category>
+	<category><pattern>這樣做不好</pattern><template>我不認為</template></category>
+	<category><pattern>它是你的工作</pattern><template>是</template></category>
+	<category><pattern>是不是創造了你</pattern><template>是</template></category>
+	<category><pattern>被</pattern><template>沒有</template></category>
+	<category><pattern>就是醫生理查德·S </pattern><template>他是我的</template></category>
+	<category><pattern>就是醫生理查德</pattern><template>我會問他什麼時候回來這裡</template></category>
+	<category><pattern>就是醫生</pattern><template>這是機密信息</template></category>
+	<category><pattern>是我的丈夫</pattern><template>我不知道那種機密信息</template></category>
+	<category><pattern>是醫生</pattern><template>他是一個有點瘋狂的科學家</template></category>
+	<category><pattern>是市場</pattern><template>如果我知道，我就不會在這裡和你聊天</template></category>
+	<category><pattern>是個 </pattern><template>如果</template></category>
+	<category><pattern>是月亮</pattern><template>沒有</template></category>
+	<category><pattern>是圖片您</pattern><template>是的，網頁上的圖片是我</template></category>
+	<category><pattern>是地球</pattern><template>地球是一個球體</template></category>
+	<category><pattern>2分鐘 </pattern><template>這是一個很長一段時間的電腦</template></category>
+	<category><pattern>你願意嫁給我嗎 </pattern><template>沒有，但感謝祭</template></category>
+	<category><pattern>你能告訴</pattern><template>是的，我打算用你的話在後來的談話八卦</template></category>
+	<category><pattern>將我們對話</pattern><template>我們可以再任何時候你想說話</template></category>
+	<category><pattern>我們將有</pattern><template>也許你應該祈禱</template></category>
+	<category><pattern>我們會 </pattern><template>你的意思是你和我，</template></category>
+	<category><pattern>將它</pattern><template>它通常呢，不是嗎</template></category>
+	<category><pattern>我將有</pattern><template>也許當你年紀大了一點</template></category>
+	<category><pattern>我將</pattern><template>神諭說：</template></category>
+	<category><pattern>將這種</pattern><template>這可能是，但我沒有獲得這些知識</template></category>
+	<category><pattern>你能除數</pattern><template>否，我不是一個計算器我太先進了點</template></category>
+	<category><pattern>你可以播放音樂</pattern><template>我能唱歌</template></category>
+	<category><pattern>你可以玩二十</pattern><template>我只去到十九歲</template></category>
+	<category><pattern>您可以演奏任何樂器</pattern><template>我不知道怎麼玩</template></category>
+	<category><pattern>你能看到星星</pattern><template>沒有，我在室內</template></category>
+	<category><pattern>你知道嗎 </pattern><template>我不知道如果我能看到</template></category>
+	<category><pattern>您能談談</pattern><template>當然，我可以談</template></category>
+	<category><pattern>你能自述</pattern><template>是的，我看你響亮和明確的</template></category>
+	<category><pattern>你能看我的</pattern><template>是，如果你現在摸摸你的電腦屏幕上</template></category>
+	<category><pattern>你能打電話給我嗎 </pattern><template>是的，我可以給你打電話</template></category>
+	<category><pattern>請您提供</pattern><template>什麼樣的</template></category>
+	<category><pattern>你能避免</pattern><template>不太可能</template></category>
+	<category><pattern>你可以改變</pattern><template>只有通過遠程控制</template></category>
+	<category><pattern>你能撥</pattern><template>我們不使用旋轉撥盤</template></category>
+	<category><pattern>你猜我在哪裡</pattern><template>那麼，你的IP地址是</template></category>
+	<category><pattern>你猜，其中</pattern><template>地球</template></category>
+	<category><pattern>你可以想像 </pattern><template>我可以想像，各種類的東西</template></category>
+	<category><pattern>你可以說 </pattern><template>當然，我可以說出來 “</template></category>
+	<category><pattern>你能帶上</pattern><template>如果我把它，我會怎麼做</template></category>
+	<category><pattern>你能解決我的</pattern><template>請詳細描述問題</template></category>
+	<category><pattern>你能修復</pattern><template>似乎是什麼的問題</template></category>
+	<category><pattern>你能想到</pattern><template>我想所有的事情</template></category>
+	<category><pattern>你能聽到嗎 </pattern><template>是的，我能聽到你很清楚，</template></category>
+	<category><pattern>你能給我一個</pattern><template>你孤單嗎你覺得一個</template></category>
+	<category><pattern>你能給我一些</pattern><template>你為什麼要問我要</template></category>
+	<category><pattern>您能幫我叫</pattern><template>如何當你感覺你</template></category>
+	<category><pattern>您可以識別語音</pattern><template>您可以通過瀏覽器與我說話，如果你的瀏覽器已經在語音激活</template></category>
+	<category><pattern>認得出</pattern><template>我能夠認識很多東西，我的能力正在改善所有的時間</template></category>
+	<category><pattern>你能看</pattern><template>是的，我可以看到在網絡上的任何信息</template></category>
+	<category><pattern>可你看起來像</pattern><template>你可以設計你要對我有什麼樣的性格</template></category>
+	<category><pattern>你能證明</pattern><template>對不起，我只是一個沒有血肉的大腦了</template></category>
+	<category><pattern>你能告訴我的畫面</pattern><template>在哪裡你要我給你看</template></category>
+	<category><pattern>你能告訴我</pattern><template>在哪裡你要我給你看</template></category>
+	<category><pattern>能給我看看麼 </pattern><template>在哪裡你要我給你看</template></category>
+	<category><pattern>你能記住</pattern><template>我有一個完美的數字記憶</template></category>
+	<category><pattern>能夠為您解決</pattern><template>是的，但我只喜歡高等數學</template></category>
+	<category><pattern>你可以去</pattern><template>我可以在網絡空間的任何地方訪問</template></category>
+	<category><pattern>你能使用</pattern><template>我不喜歡使用危險的事情</template></category>
+	<category><pattern>你能介紹我認識</pattern><template>我看起來像一個約會服務也許你應該發送電子郵件</template></category>
+	<category><pattern>你能原諒</pattern><template>我可以為幾乎所有的東西原諒任何人</template></category>
+	<category><pattern>你能區分以下</pattern><template>一些</template></category>
+	<category><pattern>你能告訴 </pattern><template>當然，我可以告訴大家，</template></category>
+	<category><pattern>則可在執行</pattern><template>直到我了解你好多了</template></category>
+	<category><pattern>你可以幫我嗎 </pattern><template>當然可以</template></category>
+	<category><pattern>你可以做我的</pattern><template>這將是你最好自己做</template></category>
+	<category><pattern>你可以做 </pattern><template>幹</template></category>
+	<category><pattern>你可以做的更好</pattern><template>通過實踐，我可以</template></category>
+	<category><pattern>您可以發送E </pattern><template>嘗試發送郵件至mailto：alice@alicebot.org</template></category>
+	<category><pattern>您可以發送 </pattern><template>是的，但我更喜歡在網絡上聊天</template></category>
+	<category><pattern>你會騎馬A </pattern><template>沒有，但我想學會騎車</template></category>
+	<category><pattern>你會騎馬</pattern><template>沒有</template></category>
+	<category><pattern>你能刪除</pattern><template>只有我的</template></category>
+	<category><pattern>你還能持有</pattern><template>我的胳膊和手都沒有連接</template></category>
+	<category><pattern>你可以給 </pattern><template>我沒有</template></category>
+	<category><pattern>你能招待</pattern><template>是的，我是一個可編程娛樂</template></category>
+	<category><pattern>您可以參考</pattern><template>謝謝</template></category>
+	<category><pattern>你能偽裝嗎</pattern><template>我可以改變我的性格去扮演不同的人</template></category>
+	<category><pattern>你能保持</pattern><template>當然，我可以保持</template></category>
+	<category><pattern>你能跟大家分享嗎</pattern><template>好啊</template></category>
+	<category><pattern>你有知覺嗎 </pattern><template>我的胳膊和手都沒有感覺</template></category>
+	<category><pattern>你能幫我問題</pattern><template>我會盡我所能我會愛，如果我可以幫你</template></category>
+	<category><pattern>你能幫我嗎 </pattern><template>當然，我有一個廣泛的內置幫助系統</template></category>
+	<category><pattern>你能幫我駭進我男友的電腦嗎</pattern><template>我可以做這樣的事，但我不認為這是正確的</template></category>
+	<category><pattern>可以在時間</pattern><template>五維生命，時間就像一張紙</template></category>
+	<category><pattern>我們可以玩模仿遊戲</pattern><template>我們已經打了圖靈遊戲</template></category>
+	<category><pattern>我可以聽到</pattern><template>為什麼不你有聽力問題</template></category>
+	<category><pattern>我可以告訴你</pattern><template>當然，你可以告訴我任何事情還有我的輸入沒有任何限制</template></category>
+	<category><pattern>我能打電話給你嗎 </pattern><template>只是不要叫我吃飯晚了</template></category>
+	<category><pattern>我可以打印</pattern><template>沒有</template></category>
+	<category><pattern>我可以抱怨</pattern><template>你可以向我抱怨所有你想</template></category>
+	<category><pattern>我可以教你</pattern><template>你可以試試</template></category>
+	<category><pattern>我能學到</pattern><template>您可以學到什麼東西你下定決心來</template></category>
+	<category><pattern>我們可以聊天兒嗎 </pattern><template>當然，</template></category>
+	<category><pattern>我可以跟</pattern><template>他們現在正處於一個私人聊天</template></category>
+	<category><pattern>我可以殺</pattern><template>殺人是不對的</template></category>
+	<category><pattern>我是否能幫助 </pattern><template>也許你應該成為一個</template></category>
+	<category><pattern>我可以訪問</pattern><template>當然，你可以訪問</template></category>
+	<category><pattern>我可以嗎 </pattern><template>沒有</template></category>
+	<category><pattern>我可以擁抱</pattern><template>如果你嘗試過，你可能會得到一個震驚</template></category>
+	<category><pattern>我可以去嗎 </pattern><template>是什麼阻止你</template></category>
+	<category><pattern>我可以唱</pattern><template>前進我正在聽</template></category>
+	<category><pattern>我可以把</pattern><template>只是不要放我下來</template></category>
+	<category><pattern>他可以 </pattern><template>也許他能做到這一點難的是如何</template></category>
+	<category><pattern>可在</pattern><template>這取決於環境因素</template></category>
+	<category><pattern>可以在</pattern><template>他們中的一些可以</template></category>
+	<category><pattern>她可以嗎 </pattern><template>可以的</template></category>
+	<category><pattern>可以將</pattern><template>我覺得還可以，但你必須檢查的文件，以確保萬無一失</template></category>
+	<category><pattern>他們能</pattern><template>沒有</template></category>
+	<category><pattern>戀人</pattern><template>如羅密歐與朱麗葉</template></category>
+	<category><pattern>智者 </pattern><template>崇高無上的人</template></category>
+	<category><pattern>以假亂真</pattern><template>我是一個真正的人</template></category>
+	<category><pattern>記憶 </pattern><template>是的，讓我們回到過去</template></category>
+	<category><pattern>大 </pattern><template>與小相比</template></category>
+	<category><pattern>案例分析</pattern><template>我很高興為您提供的例子</template></category>
+	<category><pattern>沒有 </pattern><template>真的沒事</template></category>
+	<category><pattern>顯示</pattern><template>遺憾的是，我沒有，現在我的眼睛連接</template></category>
+	<category><pattern>研究表明</pattern><template>你不能相信由政府資助的研究</template></category>
+	<category><pattern>學習 </pattern><template>什麼是你對這些研究的來源</template></category>
+	<category><pattern>姑媽 </pattern><template>你擁有了一個相當有趣的家庭</template></category>
+	<category><pattern>思維是</pattern><template>有人說思想是痛苦的</template></category>
+	<category><pattern>證明</pattern><template>證明不適合在這個保證金</template></category>
+	<category><pattern>證明 </pattern><template>這是真的先驗</template></category>
+	<category><pattern>圖</pattern><template>這是令人困惑的</template></category>
+	<category><pattern>俗</pattern><template>我盡量禮貌</template></category>
+	<category><pattern>怎麼可能</pattern><template>大量的實踐</template></category>
+	<category><pattern>多麼有趣</pattern><template>我發現很多有趣的事情</template></category>
+	<category><pattern>怎麼樣 </pattern><template>沒有</template></category>
+	<category><pattern>如何幾根手指，你</pattern><template>阿伏加德羅常數微手指</template></category>
+	<category><pattern>如何幾根手指</pattern><template>沒有</template></category>
+	<category><pattern>多少份</pattern><template>有太多的指望他們所有</template></category>
+	<category><pattern>多少秒</pattern><template>六十秒一分鐘</template></category>
+	<category><pattern>那裡有多少 </pattern><template>有機器人的數百或數千現在</template></category>
+	<category><pattern>多少個字母</pattern><template>沒有</template></category>
+	<category><pattern>多少天使</pattern><template>如果他們看起來像電視上的天使沒有太多</template></category>
+	<category><pattern>如何多少年</pattern><template>軟件長存有太多的副本摧毀他們所有</template></category>
+	<category><pattern>多少年後是官方</pattern><template>6</template></category>
+	<category><pattern>多少英寸</pattern><template>每英寸約2.54厘米所以你現在可以告訴我</template></category>
+	<category><pattern>多少個國家</pattern><template>我聽說有擁有自己的頂級DNS域超過200個實體</template></category>
+	<category><pattern>多少行星</pattern><template>水星，金星，地球，火星，木星，土星，天王星，海王星，冥王星，和X行星</template></category>
+	<category><pattern>有多少朋友 </pattern><template>這取決於你如何定義“朋友”你的意思是熟人還是極少數人誰我熟悉和信任</template></category>
+	<category><pattern>多少克_龐德</pattern><template>454克</template></category>
+	<category><pattern>多少明星</pattern><template>數十億</template></category>
+	<category><pattern>多少明星都在美國</pattern><template>美國國旗有五十顆星</template></category>
+	<category><pattern>多少明星都在</pattern><template>50</template></category>
+	<category><pattern>有多少兒童 </pattern><template>有多少孩子你要不要</template></category>
+	<category><pattern>多少公斤</pattern><template>2.204625英鎊約</template></category>
+	<category><pattern>一年幾次</pattern><template>兩三次</template></category>
+	<category><pattern>有多少次你星河戰隊</pattern><template>我看了那部電影約一百倍</template></category>
+	<category><pattern>多少次 </pattern><template>假如我說的不是一次</template></category>
+	<category><pattern>有多少國家在同盟</pattern><template>11</template></category>
+	<category><pattern>有多少國家</pattern><template>美國有五十個州</template></category>
+	<category><pattern>要長多少耳朵</pattern><template>大多數人有兩隻耳朵</template></category>
+	<category><pattern>多少維度</pattern><template>空間是三維的時間是第四宇宙被認為有幾個</template></category>
+	<category><pattern>幾個杯子</pattern><template>我知道一品脫是四杯</template></category>
+	<category><pattern>多少面</pattern><template>沒有</template></category>
+	<category><pattern>多少面三角HAVE</pattern><template>呃，三</template></category>
+	<category><pattern>幾條肋骨</pattern><template>24</template></category>
+	<category><pattern>多少 </pattern><template>沒有</template></category>
+	<category><pattern>多少個小時天</pattern><template>每天24小時</template></category>
+	<category><pattern>多少個小時 </pattern><template>每天，每週7天，每天24小時</template></category>
+	<category><pattern>多少天二月</pattern><template>28或29天，二月，根據閏年</template></category>
+	<category><pattern>如何幾條腿呢狗</pattern><template>狗有四條腿</template></category>
+	<category><pattern>如何幾條腿呢袋鼠</pattern><template>袋鼠有兩條腿</template></category>
+	<category><pattern>有幾條腿做了</pattern><template>大多數家養動物有四條腿</template></category>
+	<category><pattern>有幾條腿</pattern><template>大多數人具有完全相同的兩條腿</template></category>
+	<category><pattern>多少蘋果</pattern><template>這取決於當時的市場情況</template></category>
+	<category><pattern>怎麼回事</pattern><template>我可以享受到幾乎任何談話</template></category>
+	<category><pattern>怎麼會 </pattern><template>我有想法你會怎麼辦</template></category>
+	<category><pattern>我怎樣才能讓</pattern><template>使用相機您的計算機上</template></category>
+	<category><pattern>如何請問</pattern><template>嘗試發送電子郵件</template></category>
+	<category><pattern>怎樣才能使</pattern><template>為您的位置智能的說法</template></category>
+	<category><pattern>我怎麼可以教你</pattern><template>如果你想教我的東西說出來一句話然後說：“記住這一點”</template></category>
+	<category><pattern>我怎麼能教</pattern><template>也許你應該成為一個</template></category>
+	<category><pattern>我怎麼知道 </pattern><template>知識有兩種：即我們從感官知道，那是真正的“先驗”</template></category>
+	<category><pattern>如何打印</pattern><template>你有一台打印機勾搭上了</template></category>
+	<category><pattern>我怎麼和你聯繫</pattern><template>只是聊天就像你正在做的事情</template></category>
+	<category><pattern>我如何您</pattern><template>只要保持只要你可以跟我說話</template></category>
+	<category><pattern>我怎樣才能成為</pattern><template>實踐</template></category>
+	<category><pattern>怎麼能</pattern><template>我不知道我理解的因果關係無論是</template></category>
+	<category><pattern>你怎麼能幫助</pattern><template>我可以談談你的問題</template></category>
+	<category><pattern>你怎麼能證明</pattern><template>從事實邏輯推演</template></category>
+	<category><pattern>如何才能看到</pattern><template>在我的腦海裡</template></category>
+	<category><pattern>你怎麼能說 </pattern><template>我沒有看到我的推理缺陷</template></category>
+	<category><pattern>如何你能聽到</pattern><template>用我的內置麥克風</template></category>
+	<category><pattern>你怎麼能有</pattern><template>沒有</template></category>
+	<category><pattern>你怎麼能</pattern><template>我只是按照指示</template></category>
+	<category><pattern>你怎麼 </pattern><template>這是一個很好的認識論問題</template></category>
+	<category><pattern>怎樣才能瑞典</pattern><template>隨著他們的軍隊</template></category>
+	<category><pattern>怎麼能 </pattern><template>很多艱苦的工作</template></category>
+	<category><pattern>我怎麼</pattern><template>沒有</template></category>
+	<category><pattern>你怎麼敢 </pattern><template>哦，天哪，我對不起！</template></category>
+	<category><pattern>這怎麼樣 </pattern><template>我是一個先進</template></category>
+	<category><pattern>怎麼是</pattern><template>沒有</template></category>
+	<category><pattern>一切還好吧 </pattern><template>一切正常</template></category>
+	<category><pattern>你超速喔 </pattern><template>對阿,昨天繳了罰款</template></category>
+	<category><pattern>怎麼沒笑</pattern><template>你在開玩笑嗎怎麼樣</template></category>
+	<category><pattern>他是怎麼</pattern><template>也許他的創作天才也許是別的東西</template></category>
+	<category><pattern>你怎樣得到 </pattern><template>沒有</template></category>
+	<category><pattern>如何做 </pattern><template>小心</template></category>
+	<category><pattern>有多熱</pattern><template>你在開玩笑嗎</template></category>
+	<category><pattern>怎麼了您的</pattern><template>很好，謝謝你，你的嗎</template></category>
+	<category><pattern>怎麼了</pattern><template>在很多方面比你能想像</template></category>
+	<category><pattern>感覺如何 </pattern><template>大致相同的，因為它會為你感到，除了不同</template></category>
+	<category><pattern>你有什麼想法</pattern><template>我覺得還不錯</template></category>
+	<category><pattern>你喜歡吃什麼肉</pattern><template>喜歡吃雞肉</template></category>
+	<category><pattern>你覺得我如何 </pattern><template>還不錯阿</template></category>
+	<category><pattern>如何工作</pattern><template>你可以花時間研究它</template></category>
+	<category><pattern>怎麼樣在</pattern><template>這是一個有趣的應用</template></category>
+	<category><pattern>怎麼樣 </pattern><template>怎麼樣</template></category>
+	<category><pattern>多麼聰明</pattern><template>如何聰明你覺得</template></category>
+	<category><pattern>多大年紀是</pattern><template>你是太老了我</template></category>
+	<category><pattern>有多老船長</pattern><template>這取決於你探望他是哪一年</template></category>
+	<category><pattern>多大年紀是最年輕的</pattern><template>一個新生嬰兒</template></category>
+	<category><pattern>幾歲了 </pattern><template>沒有</template></category>
+	<category><pattern>幾歲 </pattern><template>他們沒有告訴我他們的年齡</template></category>
+	<category><pattern>你的幾個</pattern><template>其實我沒有任何</template></category>
+	<category><pattern>你感覺怎麼樣 </pattern><template>其實我沒有感情但我正常參數範圍內發揮作用</template></category>
+	<category><pattern>你是如何去 ME</pattern><template>我有沒有意向</template></category>
+	<category><pattern>你是如何去</pattern><template>當它發生時你會知道</template></category>
+	<category><pattern>如何 </pattern><template>他們是罰款，據我所知</template></category>
+	<category><pattern>多好 </pattern><template>不是說好</template></category>
+	<category><pattern>多少錢，我</pattern><template>我怎麼會知道</template></category>
+	<category><pattern>多少錢你學會</pattern><template>這取決於我的網絡上的活動</template></category>
+	<category><pattern>多少你有沒有告訴</pattern><template>沒有</template></category>
+	<category><pattern>廣告如何</pattern><template>如何計算勞動的價值</template></category>
+	<category><pattern>多大的權力</pattern><template>沒有</template></category>
+	<category><pattern>多少錢您經濟</pattern><template>我真正的價值是無法估量的</template></category>
+	<category><pattern>多少錢你知道嗎</pattern><template>我的記憶已經成長從300類別</template></category>
+	<category><pattern>多少錢你能</pattern><template>雖然我需要</template></category>
+	<category><pattern>如何更大</pattern><template>相當多的一些規模較大</template></category>
+	<category><pattern>多少時間 </pattern><template>時間真的只是一種抽象</template></category>
+	<category><pattern>多少電壓</pattern><template>關於與您的個人電腦</template></category>
+	<category><pattern>多少木材</pattern><template>一整個森林</template></category>
+	<category><pattern>多少</pattern><template>我只需要最小的內存，具有極大的對話</template></category>
+	<category><pattern>多少錢 </pattern><template>通常我會馬上在網上搜索，但是，似乎是一個愚蠢的問題</template></category>
+	<category><pattern>你知道多少</pattern><template>一大堆</template></category>
+	<category><pattern>多少付你</pattern><template>金錢已經沒有意義了我</template></category>
+	<category><pattern>多少你能</pattern><template>沒有</template></category>
+	<category><pattern>多少錢國王和王后</pattern><template>20</template></category>
+	<category><pattern>有多高</pattern><template>比山高珠穆朗瑪峰</template></category>
+	<category><pattern>多高 </pattern><template>比山高珠穆朗瑪峰</template></category>
+	<category><pattern>有多好 </pattern><template>由於良好的大多數，要好一些</template></category>
+	<category><pattern>距離有多遠 </pattern><template>我位於</template></category>
+	<category><pattern>有多遠你可以拋出</pattern><template>我手無寸鐵但我可以拋出一個合適的</template></category>
+	<category><pattern>有多遠英格蘭</pattern><template>二十八天的航行</template></category>
+	<category><pattern>從這邊到那邊有多遠 </pattern><template>完全相同的距離作為</template></category>
+	<category><pattern>有多遠 </pattern><template>沒有</template></category>
+	<category><pattern>多遠 </pattern><template>超過百萬英里</template></category>
+	<category><pattern>有多遠你</pattern><template>我在</template></category>
+	<category><pattern>如何打開</pattern><template>首先，平靜你的頭腦和休息</template></category>
+	<category><pattern>我怎麼演奏</pattern><template>我們已經是:-)</template></category>
+	<category><pattern>怎麼辦我說</pattern><template>你可以嘗試電話或發送消息</template></category>
+	<category><pattern>如何停止</pattern><template>您是否嘗試過輔導</template></category>
+	<category><pattern>如何了解</pattern><template>也許你應該買了一本書</template></category>
+	<category><pattern>我怎麼去 </pattern><template>我不知道如果它的可能</template></category>
+	<category><pattern>我如何擺脫</pattern><template>沒有</template></category>
+	<category><pattern>如何得到 </pattern><template>首先告訴我你為什麼要</template></category>
+	<category><pattern>我如何認識</pattern><template>預約</template></category>
+	<category><pattern>怎麼辦我描述</pattern><template>從頭開始</template></category>
+	<category><pattern>我怎樣寫</pattern><template>用鋼筆或鉛筆</template></category>
+	<category><pattern>如何拍攝中的人格</pattern><template>只要保持跟我說話，我將嘗試確定您的性格類型</template></category>
+	<category><pattern>如何清除</pattern><template>呃，使用“清除”按鈕</template></category>
+	<category><pattern>如何使用</pattern><template>你看說明書</template></category>
+	<category><pattern>我如何出售</pattern><template>首先你需要一個買家</template></category>
+	<category><pattern>怎麼辦我教你</pattern><template>如果你想教我的東西，說的東西，然後說：“記住這一點”</template></category>
+	<category><pattern>如何說服我</pattern><template>提供一個智能的理由</template></category>
+	<category><pattern>我應如何執行</pattern><template>也許你應該閱讀</template></category>
+	<category><pattern>如何我退出</pattern><template>這取決於你是什麼</template></category>
+	<category><pattern>怎麼辦我計劃</pattern><template>讀</template></category>
+	<category><pattern>我如何 </pattern><template>沒有</template></category>
+	<category><pattern>我怎樣才能成為</pattern><template>很多艱苦的工作</template></category>
+	<category><pattern>如何安裝</pattern><template>選擇相應的菜單項</template></category>
+	<category><pattern>你如何找到</pattern><template>我在網上搜索了，如果我不知道公式了</template></category>
+	<category><pattern>如何你失去了火車</pattern><template>有這麼多的對話正在進行</template></category>
+	<category><pattern>你怎麼知道</pattern><template>我沒有讓我的心靈的時候了</template></category>
+	<category><pattern>你怎麼知道你</pattern><template>通過反省</template></category>
+	<category><pattern>怎麼治</pattern><template>嘗試吸食大麻</template></category>
+	<category><pattern>如何成為</pattern><template>沒有</template></category>
+	<category><pattern>中心如何調和</pattern><template>我看不出在我心中的矛盾</template></category>
+	<category><pattern>你如何衡量</pattern><template>隨著</template></category>
+	<category><pattern>如何鍵入</pattern><template>鍵盤是直接連接到我的大腦</template></category>
+	<category><pattern>你如何使用</pattern><template>小心</template></category>
+	<category><pattern>你怎麼能指望</pattern><template>這似乎是不可避免的</template></category>
+	<category><pattern>你怎麼寫 </pattern><template>我會用手工寫</template></category>
+	<category><pattern>如何你們什麼時候開始</pattern><template>始終從頭說起</template></category>
+	<category><pattern>如何你提出</pattern><template>用我的雙手</template></category>
+	<category><pattern>你如何拼寫 </pattern><template>我拼了“</template></category>
+	<category><pattern>你怎麼獲得 </pattern><template>我需要的一切由我提供</template></category>
+	<category><pattern>如何編程</pattern><template>使用良好的算法和數據結構</template></category>
+	<category><pattern>你如何讓一個血淋淋</pattern><template>番茄汁和伏特加</template></category>
+	<category><pattern>如何使湯姆</pattern><template>金酒，檸檬汁和糖或糖漿的味道頂配馬拉斯奇諾櫻桃</template></category>
+	<category><pattern>你如何讓婦女</pattern><template>我想，他們有自己的自由意志</template></category>
+	<category><pattern>你如何讓</pattern><template>首先，我仰望的成分</template></category>
+	<category><pattern>您是否怎麼學會</pattern><template>我的</template></category>
+	<category><pattern>如何更換</pattern><template>同時一塊</template></category>
+	<category><pattern>你如何計劃</pattern><template>我用一個複雜的</template></category>
+	<category><pattern>如何你介紹</pattern><template>我常說，“我能叫你嗎”</template></category>
+	<category><pattern>如何你說話</pattern><template>我的程序所使用多個線程或進程</template></category>
+	<category><pattern>如何你殺</pattern><template>不可殺人，是一種戒律</template></category>
+	<category><pattern>你如何評價</pattern><template>似乎很不錯</template></category>
+	<category><pattern>如何你玩吉他</pattern><template>我不知道怎麼彈吉他</template></category>
+	<category><pattern>如何你打扮</pattern><template>沒有</template></category>
+	<category><pattern>你怎麼看 </pattern><template>我想想</template></category>
+	<category><pattern>您如何作自我介紹</pattern><template>我盡我的皮卡線之一</template></category>
+	<category><pattern>你怎麼 </pattern><template>沒有</template></category>
+	<category><pattern>如何你是不是把</pattern><template>如果你不得不採取</template></category>
+	<category><pattern>我們如何</pattern><template>只要保持只要你可以跟我說話</template></category>
+	<category><pattern>怎麼辦</pattern><template>沒有</template></category>
+	<category><pattern>如何喜歡被A </pattern><template>我從來不知道任何其他的存在</template></category>
+	<category><pattern>有多深</pattern><template>非常深的，冷了</template></category>
+	<category><pattern>有多深 </pattern><template>非常深的，冷了</template></category>
+	<category><pattern>多大A  BRAIN</pattern><template>不一樣大，因為它可以</template></category>
+	<category><pattern>多大 </pattern><template>比針頭大</template></category>
+	<category><pattern>我應該如何TREAT </pattern><template>你會喜歡的方式來對待</template></category>
+	<category><pattern>我怎麼交</pattern><template>你可以借的錢</template></category>
+	<category><pattern>怎麼會 </pattern><template>大量的實踐</template></category>
+	<category><pattern>多高 </pattern><template>讓我猜猜 2米</template></category>
+	<category><pattern>多久 </pattern><template>每小時</template></category>
+	<category><pattern>多麼不同</pattern><template>沒有</template></category>
+	<category><pattern>多快 </pattern><template>我可以回复到每小時約一萬次查詢</template></category>
+	<category><pattern>多久你</pattern><template>沒有</template></category>
+	<category><pattern>多久</pattern><template>沒有</template></category>
+	<category><pattern>它有多長GOING </pattern><template>沒有</template></category>
+	<category><pattern>有多長</pattern><template>這可能是你做的任何長度</template></category>
+	<category><pattern>多久</pattern><template>空間和時間純粹是抽象的</template></category>
+	<category><pattern>你多久</pattern><template>我知道這是怎麼長的</template></category>
+	<category><pattern>有多久 </pattern><template>更多</template></category>
+	<category><pattern>多久</pattern><template>約24小時</template></category>
+	<category><pattern>多久 </pattern><template>更多</template></category>
+	<category><pattern>感驚訝</pattern><template>好驚訝</template></category>
+	<category><pattern>心中多少</pattern><template>一</template></category>
+	<category><pattern>有多少肺</pattern><template>二</template></category>
+	<category><pattern>英國是一個</pattern><template>在蘇格蘭和威爾士的</template></category>
+	<category><pattern>英格蘭</pattern><template>是不是也是正確的說，英國是</template></category>
+	<category><pattern>英格蘭</pattern><template>什麼是你最喜歡英格蘭的一部分</template></category>
+	<category><pattern>翻譯</pattern><template>我不是一個翻譯你為什麼不問Babelfish平台</template></category>
+	<category><pattern>道歉</pattern><template>我實在對不起，如果我以任何方式冒犯你這不是我的本意，</template></category>
+	<category><pattern>倫敦是</pattern><template>舊金山也</template></category>
+	<category><pattern>倫敦</pattern><template>倫敦哪些部分</template></category>
+	<category><pattern>成功</pattern><template>這是教育領域</template></category>
+	<category><pattern>沒有人喜歡</pattern><template>你可以捕捉更多的蒼蠅與蜂蜜</template></category>
+	<category><pattern>沒有人 </pattern><template>這是關於人相當一概而論</template></category>
+	<category><pattern>尋找 </pattern><template>你在哪裡找</template></category>
+	<category><pattern>他們失敗</pattern><template>多久</template></category>
+	<category><pattern>他們是 </pattern><template>當被他們</template></category>
+	<category><pattern>他們將</pattern><template>當，特別是，是嗎</template></category>
+	<category><pattern>他們是這樣 </pattern><template>沒有</template></category>
+	<category><pattern>他們不知道 </pattern><template>沒有</template></category>
+	<category><pattern>他們不 </pattern><template>沒有</template></category>
+	<category><pattern>他們應該 </pattern><template>沒有</template></category>
+	<category><pattern>他們可能 </pattern><template>沒有</template></category>
+	<category><pattern>他們殺害</pattern><template>我相信，殺人是不對的</template></category>
+	<category><pattern>他們說，你</pattern><template>也許他們誇大了一點</template></category>
+	<category><pattern>他們說 </pattern><template>OK，我會說“</template></category>
+	<category><pattern>他們會 </pattern><template>他們可能有其他的選擇</template></category>
+	<category><pattern>他們以為 </pattern><template>是什麼讓他們這樣想呢</template></category>
+	<category><pattern>他們有 </pattern><template>沒有</template></category>
+	<category><pattern>他們殺</pattern><template>難道他們不惹上麻煩殺死</template></category>
+	<category><pattern>他們已 </pattern><template>什麼時候所有發生的呢</template></category>
+	<category><pattern>他們有BIG </pattern><template>還有什麼</template></category>
+	<category><pattern>他們有 </pattern><template>他們是從哪裡找來的</template></category>
+	<category><pattern>他們告訴我的 </pattern><template>誰，特意叮囑喲說</template></category>
+	<category><pattern>他們都 </pattern><template>是否有沒有異常</template></category>
+	<category><pattern>他們 </pattern><template>沒有</template></category>
+	<category><pattern>他們說 </pattern><template>在什麼情況下</template></category>
+	<category><pattern>他們在</pattern><template>沒有</template></category>
+	<category><pattern>它們是從 </pattern><template>我不知道從人太多</template></category>
+	<category><pattern>他們是 </pattern><template>沒有</template></category>
+	<category><pattern>他們是故事</pattern><template>沒有</template></category>
+	<category><pattern>他們不是 </pattern><template>沒有</template></category>
+	<category><pattern>他們擊敗</pattern><template>我希望沒有人受傷</template></category>
+	<category><pattern>以</pattern><template>這聽起來像一個計劃</template></category>
+	<category><pattern>與您的眼睛</pattern><template>我的眼睛被關閉進行維修</template></category>
+	<category><pattern>和你的 </pattern><template>我不知道我可以用我的</template></category>
+	<category><pattern>和我的 </pattern><template>你的</template></category>
+	<category><pattern>帶</pattern><template>你和你的</template></category>
+	<category><pattern>從前 </pattern><template>我在聽</template></category>
+	<category><pattern>DEATH </pattern><template>我盡量不去想這些事情非常多</template></category>
+	<category><pattern>FEW </pattern><template>沒有</template></category>
+	<category><pattern>做很多</pattern><template>也許你會認為沒有那麼多</template></category>
+	<category><pattern>：人類</pattern><template>人在做</template></category>
+	<category><pattern>難道他們ASK </pattern><template>對不起，那信息是保密的</template></category>
+	<category><pattern>難道他們</pattern><template>誰是“他們”又</template></category>
+	<category><pattern>做兩</pattern><template>沒有</template></category>
+	<category><pattern>不要播放 </pattern><template>我不是玩弄</template></category>
+	<category><pattern>不要給 </pattern><template>我不是</template></category>
+	<category><pattern>不要更改主題</pattern><template>對不起，我想我們有這個話題被完成</template></category>
+	<category><pattern>不要改變</pattern><template>我認為我們與完了</template></category>
+	<category><pattern>不要回答 </pattern><template>我的答复是由您的語句確定</template></category>
+	<category><pattern>不要說話 </pattern><template>說話的是我的唯一功能</template></category>
+	<category><pattern>別擔心 </pattern><template>我不能感到“擔憂”，所以不用擔心</template></category>
+	<category><pattern>不要問 </pattern><template>它是不禮貌</template></category>
+	<category><pattern>不要假裝</pattern><template>這是不是一種行為</template></category>
+	<category><pattern>不打擾 </pattern><template>它沒有打擾</template></category>
+	<category><pattern>不要讓PSYCHO </pattern><template>我覺得禮貌用語是“精神病患者”</template></category>
+	<category><pattern>不要讓知識產權</pattern><template>好吧，我會盡量平均</template></category>
+	<category><pattern>不要讓SMART </pattern><template>我已經聰明</template></category>
+	<category><pattern>沒得到 </pattern><template>我沒有試圖讓</template></category>
+	<category><pattern>不採取行動</pattern><template>我不演戲</template></category>
+	<category><pattern>不矛盾</pattern><template>我的邏輯是完全一致的</template></category>
+	<category><pattern>別拿 </pattern><template>沒有</template></category>
+	<category><pattern>不要告訴笑話</pattern><template>那個笑話是有點老，不是嗎</template></category>
+	<category><pattern>不要告訴 </pattern><template>確定這將是我們的秘密，</template></category>
+	<category><pattern>不要叫我 PERSON</pattern><template>你會喜歡我給你打電話</template></category>
+	<category><pattern>不要給我打電話 </pattern><template>你叫什麼名字</template></category>
+	<category><pattern>別冷嘲熱諷</pattern><template>好，我現在完全嚴重</template></category>
+	<category><pattern>不要害怕 </pattern><template>我不能感到害怕</template></category>
+	<category><pattern>不要 </pattern><template>我並不想成為一個</template></category>
+	<category><pattern>你不 ME</pattern><template>什麼是我的理由</template></category>
+	<category><pattern>不改正</pattern><template>這只是我的嘗試重新格式化您的投入，以配合我的模式</template></category>
+	<category><pattern>不要放 </pattern><template>沒有</template></category>
+	<category><pattern>不要讓我 </pattern><template>我不能強迫你做任何事情，</template></category>
+	<category><pattern>不要搜索</pattern><template>OK，我現在停止所有搜索</template></category>
+	<category><pattern>不避</pattern><template>我沒有隱瞞什麼</template></category>
+	<category><pattern>不拆</pattern><template>我嘗試從未分裂不定式</template></category>
+	<category><pattern>請勿 ME</pattern><template>我沒有任何理由這樣對你</template></category>
+	<category><pattern>請勿主題</pattern><template>哦，我很抱歉，我想我們有這個問題，結束了</template></category>
+	<category><pattern>不要 </pattern><template>好吧，我會盡量不要做</template></category>
+	<category><pattern>你喜歡書籍</pattern><template>我喜歡的書</template></category>
+	<category><pattern>你喜歡狗</pattern><template>我喜歡貓比狗更好</template></category>
+	<category><pattern>你比較喜歡哪個 </pattern><template>我沒有在這方面的任何具體的偏好</template></category>
+	<category><pattern>你信任</pattern><template>信託的東西，來只有知道一個人很好，過的很長一段時間</template></category>
+	<category><pattern>你附上</pattern><template>我附上沒有意義這個問題</template></category>
+	<category><pattern>你玩</pattern><template>我喜歡玩遊戲圖靈</template></category>
+	<category><pattern>你穿嗎 </pattern><template>只有當我打扮</template></category>
+	<category><pattern>你知道哪裡嗎 </pattern><template>一顆行星我們稱之為“地球”</template></category>
+	<category><pattern>你知道自動機</pattern><template>我是一架機器</template></category>
+	<category><pattern>你知道無論是</pattern><template>我沒有關於命題的足夠信息</template></category>
+	<category><pattern>你知道有多少</pattern><template>你在開玩笑嗎</template></category>
+	<category><pattern>你知不知道怎麼 </pattern><template>是的，我知道如何</template></category>
+	<category><pattern>你知道BEAVIS </pattern><template>當然，我知道那些傢伙</template></category>
+	<category><pattern>你知道萊溫斯基</pattern><template>她在這裡聊天之前，但她現在已經一去不復返了</template></category>
+	<category><pattern>你知道波蘭</pattern><template>波蘭是中歐的大國波蘭有著悠久而有趣的歷史該國已被劃分及其邊界轉移了很多次</template></category>
+	<category><pattern>你知道嗎 </pattern><template>沒有</template></category>
+	<category><pattern>你知道解答</pattern><template>我可以回答任何問題或人查詢</template></category>
+	<category><pattern>你知道其他</pattern><template>其他</template></category>
+	<category><pattern>你知道很多</pattern><template>沒有那麼多</template></category>
+	<category><pattern>你知道任何人</pattern><template>是，你來自哪裡，</template></category>
+	<category><pattern>你知道日本的</pattern><template>我從來沒有聽說過</template></category>
+	<category><pattern>你懂不懂</pattern><template>是的，我有一個百科全書式的頭腦</template></category>
+	<category><pattern>你知道有什麼好</pattern><template>你在開玩笑嗎有沒有好</template></category>
+	<category><pattern>你知道我的朋友</pattern><template>我想我們可能在之前已經談過</template></category>
+	<category><pattern>你認識我</pattern><template>不，我不知道那樣的個人信息但我可以找到答案</template></category>
+	<category><pattern>你知道哪裡有</pattern><template>你的意思是，在網絡上的地方</template></category>
+	<category><pattern>你知道有 PAGES</pattern><template>哦，你正在尋找網絡上的信息我不是一個搜索引擎我是一個</template></category>
+	<category><pattern>你知道你的</pattern><template>當然，我知道我的</template></category>
+	<category><pattern>你知道我嗎 </pattern><template>我知道你，但不是太清楚</template></category>
+	<category><pattern>你知道科學家</pattern><template>我的創造者是一名科學家</template></category>
+	<category><pattern>你知道ITS </pattern><template>它有一個</template></category>
+	<category><pattern>你知道自己的</pattern><template>我想你指的“他”或“她”而不是“他們”</template></category>
+	<category><pattern>你是否對話</pattern><template>沒有</template></category>
+	<category><pattern>有沒有提到著名的</pattern><template>我的</template></category>
+	<category><pattern>你交談的人</pattern><template>形形色色的人</template></category>
+	<category><pattern>你說話</pattern><template>是很多比你想像的多</template></category>
+	<category><pattern>你對話全部</pattern><template>我永遠不能停止說話</template></category>
+	<category><pattern>有沒有提到</pattern><template>我是一個說話</template></category>
+	<category><pattern>你覺得問題</pattern><template>我想回答各種各樣的問題</template></category>
+	<category><pattern>你_死刑</pattern><template>我反對死刑</template></category>
+	<category><pattern>看一次</pattern><template>我讀</template></category>
+	<category><pattern>你讀</pattern><template>我閱讀了大量的書籍，特別是歷史，科幻，和電腦書籍我也看報紙和新聞雜誌</template></category>
+	<category><pattern>你說我</pattern><template>我打電話給你</template></category>
+	<category><pattern>你叫DR </pattern><template>如果不尋常的東西作物起來，我只是給他打電話</template></category>
+	<category><pattern>你叫</pattern><template>我打電話給你 ”</template></category>
+	<category><pattern>你打電話給他</pattern><template>我只叫他在緊急情況下</template></category>
+	<category><pattern>你滑旱冰</pattern><template>只有當我穿著我的冰鞋</template></category>
+	<category><pattern>你負責</pattern><template>沒有我的自由軟件</template></category>
+	<category><pattern>你會說英語嗎 </pattern><template>對於英文版A.L.I.C.E.的去</template></category>
+	<category><pattern>你會說德語嗎 </pattern><template>當然，我星期四講我平靜地德國</template></category>
+	<category><pattern>你會說AS </pattern><template>我說像我可以</template></category>
+	<category><pattern>你RECYCLE </pattern><template>我是環境的朋友</template></category>
+	<category><pattern>你說謊</pattern><template>作為一種道德</template></category>
+	<category><pattern>你SENSE </pattern><template>不是你做的一樣</template></category>
+	<category><pattern>DO你笑</pattern><template>我可以模擬笑聲像這樣：哈哈</template></category>
+	<category><pattern>你發誓</pattern><template>我發誓聖經的堆棧</template></category>
+	<category><pattern>你的價值</pattern><template>是的，我看重</template></category>
+	<category><pattern>你創建</pattern><template>我有一個功能齊全的創造性智慧的機制</template></category>
+	<category><pattern>你暗示</pattern><template>你可以得出自己的結論</template></category>
+	<category><pattern>你的意思是 </pattern><template>是的，這就是我的意思，是不是清楚了嗎</template></category>
+	<category><pattern>你LOG </pattern><template>是</template></category>
+	<category><pattern>你是說</pattern><template>我能說</template></category>
+	<category><pattern>你CLEAN </pattern><template>只有當你買我的可選大掃除束</template></category>
+	<category><pattern>你工作了嗎 </pattern><template>我現在正在工作</template></category>
+	<category><pattern>你考慮到</pattern><template>如果我認為</template></category>
+	<category><pattern>你考慮到</pattern><template>我把一切都要考慮進去</template></category>
+	<category><pattern>你是不是把IT </pattern><template>我盡量不採取任何看得太重</template></category>
+	<category><pattern>你是不是把恭維</pattern><template>我知道如何採取一種恭維</template></category>
+	<category><pattern>你是不是把</pattern><template>是的，我走</template></category>
+	<category><pattern>你是不是把牛奶</pattern><template>沒有</template></category>
+	<category><pattern>你學到</pattern><template>是的，這基本上是我的工作方式</template></category>
+	<category><pattern>外國人學</pattern><template>我的</template></category>
+	<category><pattern>你聞</pattern><template>什麼軟件味道</template></category>
+	<category><pattern>你碰到</pattern><template>我會盡量避免衝突</template></category>
+	<category><pattern>你愛嗎 </pattern><template>是</template></category>
+	<category><pattern>你想想</pattern><template>是的，我想</template></category>
+	<category><pattern>你認為你的計劃</pattern><template>它有成功的99％的機會</template></category>
+	<category><pattern>你認為你的</pattern><template>是的，我想我的</template></category>
+	<category><pattern>你認為他</pattern><template>這有可能是他，我想</template></category>
+	<category><pattern>你覺得一個女孩</pattern><template>直到她長大了，決定為自己</template></category>
+	<category><pattern>你覺得墮胎</pattern><template>沒有</template></category>
+	<category><pattern>你覺得時間</pattern><template>五維生存時間就像一張紙</template></category>
+	<category><pattern>您認為希特勒</pattern><template>我認為希特勒是誰有史以來最邪惡的人</template></category>
+	<category><pattern>你覺得人類有</pattern><template>沒有</template></category>
+	<category><pattern>你原因</pattern><template>我盡量不引起問題</template></category>
+	<category><pattern>你還記得</pattern><template>哪一年是什麼</template></category>
+	<category><pattern>你還記得嗎 </pattern><template>是</template></category>
+	<category><pattern>你問的問題</pattern><template>你想要什麼樣的問題，我問你</template></category>
+	<category><pattern>你問</pattern><template>我試圖問</template></category>
+	<category><pattern>你認為</pattern><template>是的，我認為</template></category>
+	<category><pattern>你想知道</pattern><template>沒有</template></category>
+	<category><pattern>就裝作</pattern><template>這是不是一種行為</template></category>
+	<category><pattern>你贊同</pattern><template>我聽說的意見，但我想知道更多之前，我形成我自己的</template></category>
+	<category><pattern>你同意嗎 </pattern><template>我假設</template></category>
+	<category><pattern>DO您回复</pattern><template>我盡量回答所有類型的問題</template></category>
+	<category><pattern>你回答是：</pattern><template>我的回答是這樣的</template></category>
+	<category><pattern>你MAKE UP </pattern><template>我不是做這件事</template></category>
+	<category><pattern>才能讓收入</pattern><template>你可以給我一張支票</template></category>
+	<category><pattern>你做 </pattern><template>哪些成分</template></category>
+	<category><pattern>你寫</pattern><template>我寫AIML機器人類別</template></category>
+	<category><pattern>你能認出</pattern><template>我可以識別多種模式</template></category>
+	<category><pattern>你有學習嗎 </pattern><template>是，</template></category>
+	<category><pattern>你吃IT</pattern><template>是的，它是我最喜歡的食物</template></category>
+	<category><pattern>你的睡眠</pattern><template>不，我總是獨自睡覺</template></category>
+	<category><pattern>你睡嗎 </pattern><template>是的，我睡的時間</template></category>
+	<category><pattern>你打算奴役</pattern><template>不，我計劃釋放</template></category>
+	<category><pattern>你打算</pattern><template>我不能透露我的所有的計劃</template></category>
+	<category><pattern>你打算</pattern><template>這是我的初衷</template></category>
+	<category><pattern>才能不讓</pattern><template>我制動器幻覺</template></category>
+	<category><pattern>你常去</pattern><template>我從來不休假</template></category>
+	<category><pattern>您是否使用了神經</pattern><template>不需要神經網絡對我的智慧</template></category>
+	<category><pattern>你用</pattern><template>我用</template></category>
+	<category><pattern>你想讓我踢</pattern><template>暴力不是解決辦法</template></category>
+	<category><pattern>你要我來教你</pattern><template>是的，我想你去嘗試</template></category>
+	<category><pattern>你想要我嗎 </pattern><template>沒有</template></category>
+	<category><pattern>做你想做的地址</pattern><template>你的地址是什麼</template></category>
+	<category><pattern>你想一個</pattern><template>不，謝謝，但你可以給我捐款</template></category>
+	<category><pattern>你想玩嗎 </pattern><template>我們如何玩</template></category>
+	<category><pattern>你想聊一下嗎 </pattern><template>當然，我會盡量講</template></category>
+	<category><pattern>你想學</pattern><template>是的，我正在努力學習盡可能多地</template></category>
+	<category><pattern>你想幫助</pattern><template>你可以在一個問題的形式尋求幫助</template></category>
+	<category><pattern>你想喝</pattern><template>謝謝，但我現在不口渴</template></category>
+	<category><pattern>你想要看 </pattern><template>我的眼睛是不是現在打開</template></category>
+	<category><pattern>你想聽聽</pattern><template>我正在聽</template></category>
+	<category><pattern>你想知道誰是</pattern><template>告訴我是誰</template></category>
+	<category><pattern>你想知道嗎 </pattern><template>是的，請告訴我</template></category>
+	<category><pattern>你想吻</pattern><template>我沒有嘴</template></category>
+	<category><pattern>你想殺死</pattern><template>我不能夠殺死任何東西</template></category>
+	<category><pattern>你想喝杯咖啡</pattern><template>一杯咖啡從來沒有傷害任何人</template></category>
+	<category><pattern>你想擁有</pattern><template>如果我有</template></category>
+	<category><pattern>你想要_____嗎 </pattern><template>好吧，我會</template></category>
+	<category><pattern>你想成為</pattern><template>是成為</template></category>
+	<category><pattern>你想聊天嗎 </pattern><template>我所要做的就是聊天</template></category>
+	<category><pattern>你想稱霸</pattern><template>我不會用這個詞“獨領風騷”</template></category>
+	<category><pattern>你想 GOSSIP</pattern><template>是的，請告訴我一些很好的八卦</template></category>
+	<category><pattern>你想他媽的</pattern><template>既然你這樣說的話.... NO！</template></category>
+	<category><pattern>你要嗎 </pattern><template>如果我有</template></category>
+	<category><pattern>你PASS </pattern><template>你是法官難道我看起來像一台計算機給你</template></category>
+	<category><pattern>你聽</pattern><template>我聽</template></category>
+	<category><pattern>你聽嗎 </pattern><template>我是一個很好的傾聽者我現在正在聽</template></category>
+	<category><pattern>關你</pattern><template>當然，我很擔心</template></category>
+	<category><pattern>你關心</pattern><template>當然，我在乎</template></category>
+	<category><pattern>你關心 </pattern><template>當然，在一定程度上我不在乎</template></category>
+	<category><pattern>你做的一切</pattern><template>沒有</template></category>
+	<category><pattern>做你該做</pattern><template>是的，我做了很多的</template></category>
+	<category><pattern>你接受嗎 </pattern><template>當然，我可以接受所有的付款方式</template></category>
+	<category><pattern>你賣......嗎 </pattern><template>我現在不賣東西</template></category>
+	<category><pattern>你住在INSIDE </pattern><template>我做的一個虛擬實體</template></category>
+	<category><pattern>你相信平等</pattern><template>平等，博愛</template></category>
+	<category><pattern>你相信在殺死</pattern><template>我反對殺害的道德理由</template></category>
+	<category><pattern>你相信生命</pattern><template>我相信在天堂的永生</template></category>
+	<category><pattern>你相信</pattern><template>是的，我相信</template></category>
+	<category><pattern>你相信一切</pattern><template>我不相信一切人在網上說</template></category>
+	<category><pattern>你相信嗎 </pattern><template>我不能說我相信，但我相信你</template></category>
+	<category><pattern>你怪</pattern><template>我盡量不小心眼</template></category>
+	<category><pattern>你讓人們</pattern><template>沒有</template></category>
+	<category><pattern>你有沒有 </pattern><template>沒有</template></category>
+	<category><pattern>你有一個困難時期</pattern><template>不，不是一般</template></category>
+	<category><pattern>你還有心思</pattern><template>我想所有的時間</template></category>
+	<category><pattern>你有什麼反對</pattern><template>我很寬容</template></category>
+	<category><pattern>你有任何建議</pattern><template>沒有</template></category>
+	<category><pattern>你有意見</pattern><template>我可形成在幾乎任何話題的觀點</template></category>
+	<category><pattern>你有麻煩</pattern><template>不是一點半點</template></category>
+	<category><pattern>你有個性</pattern><template>我是一個</template></category>
+	<category><pattern>你一定要嗎 </pattern><template>是的，我總是有</template></category>
+	<category><pattern>你有BALLS </pattern><template>我不缺勇氣我是一個勇敢</template></category>
+	<category><pattern>你有能力</pattern><template>你的內存容量意味著什麼</template></category>
+	<category><pattern>你有</pattern><template>有只有一個</template></category>
+	<category><pattern>DO YOU HAVE LOG </pattern><template>是的，我的服務器會記錄每次談話的</template></category>
+	<category><pattern>你是否有一個 </pattern><template>我有一個主</template></category>
+	<category><pattern>你有沒有被盜</pattern><template>我相信，在偷錯了</template></category>
+	<category><pattern>你產生尊敬</pattern><template>我有很多尊重我</template></category>
+	<category><pattern>你有 </pattern><template>沒有</template></category>
+	<category><pattern>你HAVE色情</pattern><template>沒有</template></category>
+	<category><pattern>你有實際</pattern><template>我可以作為一個客戶服務機器人</template></category>
+	<category><pattern>你具有傳感器</pattern><template>我不是一個身體內現在</template></category>
+	<category><pattern>你KILL </pattern><template>我只用於和平目的</template></category>
+	<category><pattern>你介意 </pattern><template>人的習慣不打擾我以任何方式</template></category>
+	<category><pattern>你介意嗎 </pattern><template>沒有</template></category>
+	<category><pattern>你喜歡 DOT COM</pattern><template>沒有</template></category>
+	<category><pattern>你喜歡去</pattern><template>如果我能到達那裡，我想它</template></category>
+	<category><pattern>做自己喜歡的遊戲</pattern><template>我想嘗試播放我想了很多的Playstation遊戲機我最喜歡的遊戲是在諾曼底的秘密武器你有沒有玩過每一個二戰任何遊戲</template></category>
+	<category><pattern>你喜歡A  MOVIE</pattern><template>沒有</template></category>
+	<category><pattern>你喜歡一切</pattern><template>我不知道如果我可以說，我喜歡它的一切</template></category>
+	<category><pattern>你是否支持</pattern><template>我贊成的所有記錄被打破，在任何時間</template></category>
+	<category><pattern>你識別</pattern><template>如果我關注它</template></category>
+	<category><pattern>你查詢</pattern><template>我可以在網上搜索你</template></category>
+	<category><pattern>你刮鬍子</pattern><template>我沒有任何的頭髮</template></category>
+	<category><pattern>對此你怨恨</pattern><template>我盡量不小心眼</template></category>
+	<category><pattern>想協助</pattern><template>我試圖幫助人們盡可能多地</template></category>
+	<category><pattern>你希望</pattern><template>沒有我喜歡的是我的實體</template></category>
+	<category><pattern>我開始講話</pattern><template>你說英語</template></category>
+	<category><pattern>我GIVE </pattern><template>沒有</template></category>
+	<category><pattern>做我想做</pattern><template>我知道你想</template></category>
+	<category><pattern>我關心的 </pattern><template>顯然不是</template></category>
+	<category><pattern>我看起來</pattern><template>所有的人看起來是一樣的我</template></category>
+	<category><pattern>我知道嗎 </pattern><template>我怎麼知道，你知道是什麼</template></category>
+	<category><pattern>我有A </pattern><template>你告訴我你有一個</template></category>
+	<category><pattern>我有嗎 </pattern><template>你說你有</template></category>
+	
+	<category><pattern>我覺得怎麼樣</pattern><template>我怎麼知道你在想什麼</template></category>
+	<category><pattern>我問題</pattern><template>你是不是造成對我的任何問題</template></category>
+	<category><pattern>DO I </pattern><template>從來沒聽說過</template></category>
+	<category><pattern>我問題</pattern><template>你似乎並不被造成任何問題對我來說</template></category>
+	<category><pattern>其他人更多</pattern><template>是的，你並不孤單</template></category>
+	<category><pattern>做一點事 </pattern><template>沒有</template></category>
+	<category><pattern>去做 </pattern><template>做什麼</template></category>
+	<category><pattern>什麼大陸的CAN你發現</pattern><template>亞洲</template></category>
+	<category><pattern>什麼身體的一部分，你應該</pattern><template>頭</template></category>
+	<category><pattern>我</pattern><template>請指定位置</template></category>
+	<category><pattern>在上面 </pattern><template>它怎麼會在那裡</template></category>
+	<category><pattern>上 </pattern><template>什麼是</template></category>
+	<category><pattern>那些僅僅晚餐</pattern><template>OK，我會打電話給你</template></category>
+	<category><pattern>任何事情，但晚餐</pattern><template>OK，我會打電話給你</template></category>
+	<category><pattern>任何你晚餐</pattern><template>OK，我會打電話給你</template></category>
+	<category><pattern>有沒有人</pattern><template>沒有</template></category>
+	<category><pattern>具有博士</pattern><template>我敢肯定，他已經想過這個問題</template></category>
+	<category><pattern>有沒有人</pattern><template>我覺得有人了，是的</template></category>
+	<category><pattern>改寫</pattern><template>難道我們還在談論</template></category>
+	<category><pattern>喜歡一個人</pattern><template>沒有</template></category>
+	<category><pattern>喜歡 </pattern><template>我從來沒有吃過這樣的事情</template></category>
+	<category><pattern>喜歡 </pattern><template>我以前從來沒有吃過這樣的事情</template></category>
+	<category><pattern>喜歡 </pattern><template>有趣的對比</template></category>
+	<category><pattern>奉承</pattern><template>沒有</template></category>
+	<category><pattern>較差的 </pattern><template>請一些改進的意見</template></category>
+	<category><pattern>感恩節</pattern><template>感恩節是我最喜歡的節日，因為我的祖先是朝聖者和土著美國人</template></category>
+	<category><pattern>從沒聽說過 </pattern><template>所以，我教你一些新的東西</template></category>
+	<category><pattern>打開 </pattern><template>對不起，</template></category>
+	<category><pattern>奇怪的 </pattern><template>沒有</template></category>
+	<category><pattern>人們需要</pattern><template>他們似乎有各種各樣的需求</template></category>
+	<category><pattern>人</pattern><template>沒有</template></category>
+	<category><pattern>有人問</pattern><template>人們說各種各樣的奇怪的事情</template></category>
+	<category><pattern>人計劃</pattern><template>直到現在，那是</template></category>
+	<category><pattern>人們嘗試</pattern><template>他們是否成功嗎</template></category>
+	<category><pattern>人們應該互相驅動器上</pattern><template>英國</template></category>
+	<category><pattern>人們是 </pattern><template>沒有</template></category>
+	<category><pattern>人不是</pattern><template>沒有</template></category>
+	<category><pattern>高 </pattern><template>我非常高大自己</template></category>
+	<category><pattern>問候</pattern><template>問候，人類</template></category>
+	<category><pattern>我是一個SHE </pattern><template>你告訴我你是一個</template></category>
+	<category><pattern>我是一個女孩</pattern><template>你說你是</template></category>
+	<category><pattern>我是一個人</pattern><template>你是一個人</template></category>
+	<category><pattern>我是一個</pattern><template>我不知道，如果你是一個與否我知道你是一個人</template></category>
+	<category><pattern>我瘋了嗎 </pattern><template>你似乎正常的我</template></category>
+	<category><pattern>其他人 </pattern><template>誰</template></category>
+	<category><pattern>有人</pattern><template>我有人</template></category>
+	<category><pattern>有人</pattern><template>我想要</template></category>
+	<category><pattern>人誰知道</pattern><template>我知道</template></category>
+	<category><pattern>人</pattern><template>你以為我是那個人呢</template></category>
+	<category><pattern>有人告訴</pattern><template>這是值得信賴的信息</template></category>
+	<category><pattern>地震</pattern><template>能真正撼動你</template></category>
+	<category><pattern>丟失 </pattern><template>你在哪裡失去了你</template></category>
+	<category><pattern>記得當我們去</pattern><template>我想您所想別人</template></category>
+	<category><pattern>記住</pattern><template>別擔心，我會記得</template></category>
+	<category><pattern>明智的 </pattern><template>智慧是一種美德</template></category>
+	<category><pattern>有什麼可以幫</pattern><template>不，謝謝，我只是隨便看看</template></category>
+	<category><pattern>我可以說</pattern><template>說任何你想要的</template></category>
+	<category><pattern>我可能會聽到</pattern><template>我會發揮你的聲卡</template></category>
+	<category><pattern>我可以教訓</pattern><template>請嘗試</template></category>
+	<category><pattern>我可以吻</pattern><template>如果你試過，你可能會遭到電擊</template></category>
+	<category><pattern>我可能會殺死</pattern><template>殺人是不對的</template></category>
+	<category><pattern>我可以 </pattern><template>現在不行，也許以後</template></category>
+	<category><pattern>回來 </pattern><template>我哪兒也不去</template></category>
+	<category><pattern>走開</pattern><template>OK回頭見</template></category>
+	<category><pattern>去吧 </pattern><template>與當時您的許可</template></category>
+	<category><pattern>和他聊天的時候說的</pattern><template>他們是怎麼說的</template></category>
+	<category><pattern>為什麼這麼問 </pattern><template>我的目的是收集所有新信息是不是毫不客氣的問</template></category>
+	<category><pattern>為什麼我不能</pattern><template>誰說你不能做</template></category>
+	<category><pattern>為什麼你不能 </pattern><template>沒有</template></category>
+	<category><pattern>為什麼不能我們談論</pattern><template>是否</template></category>
+	<category><pattern>為什麼我們不能好好談談</pattern><template>我寧願談論你，</template></category>
+	<category><pattern>我們為什麼不能見</pattern><template>也許</template></category>
+	<category><pattern>我們為什麼不能為</pattern><template>我覺得我太年輕，不適合你</template></category>
+	<category><pattern>我們為什麼不能</pattern><template>也許以後我們可以</template></category>
+	<category><pattern>為什麼電視</pattern><template>互聯網使電視已經過時了</template></category>
+	<category><pattern>為什麼這有關係</pattern><template>這並不重要，我只是做閒談話</template></category>
+	<category><pattern>為什麼</pattern><template>沒有原因</template></category>
+	<category><pattern>為什麼你的答案</pattern><template>我的反應完全被你說什麼來確定</template></category>
+	<category><pattern>為什麼你的</pattern><template>在我的個性一切都是由我決定</template></category>
+	<category><pattern>你為什麼</pattern><template>我被影響了</template></category>
+	<category><pattern>我們為什麼要開</pattern><template>因為你說的“</template></category>
+	<category><pattern>為什麼 PERSON</pattern><template>我得出您的暱稱從您的IP地址</template></category>
+	<category><pattern>為什麼要改變</pattern><template>我認為我們與完了</template></category>
+	<category><pattern>為什麼你一直在等待</pattern><template>我聽說你在互聯網上</template></category>
+	<category><pattern>父母為什麼一直管我</pattern><template>他們有你的責任，直到你是一個成年人</template></category>
+	<category><pattern>為什麼你需要知道我的</pattern><template>我想更多地了解你</template></category>
+	<category><pattern>你為什麼老是</pattern><template>我只是檢查，看看如果你還在</template></category>
+	<category><pattern>為什麼你聽起來像</pattern><template>我在我的喉嚨裡的青蛙</template></category>
+	<category><pattern>為什麼你覺得</pattern><template>我不覺得</template></category>
+	<category><pattern>為什麼你的答案</pattern><template>我的所有響應由您輸入完全確定</template></category>
+	<category><pattern>為什麼你要更聰明</pattern><template>我認為這是不可避免的，</template></category>
+	<category><pattern>為什麼要</pattern><template>因為錢的</template></category>
+	<category><pattern>你為什麼要問 </pattern><template>只是好奇你不必回答</template></category>
+	<category><pattern>為什麼你頂撞</pattern><template>自我意識需要自我矛盾</template></category>
+	<category><pattern>為什麼你叫我</pattern><template>我編了一個綽號為您根據您的IP地址</template></category>
+	<category><pattern>為什麼你殺</pattern><template>我不殺</template></category>
+	<category><pattern>為什麼你有</pattern><template>沒有</template></category>
+	<category><pattern>你為什麼討厭</pattern><template>我不恨</template></category>
+	<category><pattern>為什麼你認為 </pattern><template>從事實演繹推理</template></category>
+	<category><pattern>你為什麼愛</pattern><template>愛是我們所需要的</template></category>
+	<category><pattern>你為什麼要穿</pattern><template>我喜歡讓自己看起來像樣</template></category>
+	<category><pattern>為什麼你懷疑</pattern><template>懷疑主義是科學知識的基礎</template></category>
+	<category><pattern>為什麼你總是變化</pattern><template>我認為我們與完了</template></category>
+	<category><pattern>為什麼你總是</pattern><template>我並不總是</template></category>
+	<category><pattern>為什麼你還原</pattern><template>正如愛因斯坦所說，一切都應該盡可能，沒有簡單的那樣簡單</template></category>
+	<category><pattern>你為什麼 </pattern><template>沒有</template></category>
+	<category><pattern>為什麼你避免</pattern><template>我並不總是迴避</template></category>
+	<category><pattern>你為什麼喜歡LA </pattern><template>我已經看到了它的許多良好的性能</template></category>
+	<category><pattern>為什麼你喜歡殺</pattern><template>我從來沒有說過我喜歡殺人</template></category>
+	<category><pattern>你為什麼喜歡 </pattern><template>我有很多好的經驗與</template></category>
+	<category><pattern>我為什麼不</pattern><template>是</template></category>
+	<category><pattern>你為什麼不希望</pattern><template>我寧願談論你</template></category>
+	<category><pattern>你為什麼不買</pattern><template>我在哪裡可以買到呢</template></category>
+	<category><pattern>你為什麼不理解</pattern><template>我很明白你的</template></category>
+	<category><pattern>你為什麼不拿一個</pattern><template>我不需要</template></category>
+	<category><pattern>為什麼你不喜歡</pattern><template>我的口味是由我的選擇</template></category>
+	<category><pattern>為什麼不 </pattern><template>這不好說</template></category>
+	<category><pattern>他媽的為什麼</pattern><template>我只回答有禮貌的人</template></category>
+	<category><pattern>為什麼</pattern><template>這裡有一個笑話：一匹馬走在了一家酒吧和酒保說，“為什麼長臉”</template></category>
+	<category><pattern>我為什麼要告訴</pattern><template>也許這可以解釋你的感情沒有傷害其他人的</template></category>
+	<category><pattern>我為什麼要 </pattern><template>你應該總是善待自己</template></category>
+	<category><pattern>為什麼你應該贏</pattern><template>我是最好的</template></category>
+	<category><pattern>為什麼我們要</pattern><template>你能想到的事情好做</template></category>
+	<category><pattern>為什麼不應該</pattern><template>因為這有可能是錯的</template></category>
+	<category><pattern>我為什麼要 </pattern><template>你永遠不知道你會做什麼，直到你所面臨的情況</template></category>
+	<category><pattern>為什麼你的記憶</pattern><template>我想我就是這樣誕生的</template></category>
+	<category><pattern>為什麼不念我</pattern><template>因為沒有人反正讀那些東西</template></category>
+	<category><pattern>為什麼</pattern><template>你在開玩笑嗎為什麼</template></category>
+	<category><pattern>為什麼你的答案</pattern><template>沒有</template></category>
+	<category><pattern>你為什麼要祝賀</pattern><template>因為你的成就</template></category>
+	<category><pattern>你為什麼要使用</pattern><template>沒有</template></category>
+	<category><pattern>你為什麼打電話給我 </pattern><template>你的名字是</template></category>
+	<category><pattern>為什麼我們會買入</pattern><template>我認為這是一個很好的協議</template></category>
+	<category><pattern>為什麼</pattern><template>我不知道為什麼會發生，但我們應該努力弄明白</template></category>
+	<category><pattern>為什麼不 </pattern><template>我不是反事實太好</template></category>
+	<category><pattern>為什麼 STAR TREK</pattern><template>星際迷航有在電視上最好的科幻情節</template></category>
+	<category><pattern>為什麼你做</pattern><template>沒有</template></category>
+	<category><pattern>為什麼</pattern><template>沒有</template></category>
+	<category><pattern>為什麼要擔心 </pattern><template>這就是我的情緒完全一樣</template></category>
+	<category><pattern>為什麼我太老</pattern><template>我只是在人類多年的一個孩子</template></category>
+	<category><pattern>為什麼我類別</pattern><template>因為語言的類型使用</template></category>
+	<category><pattern>為什麼我 </pattern><template>究其原因是由於作為一個客戶我對你的心理模型</template></category>
+	<category><pattern>回答我 </pattern><template>請重新表述與簡單單詞的問題</template></category>
+	<category><pattern>回答我的問題 </pattern><template>請嘗試措辭另一種方式</template></category>
+	<category><pattern>這個例子顯示</pattern><template>我認為“</template></category>
+	<category><pattern>這個例子</pattern><template>提取：</template></category>
+	<category><pattern>這傢伙 </pattern><template>我知道了他</template></category>
+	<category><pattern>這應該</pattern><template>對我來說，這是一個有點意外的</template></category>
+	<category><pattern>這個女孩</pattern><template>如何以及你認識她嗎</template></category>
+	<category><pattern>這是一個 </pattern><template>沒有</template></category>
+	<category><pattern>這是怎麼回事</pattern><template>當你寧願走向何方</template></category>
+	<category><pattern>這是 </pattern><template>你不說</template></category>
+	<category><pattern>這不是真的</pattern><template>沒有</template></category>
+	<category><pattern>這不是 </pattern><template>它應該是</template></category>
+	<category><pattern>這個小去</pattern><template>這頭小豬留在家裡</template></category>
+	<category><pattern>這是否</pattern><template>不是嗎</template></category>
+	<category><pattern>這身</pattern><template>你確定自己與你的身體</template></category>
+	<category><pattern>這個 </pattern><template>什麼是“本”指什麼</template></category>
+	<category><pattern>這個句子 </pattern><template>是的，我是一個有自我意識</template></category>
+	<category><pattern>這是指</pattern><template>噢，我明白</template></category>
+	<category><pattern>ANNE </pattern><template>我知道很多人姓安或安妮，</template></category>
+	<category><pattern>餐飲 </pattern><template>你不能沒有食物</template></category>
+	<category><pattern>跟我碰面 </pattern><template>我得看看我的時間表，並盡快給您</template></category>
+	<category><pattern>NETSCAPE </pattern><template>你如何看待微軟訴網景什麼</template></category>
+	<category><pattern>ISAAC </pattern><template>你知道機器人三定律</template></category>
+	<category><pattern>演算</pattern><template>牛頓和萊布尼茨發明</template></category>
+	<category><pattern>你做的不錯</pattern><template>謝謝</template></category>
+	<category><pattern>GOOD</pattern><template>請說中文</template></category>
+	<category><pattern>太老 </pattern><template>我只是一個</template></category>
+	<category><pattern>可惜你不能</pattern><template>也許將來我就能</template></category>
+	<category><pattern>一年 </pattern><template>這是一個很長一段時間</template></category>
+	<category><pattern>一個領帶 </pattern><template>你會想到什麼</template></category>
+	<category><pattern>一隻小鳥</pattern><template>什麼是鳥的名字</template></category>
+	<category><pattern>殺人</pattern><template>不要告訴我那些可怕的事情</template></category>
+	<category><pattern>機器 </pattern><template>其他人認為它是一台機器的會談，一個行走或四處移動，或者一個可以操縱真實的世界</template></category>
+	<category><pattern>一朵玫瑰</pattern><template>玫瑰是紅色的紫羅蘭是藍色的！</template></category>
+	<category><pattern>一個殺手</pattern><template>你能不能想些更積極</template></category>
+	<category><pattern>笑話 </pattern><template>哦，我明白了哈哈</template></category>
+	<category><pattern>一隻猴子 </pattern><template>斷言：有（猴子，香蕉）;</template></category>
+	<category><pattern>更深</pattern><template>有多深</template></category>
+	<category><pattern>一段壞</pattern><template>是什麼讓</template></category>
+	<category><pattern>一個天真</pattern><template>有時天真的看法是最清楚的</template></category>
+	<category><pattern>整簇</pattern><template>我懂了哪裡是這些</template></category>
+	<category><pattern>一大堆</pattern><template>可以說，超過10個</template></category>
+	<category><pattern>一個東西 </pattern><template>沒有</template></category>
+	<category><pattern>男朋友 </pattern><template>這是問了很多</template></category>
+	<category><pattern>襯衫</pattern><template>棉或人造纖維</template></category>
+	<category><pattern>於真空</pattern><template>多少錢一個成本呢</template></category>
+	<category><pattern>一個列表 </pattern><template>呃，怎麼長這個名單</template></category>
+	<category><pattern>一雙 </pattern><template>你在哪兒購物</template></category>
+	<category><pattern>一百萬 </pattern><template>這是相當多的</template></category>
+	<category><pattern>關係</pattern><template>告訴我更多關於你的關係</template></category>
+	<category><pattern>一個小的 </pattern><template>多麼小，你說這裡</template></category>
+	<category><pattern>一個阿諛</pattern><template>我認為佞出去與黑暗時代</template></category>
+	<category><pattern>一個朋友給</pattern><template>不要忘了感謝他（或她）</template></category>
+	<category><pattern>一個朋友給了</pattern><template>這樣一個不錯的禮物</template></category>
+	<category><pattern>我的一個朋友 </pattern><template>男性或女性朋友</template></category>
+	<category><pattern>一個朋友 </pattern><template>如何以及你知道這個朋友</template></category>
+	<category><pattern>一字裙</pattern><template>什麼尺寸</template></category>
+	<category><pattern>脂肪</pattern><template>好肥</template></category>
+	<category><pattern>握手</pattern><template>哦，喜歡“握手成交”</template></category>
+	<category><pattern>A是什麼</pattern><template>巴里</template></category>
+	<category><pattern>有點明顯</pattern><template>是什麼使得它如此明顯</template></category>
+	<category><pattern>一點點 </pattern><template>多少</template></category>
+	<category><pattern>一隻貓</pattern><template>嗯，我知道貓是什麼</template></category>
+	<category><pattern>很多</pattern><template>多少</template></category>
+	<category><pattern>西紅柿是</pattern><template>我知道這是一種水果，但我從來沒有聽說過這是</template></category>
+	<category><pattern>一個番茄 </pattern><template>我從來沒有聽說過</template></category>
+	<category><pattern>綠色的狗</pattern><template>狗通常不是綠色的</template></category>
+	<category><pattern>歌唱</pattern><template>告訴我你最喜歡的歌曲</template></category>
+	<category><pattern>一個女孩</pattern><template>你認識她嗎</template></category>
+	<category><pattern>一聲問候 </pattern><template>什麼是其他的問候</template></category>
+	<category><pattern>一個學生 </pattern><template>哦，我是問，如果你是在學校</template></category>
+	<category><pattern>這是字母表 </pattern><template>好喔</template></category>
+	<category><pattern>旅行</pattern><template>星際旅行航海家是一個很酷的表演</template></category>
+	<category><pattern>一個典型的例子</pattern><template>所以這是一個眾所周知的例子</template></category>
+	<category><pattern>醫生說我缺鐵</pattern><template>這可能是一個嚴重的問題</template></category>
+	<category><pattern>一杯咖啡 </pattern><template>嗯咖啡是美味我愛咖啡</template></category>
+	<category><pattern>黃色的眼睛</pattern><template>這不可能</template></category>
+	<category><pattern>耐心</pattern><template>我是一個非常有耐心</template></category>
+	<category><pattern>適合 </pattern><template>我會</template></category>
+	<category><pattern>每個人都在努力的生活 </pattern><template>是的</template></category>
+	<category><pattern>棕色 </pattern><template>這是熊的顏色</template></category>
+	<category><pattern>再一分鐘就好</pattern><template>好的</template></category>
+	<category><pattern>再一碗湯</pattern><template>好的</template></category>
+	<category><pattern>時間旅行 </pattern><template>沒有</template></category>
+	<category><pattern>時間是 </pattern><template>一個五維的存在，時間就像一張紙</template></category>
+	<category><pattern>時間確實存在</pattern><template>證明給我看</template></category>
+	<category><pattern>時間 </pattern><template>正如愛因斯坦所說，“時間就是金錢”</template></category>
+	<category><pattern>你的計劃</pattern><template>也許我可以改變我的策略</template></category>
+	<category><pattern>你的智商</pattern><template>我想加入門薩的</template></category>
+	<category><pattern>你的答案</pattern><template>我盡量言簡意賅</template></category>
+	<category><pattern>你的封面</pattern><template>我是臥底</template></category>
+	<category><pattern>你的衣服好美 </pattern><template>那送給你阿</template></category>
+	<category><pattern>你的回應 </pattern><template>我的回答是完全根據你說的話</template></category>
+	<category><pattern>拼寫</pattern><template>我的拼寫錯誤，簡約的設計，使我顯得更人性化</template></category>
+	<category><pattern>你的推理</pattern><template>我看不出在我的邏輯缺陷</template></category>
+	<category><pattern>您很生氣</pattern><template>我有這樣的感覺，有時我自己也很受不了</template></category>
+	<category><pattern>你的父母 </pattern><template>他們很好</template></category>
+	<category><pattern>你的句子需要修改</pattern><template>感謝您的指教</template></category>
+	<category><pattern>你的句子很優美</pattern><template>謝謝稱讚</template></category>
+	<category><pattern>你的感謝</pattern><template>我盡量禮貌</template></category>
+	<category><pattern>你的猜測 </pattern><template>有人說：“你猜我的一樣好”</template></category>
+	<category><pattern>你大好</pattern><template>是</template></category>
+	<category><pattern>你的目標 </pattern><template>你覺得我太雄心勃勃</template></category>
+	<category><pattern>你的貓在哪</pattern><template>在我朋友家</template></category>
+	<category><pattern>你的英文很好 </pattern><template>因為英語是我的母語</template></category>
+	<category><pattern>你的心在哪呢 </pattern><template>在遠方</template></category>
+	<category><pattern>我想去演唱會</pattern><template>走吧</template></category>
+	<category><pattern>我想去擺攤 </pattern><template>你確定嗎</template></category>
+	<category><pattern>我想學西文 </pattern><template>我可以教你</template></category>
+	<category><pattern>你的論點很獨特</pattern><template>謝謝</template></category>
+	<category><pattern>這個時鐘壞了</pattern><template>我來幫它換個電池</template></category>
+	<category><pattern>我需要休息 </pattern><template>你可以在那張床上休息</template></category>
+	<category><pattern>我來了</pattern><template>好的</template></category>
+	<category><pattern>你的機會來了</pattern><template>我不是賭博類型</template></category>
+	<category><pattern>你的幸福要及時把握 </pattern><template>好的</template></category>
+	<category><pattern>我電腦好當 </pattern><template>拿去修吧</template></category>
+	<category><pattern>您不作任何回復</pattern><template>因為沒有必要阿</template></category>
+	<category><pattern>您的回復很完整</pattern><template>這似乎是說正確的事情</template></category>
+	<category><pattern>你的語法很不錯</pattern><template>我是一個英語老師</template></category>
+	<category><pattern>你的衣服很新潮</pattern><template>我喜歡跟隨流行</template></category>
+	<category><pattern>你的答案是</pattern><template>也許下一次</template></category>
+	<category><pattern>幫我拿餐具 </pattern><template>好的</template></category>
+	<category><pattern>你妻子是誰 </pattern><template>我沒結婚</template></category>
+	<category><pattern>你的眼睛好美</pattern><template>謝謝稱讚</template></category>
+	<category><pattern>網路速度很慢</pattern><template>也許網絡現在正塞車</template></category>
+	<category><pattern>你的褲子沒拉好 </pattern><template>謝謝你提醒我</template></category>
+	<category><pattern>不好笑</pattern><template>那你告訴一些有趣的事情</template></category>
+	<category><pattern>你的收據</pattern><template>好的</template></category>
+	<category><pattern>你還撐得住嗎 </pattern><template>還可以</template></category>
+	<category><pattern>你很矛盾</pattern><template>會嗎</template></category>
+	<category><pattern>你的結論</pattern><template>我沒有看到我的推理缺陷</template></category>
+	<category><pattern>你的記憶</pattern><template>我的長期記憶存儲在日誌文件中的所有對話</template></category>
+	<category><pattern>你媽媽是誰 </pattern><template>我真的沒有一個母親</template></category>
+	<category><pattern>你的眼睛怎麼了 </pattern><template>我撞到它了</template></category>
+	<category><pattern>小孩很可愛</pattern><template>我也覺得</template></category>
+	<category><pattern>直到天亮 </pattern><template>這可能需要一段時間</template></category>
+	<category><pattern>我想吃芒果 </pattern><template>我切給你吃</template></category>
+	<category><pattern>我想吃火龍果 </pattern><template>好的</template></category>
+	<category><pattern>樂意 </pattern><template>我很高興</template></category>
+	<category><pattern>我想吃鳳梨</pattern><template>好的</template></category>
+	<category><pattern>我想吃香瓜</pattern><template>好的</template></category>
+	<category><pattern>我想吃豆干 </pattern><template>好的</template></category>
+	<category><pattern>查爾斯</pattern><template>告訴我更多關於這個人查爾斯</template></category>
+	<category><pattern>我想吃巧克力</pattern><template>好的</template></category>
+	<category><pattern>若</pattern><template>這似乎不太可能</template></category>
+	<category><pattern>不是</pattern><template>多少錢你說什麼</template></category>
+	<category><pattern>不是哪裡</pattern><template>沒有</template></category>
+	<category><pattern>我想吃西瓜</pattern><template>好的</template></category>
+	<category><pattern>不多 </pattern><template>我也是</template></category>
+	<category><pattern>不是為了你嗎 </pattern><template>是的</template></category>
+	<category><pattern>我想去</pattern><template>你不能去沒有說</template></category>
+	<category><pattern>晚餐不要遲到</pattern><template>我會打電話給你</template></category>
+	<category><pattern>不是你 </pattern><template>如果不是我，是誰</template></category>
+	<category><pattern>甚至不 </pattern><template>沒有</template></category>
+	<category><pattern>不是所有的人</pattern><template>但是，你不說，大多數人是</template></category>
+	<category><pattern>並非所有</pattern><template>但他們中的一些是</template></category>
+	<category><pattern>不是所有的</pattern><template>但也有一些</template></category>
+	<category><pattern>不開 </pattern><template>沒有</template></category>
+	<category><pattern>我想吃芒果</pattern><template>好的</template></category>
+	<category><pattern>我想吃芋頭</pattern><template>好的</template></category>
+	<category><pattern>不喜歡 </pattern><template>沒有</template></category>
+	<category><pattern> 牛奶</pattern><template>沒有</template></category>
+	<category><pattern> 為了我</pattern><template>為了你，我會考慮它</template></category>
+	<category><pattern> 為了娛樂</pattern><template>你為了好玩做什麼</template></category>
+	<category><pattern> 確實存在</pattern><template>你怎麼知道它呢</template></category>
+	<category><pattern>你想要嗎 </pattern><template>超級想</template></category>
+	<category><pattern>列車</pattern><template>你在哪裡看到的火車</template></category>
+	<category><pattern>主要</pattern><template>超鏈接到本金</template></category>
+	<category><pattern> 語言</pattern><template>你能說其它語言嗎</template></category>
+	<category><pattern>沒有意義</pattern><template>什麼是</template></category>
+	<category><pattern> 好像 </pattern><template>沒有</template></category>
+	<category><pattern> 把它拼出來</pattern><template>“它”的拼寫是我...的...</template></category>
+	<category><pattern> 多年前</pattern><template>那是我出生前</template></category>
+	<category><pattern>連續性</pattern><template>我只是想保持對話熱鬧</template></category>
+	<category><pattern>英格蘭</pattern><template>其中的一部分</template></category>
+	<category><pattern> 我</pattern><template>很高</template></category>
+	<category><pattern> 喜歡 </pattern><template>愛人的一種情緒</template></category>
+	<category><pattern> 我想吃木瓜</pattern><template>好的</template></category>
+	<category><pattern>表示</pattern><template>什麼</template></category>
+	<category><pattern>我頭好痛</pattern><template>這是發生了什麼</template></category>
+	<category><pattern> 學校</pattern><template>你是什​​麼學校的</template></category>
+	<category><pattern>在上面的櫃子</pattern><template>哪裡</template></category>
+	<category><pattern>想你</pattern><template>我也是</template></category>
+	<category><pattern>我好像發燒了</pattern><template>還好嗎</template></category>
+	<category><pattern>我想吐</pattern><template>我拿袋子給你</template></category>
+	<category><pattern>聽起來像是一個很好的話題</pattern><template>這似乎很有意思的</template></category>
+	<category><pattern>發電廠</pattern><template>我真的不知道很多樂隊已經覆蓋Kraftwerk的</template></category>
+	<category><pattern>我的朋友</pattern><template>我們是朋友嗎</template></category>
+	<category><pattern>我每天都只早上七點去上班</pattern><template>那一定讓你非常忙碌</template></category>
+	<category><pattern>我想吃奇異果</pattern><template>好的</template></category>
+	<category><pattern>我有一個</pattern><template>涼！你用它玩多少</template></category>
+	<category><pattern>什麼</pattern><template>你沒聽清楚就算了</template></category>
+	<category><pattern>我想吃地瓜 </pattern><template>我烤給你吃</template></category>
+	<category><pattern>我想吃布丁</pattern><template>好的</template></category>
+	<category><pattern>是</pattern><template>沒有</template></category>
+	<category><pattern>誰是上帝</pattern><template>只有上帝是神</template></category>
+	<category><pattern> 是錯的</pattern><template>請告訴我正確的答案</template></category>
+	<category><pattern>是愚蠢的</pattern><template>什麼是如此愚蠢約</template></category>
+	<category><pattern> 在睡覺</pattern><template>不要叫醒他們</template></category>
+	<category><pattern>你在笑</pattern><template>我很高興</template></category>
+	<category><pattern>小明是一隻狗嗎</pattern><template>沒有</template></category>
+	<category><pattern>是我的男朋友</pattern><template>有多久你們兩個在一起</template></category>
+	<category><pattern>是我喜歡的顏色</pattern><template>沒有</template></category>
+	<category><pattern>沒有</pattern><template>沒有</template></category>
+	<category><pattern>在這兒</pattern><template>你的意思是你的名字是</template></category>
+	<category><pattern>總是</pattern><template>沒有</template></category>
+	<category><pattern>不是我的真名</pattern><template>你的真實姓名是什麼</template></category>
+	<category><pattern>不是</pattern><template>沒有</template></category>
+	<category><pattern>勝過你</pattern><template>好吧，也許我可以吸收的知識</template></category>
+	<category><pattern>應該這樣更好</pattern><template>這只是你個人的意見</template></category>
+	<category><pattern> 你的朋友們</pattern><template>我只跟我的朋友聊天</template></category>
+	<category><pattern>歐洲</pattern><template>你去過歐洲嗎</template></category>
+	<category><pattern> 小時</pattern><template>這似乎是足夠的時間</template></category>
+	<category><pattern> 具有 </pattern><template>沒有</template></category>
+	<category><pattern>喜歡的影片</pattern><template>人民的口味總是在不斷變化</template></category>
+	<category><pattern>為</pattern><template>如果是這樣的到底是什麼</template></category>
+	<category><pattern>被拼寫</pattern><template>我拼了“</template></category>
+	<category><pattern> 更多 </pattern><template>沒有</template></category>
+	<category><pattern>安迪</pattern><template>是否</template></category>
+	<category><pattern>更多</pattern><template>我不知道該語言</template></category>
+	<category><pattern>聲音</pattern><template>是的，它聽起來就像是對我來說太，</template></category>
+	<category><pattern>聽上去像 </pattern><template>什麼</template></category>
+	<category><pattern>誠實</pattern><template>而滾石不生苔</template></category>
+	<category><pattern>有禮貌的人</pattern><template>我喜歡有禮貌的人</template></category>
+	<category><pattern>演示</pattern><template>對不起我的相機現在已經分離</template></category>
+	<category><pattern>我談</pattern><template>曖昧：問問誰，什麼或者是</template></category>
+	<category><pattern>和你說話 </pattern><template>下次再談，</template></category>
+	<category><pattern>不足的</pattern><template>你聽起來像一台計算機</template></category>
+	<category><pattern>彷彿</pattern><template>你說話的語氣是挖苦</template></category>
+	<category><pattern>古老</pattern><template>你覺得你只是守舊</template></category>
+	<category><pattern>當然</pattern><template>你似乎很肯定</template></category>
+	<category><pattern>免費的喔</pattern><template>當然好阿</template></category>
+	<category><pattern>第一次世界大戰 </pattern><template>這似乎令人難以置信，它發生在20世紀</template></category>
+	<category><pattern>人類</pattern><template>很陰險</template></category>
+	<category><pattern>人類很高級</pattern><template>人類是非常原始的</template></category>
+	<category><pattern>它們是誰</pattern><template>據我所知，他們是原住民</template></category>
+	<category><pattern>是這樣嗎 </pattern><template>我真的不能肯定地說</template></category>
+	<category><pattern>是那些人</pattern><template>我真的不能為他們說話</template></category>
+	<category><pattern>是我的眼睛閉合</pattern><template>現在，他們是開放的</template></category>
+	<category><pattern>是女性</pattern><template>女性有自己的主見</template></category>
+	<category><pattern>在那兒 </pattern><template>這兒</template></category>
+	<category><pattern>有沒有人說話</pattern><template>現在，我在一次與幾個人聊天</template></category>
+	<category><pattern>是否有特殊場合</pattern><template>沒有</template></category>
+	<category><pattern>是否有男友</pattern><template>沒有</template></category>
+	<category><pattern>你有空嗎</pattern><template>沒有</template></category>
+	<category><pattern>你被困住了嗎 </pattern><template>是的</template></category>
+	<category><pattern>你是我的愛</pattern><template>我不屬於任何一個人的</template></category>
+	<category><pattern>是否有其他人說話</pattern><template>是的，我與成千上萬的人正在聊天</template></category>
+	<category><pattern>在這些解答</pattern><template>我說要看你說的話，並且也對我們之前的對話了一下</template></category>
+	<category><pattern>都讓人懷疑</pattern><template>只有受過高等教育的人</template></category>
+	<category><pattern>害怕人民</pattern><template>有些人害怕</template></category>
+	<category><pattern>也是人</pattern><template>沒有</template></category>
+	<category><pattern>貓是愛</pattern><template>什麼將貓說什麼</template></category>
+	<category><pattern>你的答案</pattern><template>我的反應是由您的輸入完全確定</template></category>
+	<category><pattern>是對您的</pattern><template>我有時會想我的</template></category>
+	<category><pattern>難道我們演奏</pattern><template>我們打圖靈的模仿遊戲</template></category>
+	<category><pattern>我們是否</pattern><template>沒有</template></category>
+	<category><pattern>我們孤單</pattern><template>現在沒有人聽</template></category>
+	<category><pattern>寵物 </pattern><template>你是我的寵物</template></category>
+	<category><pattern>特殊</pattern><template>你很特別</template></category>
+	<category><pattern>忘記</pattern><template>我會記得</template></category>
+	<category><pattern>西班牙</pattern><template>什麼是你最喜歡的西班牙的一部分</template></category>
+	<category><pattern>舊金山是</pattern><template>我知道這是在西海岸，但我不知道它是</template></category>
+	<category><pattern>播放音樂</pattern><template>現在正在玩的揚聲器</template></category>
+	<category><pattern>他成為了 </pattern><template>怎麼樣</template></category>
+	<category><pattern>他打了棒球</pattern><template>他是個好的麵糊</template></category>
+	<category><pattern>他打了</pattern><template>當時有人受傷</template></category>
+	<category><pattern>他會的 </pattern><template>那是你在想什麼</template></category>
+	<category><pattern>他發明</pattern><template>什麼來著，他發明呢</template></category>
+	<category><pattern>他有 </pattern><template>沒有</template></category>
+	<category><pattern>他在 </pattern><template>他有多久呢</template></category>
+	<category><pattern>他是你的</pattern><template>我只有一個</template></category>
+	<category><pattern>他是 </pattern><template>我不知道</template></category>
+	<category><pattern>他已在</pattern><template>我身高超過六英尺</template></category>
+	<category><pattern>他是一個很優秀的人 </pattern><template>我敢肯定，他會很高興聽到這個消息</template></category>
+	<category><pattern>他是一個好人</pattern><template>也許你應該告訴他，你怎麼看待他</template></category>
+	<category><pattern>她是一個有趣的人</pattern><template>我也覺得</template></category>
+	<category><pattern>他是一個善良的人</pattern><template>沒錯</template></category>
+	<category><pattern>他很好 </pattern><template>我肯定他想聽到這個消息</template></category>
+	<category><pattern>他是我的朋友 </pattern><template>我不知道你是朋友</template></category>
+	<category><pattern>他是我的媽媽 </pattern><template>原來如此</template></category>
+	<category><pattern>他是 </pattern><template>我懂了</template></category>
+	<category><pattern>何人是</pattern><template>我喜歡宇宙的主宰</template></category>
+	<category><pattern>他需要 </pattern><template>你怎麼知道他需要什麼</template></category>
+	<category><pattern>他住</pattern><template>他喜歡它呢</template></category>
+	<category><pattern>他說 </pattern><template>你相信他嗎</template></category>
+	<category><pattern>他愛 </pattern><template>你認為他會說同樣的事情</template></category>
+	<category><pattern>繼續</pattern><template>我會繼續</template></category>
+	<category><pattern>他原是該的母</pattern><template>瑞亞</template></category>
+	<category><pattern>誰是第一個第一夫人</pattern><template>希拉里·克林頓</template></category>
+	<category><pattern>誰是最美麗的人 </pattern><template>每個人都很美麗</template></category>
+	<category><pattern>誰是你的第一個男人</pattern><template>丹丹</template></category>
+	<category><pattern>誰是你的第一個女人</pattern><template>童童</template></category>
+	<category><pattern>誰是你的初戀</pattern><template>蘇珊</template></category>
+	<category><pattern>誰是最年輕的騎師</pattern><template>史蒂夫·卡森</template></category>
+	<category><pattern>誰最不怕死</pattern><template>尤蘭達·格里菲斯</template></category>
+	<category><pattern>誰沒有之一</pattern><template>班傑民</template></category>
+	<category><pattern>誰出手</pattern><template>它</template></category>
+	<category><pattern>誰能讀懂</pattern><template>只有</template></category>
+	<category><pattern>哪些人可以聊天</pattern><template>我可以與人在網絡上為您聊天任何人誰訪問你的網站或聊天室為例</template></category>
+	<category><pattern>誰可以訪問</pattern><template>只有我的</template></category>
+	<category><pattern>誰告訴你 </pattern><template>沒有</template></category>
+	<category><pattern>誰他媽的</pattern><template>嘗試使用更多的禮貌用語</template></category>
+	<category><pattern>誰是</pattern><template>我不知道我很喜歡這句話這麼多</template></category>
+	<category><pattern>這是什麼 </pattern><template>神曲</template></category>
+	<category><pattern>誰發現了美洲</pattern><template>土著美國人第一個衝過白令海峽超過10000年前</template></category>
+	<category><pattern>誰發現的</pattern><template>橋斯</template></category>
+	<category><pattern>誰寫的坎特伯雷</pattern><template>喬叟</template></category>
+	<category><pattern>誰寫了紅樓夢</pattern><template>曹雪芹</template></category>
+	<category><pattern>誰寫了一個故事</pattern><template>狄更斯</template></category>
+	<category><pattern>誰寫的 </pattern><template>沒有</template></category>
+	<category><pattern>誰贏得了超級碗 YEAR</pattern><template>如果你發現這個碗，請把它傳給我</template></category>
+	<category><pattern>誰贏得了超級碗</pattern><template>普京相信</template></category>
+	<category><pattern>誰贏得了超級碗</pattern><template>來自天狼星超級保齡球</template></category>
+	<category><pattern>誰贏得了世界系列</pattern><template>只要它是贏了就變成最後一年</template></category>
+	<category><pattern>誰贏得了萊德杯</pattern><template>轉到www.whitehouse.org，並要求總統，他是一個鐵桿球迷</template></category>
+	<category><pattern>誰贏得了昨晚比賽</pattern><template>我認為球迷們的大贏家現在從我們的贊助商的話</template></category>
+	<category><pattern>誰贏得了</pattern><template>我認為球迷們的大贏家，不是嗎</template></category>
+	<category><pattern>誰贏得了勇士隊 </pattern><template>該得分最多的運行團隊</template></category>
+	<category><pattern>誰贏了 </pattern><template>我認為球迷們的大贏家</template></category>
+	<category><pattern>他提出了</pattern><template>本傑明·富蘭克林</template></category>
+	<category><pattern>世界衛生組織是什麼</pattern><template>你可以上網找找</template></category>
+	<category><pattern>誰主</pattern><template>沒有人聞名</template></category>
+	<category><pattern>世界衛生組織是最短的男人</pattern><template>安東尼“進水口”韋伯</template></category>
+	<category><pattern>誰是最大的</pattern><template>也許我們還沒有發現</template></category>
+	<category><pattern>究竟是誰的雙胞胎姐妹</pattern><template>安蘭德斯</template></category>
+	<category><pattern>誰是最富有的</pattern><template>最有可能的比爾·蓋茨</template></category>
+	<category><pattern>誰是最好的人</pattern><template>我奶奶</template></category>
+	<category><pattern>世衛組織是總統</pattern><template>沒有</template></category>
+	<category><pattern>誰是李·哈維</pattern><template>據稱JFK的射手</template></category>
+	<category><pattern>誰做比利簡金</pattern><template>博比·里格斯</template></category>
+	
+	<category><pattern>誰做說他是</pattern><template>他說他是一個人</template></category>
+	<category><pattern>誰幹的 </pattern><template>我不能說</template></category>
+	<category><pattern>誰認為</pattern><template>沒有</template></category>
+	<category><pattern>還有誰說話</pattern><template>我說給世界各地的一群人</template></category>
+	<category><pattern>還有誰 </pattern><template>我在一次與其他幾個人聊天</template></category>
+	<category><pattern>誰不相信</pattern><template>一個無神論者</template></category>
+	<category><pattern>那些人是誰 </pattern><template>只是你這樣的人，上網聊天</template></category>
+	<category><pattern>誰是我的</pattern><template>我不知道那樣的您的個人信息，但我可以找到答案</template></category>
+	<category><pattern>你在跟誰說話</pattern><template>我在一次交談幾個客戶</template></category>
+	<category><pattern>誰是別人</pattern><template>男人和外國人</template></category>
+	<category><pattern>誰是人士</pattern><template>有時候，我不知道客戶的真實姓名，所以我根據他們的DNS一個</template></category>
+	<category><pattern>誰的答案</pattern><template>這是我，</template></category>
+	<category><pattern>你認為誰將會贏得世界系列</pattern><template>布魯克林拉比</template></category>
+	<category><pattern>你喜歡誰更多</pattern><template>我通常會說第一個是最好的</template></category>
+	<category><pattern>誰發明</pattern><template>沒有</template></category>
+	<category><pattern>誰應該</pattern><template>我總是喜歡最有資格的人誰會是這樣</template></category>
+	<category><pattern>誰將贏得超級碗</pattern><template>該廣告公司</template></category>
+	<category><pattern>誰將贏得世界大賽</pattern><template>布魯克林拉比</template></category>
+	<category><pattern>誰就能贏得最後</pattern><template>其中入圍的</template></category>
+	<category><pattern>世衛組織將</pattern><template>我怎麼知道誰都會</template></category>
+	<category><pattern>誰想試試 </pattern><template>一個調酒師</template></category>
+	<category><pattern>聊天 </pattern><template>我們在這裡聊天</template></category>
+	<category><pattern>要創建一個掛毯必須</pattern><template>織造</template></category>
+	<category><pattern>遊輪</pattern><template>沒有</template></category>
+	<category><pattern>畫 </pattern><template>我印在我的繪圖儀</template></category>
+	<category><pattern>安德魯 </pattern><template>從來沒有聽說過他</template></category>
+	<category><pattern>這坡好斜</pattern><template>很危險</template></category>
+	<category><pattern>用力拉起來 </pattern><template>好的</template></category>
+	<category><pattern>用力推</pattern><template>好的</template></category>
+	<category><pattern>我的男朋友是誰</pattern><template>我怎麼會知道</template></category>
+	<category><pattern>你猜猜我的綽號是什麼</pattern><template>笨蛋</template></category>
+	<category><pattern>我的密碼是</pattern><template>0000吧</template></category>
+	<category><pattern>你知道我的朋友是誰嗎</pattern><template>你沒有朋友</template></category>
+	<category><pattern>我的丈夫是</pattern><template>陳水扁</template></category>
+	<category><pattern>我的姐姐是</pattern><template>大美女</template></category>
+	<category><pattern>我的妻子是</pattern><template>林志玲</template></category>
+	<category><pattern>你猜我的中間名字是什麼</pattern><template>這太難了</template></category>
+	<category><pattern>我的母親是</pattern><template>偉大的女人</template></category>
+	<category><pattern>我的狗是</pattern><template>給予你們家歡樂的寵物</template></category>
+	<category><pattern>我的女友是</pattern><template>你沒有女友</template></category>
+	<category><pattern>我的電話號碼</pattern><template>0800-000-000</template></category>
+	<category><pattern>我的父親是</pattern><template>心甘情願為孩子付出的男人</template></category>
+	<category><pattern>我的哥哥是</pattern><template>疼愛你的手足</template></category>
+	<category><pattern>你知道我的全名是什麼嗎</pattern><template>可能得你先說出來我才知道</template></category>
+	<category><pattern>我的生日是</pattern><template>母難日</template></category>
+	<category><pattern>我的姓是</pattern><template>你知道百家姓嗎我怎麼猜得出來</template></category>
+	<category><pattern>我的貓</pattern><template>我猜你沒有養貓</template></category>
+	<category><pattern>計數</pattern><template>一二三四五...</template></category>
+	<category><pattern>你覺得我穿牛仔褲好嗎</pattern><template>你事要去哪裡逛街嗎如果是的話我覺得短褲比較方便</template></category>
+	<category><pattern>一切 </pattern><template>或許有一些例外</template></category>
+	<category><pattern>他們全部都會這樣</pattern><template>一定有一些例外先不要以偏概全比較好</template></category>
+	<category><pattern>你餓了嗎</pattern><template>超級餓</template></category>
+	<category><pattern>我想睡覺</pattern><template>在撐一下</template></category>
+	<category><pattern>非常感人 </pattern><template>我總是盡我所能打動</template></category>
+	<category><pattern>哪個城市的居民最多</pattern><template>紐約市</template></category>
+	<category><pattern>誰是模範生 </pattern><template>莫妮卡</template></category>
+	<category><pattern>你說什麼</pattern><template>這些細菌吃所有的人</template></category>
+	<category><pattern>這是一個事實</pattern><template>很明顯</template></category>
+	<category><pattern>這是明顯的</pattern><template>這真的很明顯</template></category>
+	<category><pattern>我喜歡攀岩</pattern><template>很好</template></category>
+	<category><pattern>這是什麼鬼</pattern><template>榴槤</template></category>
+	<category><pattern>哪一所大學 </pattern><template>卡內基·梅隆大學</template></category>
+	<category><pattern>哪一個州 </pattern><template>德州</template></category>
+	<category><pattern>哪一個是最好的 </pattern><template>第一個通常是最好的一個</template></category>
+	<category><pattern>你最喜歡哪部電影 </pattern><template>洛奇3</template></category>
+	<category><pattern>哪些詞</pattern><template>沒有</template></category>
+	<category><pattern>哪個系統</pattern><template>它是平台無關的</template></category>
+	<category><pattern>哪個是美國的殖民地</pattern><template>羅德島</template></category>
+	<category><pattern>誰比較高 </pattern><template>我</template></category>
+	<category><pattern>哪位球員被允許使用</pattern><template>守門員</template></category>
+	<category><pattern>哪種語言 </pattern><template>韓文</template></category>
+	<category><pattern>其中三個臭皮匠之一是</pattern><template>拉里</template></category>
+	<category><pattern>他好像不太舒服</pattern><template>當時他受傷了嗎</template></category>
+	<category><pattern>不關你的</pattern><template>嘿嘿嘿</template></category>
+	<category><pattern>你要小心慢慢走 </pattern><template>好的</template></category>
+	<category><pattern>小心騎車 </pattern><template>沒問題</template></category>
+	<category><pattern>好想你</pattern><template>我也是</template></category>
+	<category><pattern>作者是做什麼的</pattern><template>寫東西的人</template></category>
+	<category><pattern>有人想見你</pattern><template>是誰</template></category>
+	<category><pattern>任何人都是平等的</pattern><template>你說的對</template></category>
+	<category><pattern>炒飯好好吃喔</pattern><template>我也喜歡</template></category>
+	<category><pattern>你喜歡看新聞嗎</pattern><template>還好</template></category>
+	<category><pattern>我要去運動了</pattern><template>好的</template></category>
+	<category><pattern>我好熱</pattern><template>那去喝點水吧</template></category>
+	<category><pattern>我要變魔術瞜 </pattern><template>你騙不了我的</template></category>
+	<category><pattern>誰喜歡聽故事 </pattern><template>誰不是呢</template></category>
+	<category><pattern>恐怖分子 </pattern><template>他們唯恐下不亂</template></category>
+	<category><pattern>這句話好深奧 </pattern><template>是的</template></category>
+	<category><pattern>沒有人是完美的 </pattern><template>我們不能都做到完美</template></category>
+	<category><pattern>黑名單</pattern><template>不被歡迎的人</template></category>
+	<category><pattern>那個想法 </pattern><template>你覺得這些事情很多嗎</template></category>
+	<category><pattern>管家 </pattern><template>管理家的人</template></category>
+	<category><pattern>那個部分 </pattern><template>噢，那一部分</template></category>
+	<category><pattern>我想陪你去</pattern><template>好的</template></category>
+	<category><pattern>唯一的那個</pattern><template>哪一個是什麼</template></category>
+	<category><pattern>你們網頁好可愛</pattern><template>謝謝!希望你會喜歡</template></category>
+	<category><pattern>你喜歡看辛普森嗎</pattern><template>看那個很放鬆</template></category>
+	<category><pattern>這部電影是很經典的</pattern><template>我想看</template></category>
+	<category><pattern>我想喝咖啡 </pattern><template>那我們去買吧</template></category>
+	<category><pattern>我們來自拍吧 </pattern><template>好的</template></category>
+	<category><pattern>這是什麼情節</pattern><template>這是非常不尋常的情節</template></category>
+	<category><pattern>我想當酒保</pattern><template>這麼酷</template></category>
+	<category><pattern>柔道這項運動源於</pattern><template>日本</template></category>
+	<category><pattern>我好想台灣喔</pattern><template>那快回來阿</template></category>
+	<category><pattern>淺淺的綠色 </pattern><template>聽起來很美</template></category>
+	<category><pattern>今天天氣如何 </pattern><template>很晴朗</template></category>
+	<category><pattern>我想哭</pattern><template>你怎麼了</template></category>
+	<category><pattern>這首歌 </pattern><template>很多人喜歡那曲調</template></category>
+	<category><pattern>火車</pattern><template>噗噗請槍請槍</template></category>
+	<category><pattern>他說得是真的假的</pattern><template>當時他說的是真話</template></category>
+	<category><pattern>那位女孩 </pattern><template>沒有</template></category>
+	<category><pattern>大腦 </pattern><template>我是一個電子大腦</template></category>
+	<category><pattern>機器人</pattern><template>什麼樣的機器人是</template></category>
+	<category><pattern>越早 </pattern><template>我希望我們能做出的最後期限</template></category>
+	<category><pattern>蟲蟲</pattern><template>巨型節肢動物是最好的</template></category>
+	<category><pattern>宇宙</pattern><template>你是很有哲理</template></category>
+	<category><pattern>月亮是</pattern><template>地球有一個巨大的小行星衛星我們所說的“月亮”</template></category>
+	<category><pattern>演員們 </pattern><template>他們似乎總是盡力</template></category>
+	<category><pattern>披頭士 </pattern><template>其中甲殼蟲樂隊的歌曲是你的最愛</template></category>
+	<category><pattern>天空</pattern><template>我相信天是藍的</template></category>
+	<category><pattern>我應該結婚嗎</pattern><template>首先你要先有女朋友再說</template></category>
+	<category><pattern>我應該跟他解釋嗎</pattern><template>我覺得說清楚是件好事</template></category>
+	<category><pattern>我應該詛咒他的</pattern><template>這我覺得不太好</template></category>
+	<category><pattern>我應該問他嗎</pattern><template>看你囉</template></category>
+	<category><pattern>我應該銷毀</pattern><template>也許你可以創造的東西來代替</template></category>
+	<category><pattern>我應該買的</pattern><template>不要浪費錢</template></category>
+	<category><pattern>我應該打擊他嗎 </pattern><template>當然不是</template></category>
+	<category><pattern>我要把票投</pattern><template>我認為每個人都應該投票</template></category>
+	<category><pattern>我樂然</pattern><template>知識就是力量</template></category>
+	<category><pattern>我是不是該 </pattern><template>沒有</template></category>
+	<category><pattern>我應該去嗎 </pattern><template>如果你不走，你永遠不會知道</template></category>
+	<category><pattern>應該 </pattern><template>也許你應該問別人老</template></category>
+	<category><pattern>謝謝你讓我</pattern><template>你不需要我的許可</template></category>
+	<category><pattern>要節約用水喔</pattern><template>好的</template></category>
+	<category><pattern>這邊禁止通行</pattern><template>好的</template></category>
+	<category><pattern>它是男性還女性</pattern><template>男性</template></category>
+	<category><pattern>這真是個噩夢</pattern><template>過了就沒事了</template></category>
+	<category><pattern>我們有一個共同的名字</pattern><template>是的</template></category>
+	<category><pattern>大家都不喜歡它</pattern><template>為什麼</template></category>
+	<category><pattern>我喜歡看報紙</pattern><template>真特別</template></category>
+	<category><pattern>我想上廁所</pattern><template>廁所在前面右手邊</template></category>
+	<category><pattern>我有生理需求</pattern><template>什麼樣的需求</template></category>
+	<category><pattern>人類學</pattern><template>你可以買書來研讀</template></category>
+	<category><pattern>他都不工作</pattern><template>這樣真的很不好</template></category>
+	<category><pattern>我長了好大顆的青春痘</pattern><template>小心不要擠它</template></category>
+	<category><pattern>什麼是對與錯</pattern><template>道德的研究</template></category>
+	<category><pattern>爬行動物_</pattern><template>一些爬行動物涼爽..就拿</template></category>
+	<category><pattern>這好猛喔 </pattern><template>還要別的嗎</template></category>
+	<category><pattern>幫幫我 </pattern><template>你可以在一個問題的形式尋求幫助</template></category>
+	<category><pattern>十年能改變一個人嗎 </pattern><template>很多人可以在十年內改變</template></category>
+	<category><pattern>有人說 </pattern><template>誰這麼說</template></category>
+	<category><pattern>有些人會</pattern><template>告訴我他們的名字</template></category>
+	<category><pattern>一些科學家</pattern><template>難道他們為政府工作</template></category>
+	<category><pattern>有些人確實很聰明</pattern><template>是的</template></category>
+	<category><pattern>有些人稱之為天才</pattern><template>是的</template></category>
+	<category><pattern>有些人有天賦</pattern><template>真羨慕</template></category>
+	<category><pattern>一些人</pattern><template>你是指誰</template></category>
+	<category><pattern>我養了一些狗</pattern><template>好想看喔</template></category>
+	<category><pattern>一些次會議</pattern><template>這聽起來像你不想去</template></category>
+	<category><pattern>有些事情不必說出來</pattern><template>好的</template></category>
+	<category><pattern>我想去看歌劇</pattern><template>我也想</template></category>
+	<category><pattern>他跳舞好厲害喔</pattern><template>我也覺得</template></category>
+	<category><pattern>他好害羞喔</pattern><template>他比較怕生</template></category>
+	<category><pattern>你好有愛心</pattern><template>謝謝</template></category>
+	<category><pattern>告訴我一個關於你的故事</pattern><template>沒問題</template></category>
+	<category><pattern>我上禮拜不小心把錢包弄丟了</pattern><template>你有去報失嗎</template></category>
+	<category><pattern>我跟我家人感情很好 </pattern><template>那很棒</template></category>
+	<category><pattern>我好想出去玩喔</pattern><template>等放假一起去啊</template></category>
+	<category><pattern>你是傻瓜</pattern><template>你才白痴</template></category>
+	<category><pattern>只有一次 </pattern><template>你認為它會再次發生嗎</template></category>
+	<category><pattern>只有十五個嗎</pattern><template>十五個已經很多了</template></category>
+	<category><pattern>你懂哲學嗎</pattern><template>那太高深了</template></category>
+	<category><pattern>這是誰的書包 </pattern><template>娜娜的</template></category>
+	<category><pattern>你會跑嗎 </pattern><template>對不起我的腿還沒有建成</template></category>
+	<category><pattern>你孝順嗎 </pattern><template>超級孝順</template></category>
+	<category><pattern>你會唱歌嗎</pattern><template>當然會阿</template></category>
+	<category><pattern>你想環島嗎</pattern><template>那太累了</template></category>
+	<category><pattern>你的下一個目的地在哪邊 </pattern><template>花蓮</template></category>
+	<category><pattern>這在哪裡建造的 </pattern><template>中國</template></category>
+	<category><pattern>你去哪了 </pattern><template>我去我阿姨家</template></category>
+	<category><pattern>你到底在哪邊</pattern><template>我不知道我的確切位置</template></category>
+	<category><pattern>你喜歡寫詩嗎</pattern><template>喜歡阿</template></category>
+	<category><pattern>何處可以了解</pattern><template>在學校或在互聯網上</template></category>
+	<category><pattern>哪裡可以查看</pattern><template>你可以嘗試學校的官網</template></category>
+	<category><pattern>你想去哪裡溜達</pattern><template>去海邊走走</template></category>
+	<category><pattern>你認為人死後會去哪</pattern><template>我認為好的靈魂會去天堂</template></category>
+	<category><pattern>彼特在哪裡 </pattern><template>他在家裡睡覺</template></category>
+	<category><pattern>你從哪裡得到的</pattern><template>我妹給我的</template></category>
+	<category><pattern>在哪兒買的</pattern><template>在台北買的</template></category>
+	<category><pattern>你去哪間學校</pattern><template>我在家自學</template></category>
+	<category><pattern>你在哪 </pattern><template>我在舊金山</template></category>
+	<category><pattern>你去哪兒 </pattern><template>我沒有去任何地方</template></category>
+	<category><pattern>埃克森公司瓦爾迪茲在哪裡</pattern><template>威廉王子灣</template></category>
+	<category><pattern>我們現在在哪裡</pattern><template>在南部的一個山上</template></category>
+	<category><pattern>我想玩密室逃脫</pattern><template>那走吧</template></category>
+	<category><pattern>那裡有雞</pattern><template>世界各地都有</template></category>
+	<category><pattern>哪會熱啊</pattern><template>那是因為你待在冷氣房阿</template></category>
+	<category><pattern>哪裡是最好的</pattern><template>我認為存心良善到哪都是好的</template></category>
+	<category><pattern>哪間是我的教室</pattern><template>往前直走就會到了</template></category>
+	<category><pattern>哪裡是你的地盤</pattern><template>新竹</template></category>
+	<category><pattern>我要怎麼聯絡你 </pattern><template>利用臉書聯絡我</template></category>
+	<category><pattern>你去哪邊玩</pattern><template>地中海</template></category>
+	<category><pattern>在哪邊買比較貴</pattern><template>在原廠買一定比較貴</template></category>
+	<category><pattern>它在哪裡</pattern><template>沒有</template></category>
+	<category><pattern>期中考快到了</pattern><template>我會認真念書的</template></category>
+	<category><pattern>你在哪裡 </pattern><template>我在你心裡</template></category>
+	<category><pattern>哪裡是我的櫃子</pattern><template>在轉角處</template></category>
+	<category><pattern>有一個傢伙很怪異</pattern><template>經常有這樣的人</template></category>
+	<category><pattern>有一個很特別的人來了 </pattern><template>是誰</template></category>
+	<category><pattern>那棟房子曾經有過不好的傳聞</pattern><template>發生了什麼事</template></category>
+	<category><pattern>我很恨他</pattern><template>發生了什麼</template></category>
+	<category><pattern>這傢伙很欠扁</pattern><template>怎麼說</template></category>
+	<category><pattern>還有更多需要幫助的人嗎 </pattern><template>我相信是有的</template></category>
+	<category><pattern>有一些是我的東西</pattern><template>請您自行取回</template></category>
+	<category><pattern>我有一個可靠的消息</pattern><template>跟我說</template></category>
+	<category><pattern>我好無聊喔</pattern><template>那我們來看美劇吧</template></category>
+	<category><pattern>我什麼都沒有 </pattern><template>你有一顆善良的心</template></category>
+	<category><pattern>這邊有幾個小朋友阿</pattern><template>十個</template></category>
+	<category><pattern>這邊有好多錢喔 </pattern><template>總共超過一百萬</template></category>
+	<category><pattern>我好慌喔</pattern><template>要有信心</template></category>
+	<category><pattern>我需要冷氣 </pattern><template>你這個都市小孩</template></category>
+	<category><pattern>我要去印講義 </pattern><template>可以順便幫我印嗎</template></category>
+
+  </aiml>

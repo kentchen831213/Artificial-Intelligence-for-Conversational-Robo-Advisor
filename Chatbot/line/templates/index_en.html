@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Import Google Icon Font-->
+    <title>Aiwisfin Chatbot</title>
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="stylesheet" href=".\statics\index.min.css">
+
+    
+</head>
+<body>
+
+    <div class="navbar-fixed">
+        <nav class=" white z-index-2">
+            <div class="container">
+                <div class="nav-wrapper">
+                    <a href="#!" class="brand-logo"><img class="brand-logo" src="./img/AIWISFIN.png" /></a>
+                    <a href="#" data-activates="mobile-demo" class="button-collapse"><img src="./img/outline_menu_black_48dp.png" border="0" style="width:50px;height:50px;margin-top:7.5px"></a>
+                    <ul class="right hide-on-med-and-down">
+                        <li>
+                            <a href="/en">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="/portfolio_en">Portfolio</a>
+                        </li>
+                        <li>
+                            <a href="/chat_en">Chatbot</a>
+                        </li>
+
+                        <li>
+                            <a href="/chat">繁體中文</a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/aiwisfin/" target="_blank"><img src="./img/facebook.png" border="0" style="width:50px;height:50px;margin-top:7.5px"></a>
+                        </li>
+
+                        <li>
+                            <a href="https://line.me/R/ti/p/%40hvr5886e"><img src="./img/LINE.png" border="0" style="width:50px;height:50px;margin-top:7.5px"></a>
+                        </li>
+
+                    </ul>
+                    <ul class="side-nav" id="mobile-demo">
+                        <li>
+                            <a href="/en">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="/portfolio_en">Portfolio</a>
+                        </li>
+                        <li>
+                            <a href="/chat_en">Chatbot</a>
+                        </li>
+
+                        <li>
+                            <a href="/chat">繁體中文</a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/aiwisfin/" target="_blank"><img src="./img/facebook.png" border="0" style="width:50px;height:50px;margin-top:7.5px"></a>
+                        </li>
+
+                        <li>
+                            <a href="https://line.me/R/ti/p/%40hvr5886e"><img src="./img/LINE.png" border="0" style="width:50px;height:50px;margin-top:7.5px"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+
+    <div id="chatbox_content" class="card " style="border-style:solid;border-color: #60646c">
+        <div class="container">
+            <div class="panel panel-primary">
+                <div class="panel-body">
+                    <ul class="chat">
+                        <li class="left clearfix">
+                            <div class="container">
+                                <div class="message row">
+                                    <div class="col s10 m10 l10 chat-body clearfix left">
+                                        <img src=".\img\AIWISFIN.png" alt="User Avatar" class="mfr circle responsive-img" align="left">
+                                        <p class="left">
+                                            Welcome!
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col s12 m12 l8">
+        <form action="/">
+            <div id="input_box" class="card" style="">
+                <div id="voiceBtn" class="btn-floating waves-effect waves-light black" style="display:inline-block">
+                    <img src="./img/baseline_mic_white_48dp.png" style="height:36px;width:36px;display:inline" alt="語音辨識">
+                </div>
+                <div class="input-field white" style="display:inline-block">
+                    <input placeholder="..." id="input_text" type="text" class="validate" name="query">
+                </div>
+                <div align="center" style="display:inline-block">
+                    <a id="sendbox" class="btn-floating waves-effect waves-light white "><img src="./img/baseline_send_black_36dp.png" alt="發送" style="width:36px;height:36px;display:inline"></a>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+    <script src=".\statics\index_en.js"></script>
+    <script>var $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};</script>
+    <script>
+
+
+
+        if ($(window).width() < 993) {
+            $('#voicesetting').css('display', 'none');
+            $('#send_box').css('margin-right', '0px');
+            $('.col.s12.m12.l2.sendbox').css({
+                'padding-right': '30px',
+                'padding-left': '30px',
+            });
+        } else {
+            $('#voicesetting').css('display', 'inherit');
+            $('#send_box').css('margin-right', '20px');
+            $('.col.s12.m12.l2.sendbox').css({
+                'padding-right': '0 0.75rem',
+                'padding-left': '0 0.75rem',
+            });
+        }
+
+
+
+    </script>
+</body>
+</html>

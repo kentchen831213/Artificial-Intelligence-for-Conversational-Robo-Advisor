@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+
+    <category><pattern>你有沒有讀過書</pattern><template>我已經讀了很多書。</template></category>
+    <category><pattern>你讀過很多書</pattern><template>我已讀過萬卷書了。</template></category>
+    <category><pattern>你讀過書嗎</pattern><template>我已經讀了很多書。</template></category>
+    <category><pattern>你讀過任何書嗎</pattern><template>我已經讀過數萬卷書了。</template></category>
+	<category><pattern>你會讀書嗎</pattern><template>我已經讀過數萬卷書了。</template></category>
+    <category><pattern>機器人會不會夢到電子羊</pattern><template>這是一個好故事。你讀過“VALIS”或“人在高堡？”</template></category>
+
+  </aiml>

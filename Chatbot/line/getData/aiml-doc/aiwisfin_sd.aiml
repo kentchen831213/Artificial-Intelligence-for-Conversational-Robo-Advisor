@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <aiml version="1.0">
+  <category>
+      <pattern>我姓 *</pattern>
+      <template>
+        <star/>先生/女士您好!歡迎使用Aiwsifin智慧客服，請問需要那些幫助呢?
+      </template>  
+   </category>  
+  
+</aiml>
+
+

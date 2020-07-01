@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>85116f28-c06c-4eee-8196-11cdd30bc8f9</TargetProject>
+    <FriendlyName>line</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\billy\AppData\Local\Temp\line_20180907.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
