@@ -15,4 +15,4 @@ tabulate==0.7.7
 urllib3==1.22
 Werkzeug==0.12.2
 pandas==0.22.0
-tensorflow==0.12.1
+tensorflow==1.15.4
